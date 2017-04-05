@@ -2,7 +2,7 @@
 
 ## Home
 
-* [About](README.md)
+* [Ran He](README.md)
 * [List of Publications](en/list-of-publications.md)
 
 ## 中文
