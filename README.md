@@ -1,4 +1,6 @@
-# Ran He
+# Hello, I'm Ran He
 
-Welcome to **Ran He**'s personal website.
+Welcome to my personal website.
+
+I am Researcher with The Univerisity of Tokyo. 
 
