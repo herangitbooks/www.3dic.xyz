@@ -2,7 +2,7 @@
 
 \[1\]    **Ran He**, Masahisa Fujino, Sakai Taiji, Sakuyama Seiki, and Tadatomo Suga, Cu/Adhesive Hybrid Bonding By Using H-containing HCOOH Vapor Treatment at sub-200 °C. _Applied Surface Science_, Vol. 414, pp. 163–170, August, 2017. doi: [10.1016/j.apsusc.2017.03.168](/dx.doi.org/10.1016/j.apsusc.2017.03.168) \([pdf](http://www.3dic.org/images/5/54/2017_He._H-containing_HCOOH_vapor_treatment_for_hybrid_bonding.pdf)\)
 
-\[2\]    **Ran He**, Masahisa Fujino, Akira Yamauchi, Yinghui Wang, and Tadatomo Suga. Combined Surface Activated Bonding Technique for Low-Temperature Cu/Dielectric Hybrid Bonding. _ECS Journal of Solid State Science and Technology_, Vol. 5, No. 7, pp. P419–P424, May, 2016. doi: [10.1149/2.0201607jss](/dx.doi.org/10.1149/2.0201607jss)
+\[2\]    **Ran He**, Masahisa Fujino, Akira Yamauchi, Yinghui Wang, and Tadatomo Suga. Combined Surface Activated Bonding Technique for Low-Temperature Cu/Dielectric Hybrid Bonding. _ECS Journal of Solid State Science and Technology_, Vol. 5, No. 7, pp. P419–P424, May, 2016. doi: [10.1149/2.0201607jss](/dx.doi.org/10.1149/2.0201607jss) \([pdf](http://www.3dic.org/images/4/4d/2016_He_Combined_Surface_Activated_Bonding_For_Cu_Dielectric_Hybrid_Bonding.pdf)\)
 
 \[3\]    **Ran He**, Masahisa Fujino, Akira Yamauchi, and Tadatomo Suga. Combined Surface-Activated Bonding Technique for Low-Temperature Hydrophilic Direct Wafer Bonding. _Japanese Journal of Applied Physics_, Vol. 55, No. 4S, pp. 04EC02-1–04EC02-5, April, 2016. doi: [10.7567/JJAP.55.04EC02](/dx.doi.org/10.7567/JJAP.55.04EC02)
 
