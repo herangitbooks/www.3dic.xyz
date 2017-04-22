@@ -1,6 +1,6 @@
 ### Journal Papers
 
-\[1\]    **Ran He**, Masahisa Fujino, Sakai Taiji, Sakuyama Seiki, and Tadatomo Suga, Cu/Adhesive Hybrid Bonding By Using H-containing HCOOH Vapor Treatment at sub-200 °C. _Applied Surface Science_, Vol. 414, pp. 163–170, August, 2017. doi: [10.1016/j.apsusc.2017.03.168](/dx.doi.org/10.1016/j.apsusc.2017.03.168)
+\[1\]    **Ran He**, Masahisa Fujino, Sakai Taiji, Sakuyama Seiki, and Tadatomo Suga, Cu/Adhesive Hybrid Bonding By Using H-containing HCOOH Vapor Treatment at sub-200 °C. _Applied Surface Science_, Vol. 414, pp. 163–170, August, 2017. doi: [10.1016/j.apsusc.2017.03.168](/dx.doi.org/10.1016/j.apsusc.2017.03.168) \([pdf](http://www.3dic.org/images/5/54/2017_He._H-containing_HCOOH_vapor_treatment_for_hybrid_bonding.pdf)\)
 
 \[2\]    **Ran He**, Masahisa Fujino, Akira Yamauchi, Yinghui Wang, and Tadatomo Suga. Combined Surface Activated Bonding Technique for Low-Temperature Cu/Dielectric Hybrid Bonding. _ECS Journal of Solid State Science and Technology_, Vol. 5, No. 7, pp. P419–P424, May, 2016. doi: [10.1149/2.0201607jss](/dx.doi.org/10.1149/2.0201607jss)
 
