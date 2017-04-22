@@ -1,14 +1,12 @@
 # Hello, I'm Ran He
 
-> **Current position**: Project Researcher, Department of Precision Engineering, The University of Tokyo.
->
-> **Research interests**: low-temperature bonding \(especially surface activated bonding method and Cu/dielectric hybrid bonding\),  semiconductor advanced packaging, 3D interconnects, 3D IC, etc.
->
-> **E-mail**: he.ran\(at\)su.t.u-tokyo.ac.jp, he.ran\(at\)live.com
->
-> **Personal website**: [www.3dic.xyz](https://www.3dic.xyz)
->
-> **LinkedIn**: [linkedin.com/in/heran](http://linkedin.com/in/heran)
+**Current position**: Project Researcher, Department of Precision Engineering, The University of Tokyo.
+
+**Research interests**: low-temperature bonding \(especially surface activated bonding method and Cu/dielectric hybrid bonding\),  semiconductor advanced packaging, 3D interconnects, 3D IC, etc.
+
+**E-mail**: he.ran\(at\)su.t.u-tokyo.ac.jp, he.ran\(at\)live.com
+
+**Personal website**: [www.3dic.xyz](https://www.3dic.xyz), **LinkedIn**: [linkedin.com/in/heran](http://linkedin.com/in/heran)
 
 ## EXPERIENCE
 
@@ -16,7 +14,7 @@
 
 Department of Precision Engineering, School of Engineering, The University of Tokyo, Tokyo, Japan
 
-**Research Subjects**: Process development of 
+**Research Subjects**: Process development of
 
 1. Wafer-level SiO2-SiO2 bonding at below 200 °C, 
 2. Cu-Cu direct bonding for power device packaging, and 
@@ -26,7 +24,7 @@ Department of Precision Engineering, School of Engineering, The University of To
 
 Department of Precision Engineering, School of Engineering, The University of Tokyo, Tokyo, Japan
 
-**Research Subjects**: Combined surface activation approaches for 
+**Research Subjects**: Combined surface activation approaches for
 
 1. Dielectric \(SiO2-SiO2 and SiO2-SiNx\) and
 2. Cu/dielectric \(SiO2, SiNx, polymer adheisve\) hybrid bonding for 3D integration.
@@ -37,7 +35,7 @@ Department of Precision Engineering, School of Engineering, The University of To
 
 Department of Precision Engineering, School of Engineering, The University of Tokyo \(東京大学\), Tokyo, Japan
 
-**Research Subjects**: Combined Surface Activation Approaches to Low-Temperature Wafer Bonding for 3D Integration: 
+**Research Subjects**: Combined Surface Activation Approaches to Low-Temperature Wafer Bonding for 3D Integration:
 
 1. Development of new wafer surface activation methods for low-temperature \(≤200 °C\) dielectric \(SiO2-SiO2 and SiO2-SiNx\) and Cu/dielectric \(SiO2, SiNx, polymer\) hybrid bonding, 
 2. Chemical/mechanical/electrical/microstructure characterization of the bonding surface/interface, and
@@ -47,7 +45,7 @@ Department of Precision Engineering, School of Engineering, The University of To
 
 Institute of Microelectronics, Chinese Academy of Sciences \(中国科学院微电子研究所\), Beijing, China
 
-**Research Subjects**: 
+**Research Subjects**:
 
 1. Development of through-silicon vias \(TSVs\) filling process by using Cu-cored solder ball, in charge of the thermal-mechanical simulation, and process planning and running \(photolithography, reactive ion etching, Ti/Cu sputtering deposition, TSV fill, etc.\), 
 2. Si-based 3D PN junction capacitor for passive integration on Si interposer, assisting the process optimizing and testing of the capacitor.
