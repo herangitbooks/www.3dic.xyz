@@ -2,7 +2,7 @@
 
 **Current position**: Project Researcher, Department of Precision Engineering, The University of Tokyo.
 
-**Research interests**: low-temperature bonding \(especially surface activated bonding method and Cu/dielectric hybrid bonding\),  semiconductor advanced packaging, 3D interconnects, 3D IC, etc.
+**Research interests**: low-temperature bonding \(especially surface activated bonding method and Cu/dielectric hybrid bonding\),  semiconductor advanced packaging, 3D interconnects, and 3D IC technology.
 
 **E-mail**: he.ran\(at\)su.t.u-tokyo.ac.jp, he.ran\(at\)live.com
 
