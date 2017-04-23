@@ -18,7 +18,7 @@ Department of Precision Engineering, School of Engineering, The University of To
 
 1. Wafer-level SiO2-SiO2 bonding at below 200 °C, 
 2. Cu-Cu direct bonding for power device packaging, and 
-3. Cu/adhesive hybrid bonding at 180 °C for 3D integration/packaging.
+3. Cu/adhesive hybrid bonding at 180-200 °C for 3D integration/packaging.
 
 ### Technical Assistant, The University of Tokyo, Oct. 2015 — Jun. 2016
 
@@ -33,7 +33,7 @@ Department of Precision Engineering, School of Engineering, The University of To
 
 ### Ph.D., The University of Tokyo, Oct. 2012 — May 2016
 
-Department of Precision Engineering, School of Engineering, The University of Tokyo \(東京大学\), Tokyo, Japan
+Department of Precision Engineering, School of Engineering, The University of Tokyo, Tokyo, Japan
 
 **Research Subjects**: Combined Surface Activation Approaches to Low-Temperature Wafer Bonding for 3D Integration:
 
@@ -43,7 +43,7 @@ Department of Precision Engineering, School of Engineering, The University of To
 
 ### M. E., Chinese Academy of Sciences, Sep. 2009 — Jul. 2012
 
-Institute of Microelectronics, Chinese Academy of Sciences \(中国科学院微电子研究所\), Beijing, China
+Institute of Microelectronics, Chinese Academy of Sciences, Beijing, China
 
 **Research Subjects**:
 
@@ -52,7 +52,7 @@ Institute of Microelectronics, Chinese Academy of Sciences \(中国科学院微�
 
 ### B. E., Huazhong University of Science and Technology, Sep. 2005 — Jul. 2009
 
-Department of Electronic Science and Technology, Huazhong University of Science and Technology \(华中科技大学\), Wuhan, China
+Department of Electronic Science and Technology, Huazhong University of Science and Technology, Wuhan, China
 
 One year of experience with Barium Strontium Titanate \(Ba1-xSrxTiO3, BST\) ferroelectric ceramics and SnO2 gas sensor research and development.
 
