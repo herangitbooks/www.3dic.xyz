@@ -1,6 +1,6 @@
 # Cu/Adhesive Hybrid Bonding at Sub-200 °C for 3D Integration {#tit0005}
 
-Cu/adhesive hybrid bonding is an attractive approach to three-dimensional \(3D\) integration because it provides direct Cu–Cu vertical interconnects and high mechanical stability. However, Cu/adhesive hybrid bonding at below 200 °C is still challenging because of **bonding temperature mismatch** between Cu–Cu and polymer adhesives and lacking of effective adhesive-friendly Cu surface activation methods.
+Cu/adhesive hybrid bonding is an attractive approach to three-dimensional \(3D\) integration because it provides direct Cu–Cu vertical interconnects and high mechanical stability. However, Cu/adhesive hybrid bonding at below 200 °C is still challenging because of **bonding temperature mismatch** between Cu–Cu and polymer adhesives and lacking of effective **adhesive-friendly Cu surface activation** methods.
 
 ## Research Highlights
 
@@ -13,9 +13,15 @@ Cu/adhesive hybrid bonding is an attractive approach to three-dimensional \(3D\)
 
 ## Cu-first Hybrid Bonding approach in H-containing HCOOH vapor ambient
 
-In this work, we investigate and demonstrate a “Cu-first” hybrid bonding technique by using hydrogen\(H\)-containing formic acid \(HCOOH\) vapor prebonding surface treatment as shown in Figure 1. In this technique, high-quality Cu–Cu bonding is obtained at 180–200 °C that is close to or even lower than the temperature of subsequent adhesive curing. We experimentally investigate the effects of the H-containing HCOOH vapor treatment for Cu–Cu bonding and cyclo-olefin polymer adhesive–adhesive bonding. This technique enables Cu/adhesive hybrid bonding at below 200 °C, promising smaller thermal stress, higher throughput, and lower cost comparing to the existing “adhesive-first” hybrid bonding method.
+In this work, we investigate a “Cu-first” hybrid bonding technique by using H-containing HCOOH vapor prebonding surface treatment. In this technique, high-quality Cu–Cu bonding is obtained at 180–200 °C that is close to or even lower than the temperature of subsequent adhesive curing. We experimentally investigate the effects of the H-containing HCOOH vapor treatment for Cu–Cu bonding and cyclo-olefin polymer adhesive–adhesive bonding. This technique enables Cu/adhesive hybrid bonding at below 200 °C, promising smaller thermal stress, higher throughput, and lower cost comparing to the existing “adhesive-first” hybrid bonding method.
 
-> #### ![](/img/Cu-first-hybrid-bonding.png)  Figure 1. Process flow of the Cu-first Hybrid Bonding approach conducted in H-containing HCOOH vapor ambient
+The bonding process simply consists of H-containing HCOOH vapor prebonding treatment, thermo-compression bonding, and postbonding adhesive curing, as illustrated in Figure 1.
+
+> ##### ![](/img/Cu-first-hybrid-bonding.png)  Figure 1. Process flow of the Cu-first Hybrid Bonding approach conducted in H-containing HCOOH vapor ambient.
+
+Shear strength measurements were used to characterize the bond strength. The bonded sample was ﬁxed on the shear test stage by jigs and then a shear force was applied on the edge of the upper \(smaller\) chip by the shear head. The height of the shear head was 50 m above the surface of the bottom \(larger\) chip. The maximum shear force of the shear tester was 640 N. Scanning electron microscope \(SEM\) \(JEOL JCM-5000\) was used to observe the Cu–Cu bond and Cu/adhesive hybrid bond interfaces.
+
+> ##### ![](/img/Cu-adhesive-hybrid-bonding-results.png)Figure 2. Bonding experiment results: bond strengh \(left\) and bonded interface \(right\).
 
 ## **Publication**
 
