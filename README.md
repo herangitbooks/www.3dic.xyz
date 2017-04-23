@@ -6,7 +6,7 @@
 
 **E-mail**: he.ran\(at\)su.t.u-tokyo.ac.jp, he.ran\(at\)live.com
 
-**Personal website**: [www.3dic.xyz](https://www.3dic.xyz), **LinkedIn**: [linkedin.com/in/heran](http://linkedin.com/in/heran)
+**Personal website**: [www.3dic.xyz](https://www.3dic.xyz), **LinkedIn**: [linkedin.com/in/heran](http://linkedin.com/in/heran), **WeChat**: iheran
 
 ## EXPERIENCE
 
