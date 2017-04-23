@@ -6,7 +6,7 @@
 
 **E-mail**: he.ran\(at\)su.t.u-tokyo.ac.jp, he.ran\(at\)live.com
 
-**Personal website**: [www.3dic.xyz](https://www.3dic.xyz), **LinkedIn**: [linkedin.com/in/heran](http://linkedin.com/in/heran), **WeChat**: iheran
+**Personal website**: [www.3dic.xyz](https://www.3dic.xyz), **LinkedIn**: [linkedin.com/in/heran](http://linkedin.com/in/heran), **WeChat**: iheran, [**Google Scholar**](https://scholar.google.com/citations?user=MQ0LqzYAAAAJ): [MQ0LqzYAAAAJ](https://scholar.google.com/citations?user=MQ0LqzYAAAAJ)
 
 ## EXPERIENCE
 
