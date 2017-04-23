@@ -10,7 +10,9 @@
 
 \[5\]    **Ran He**, Huijuan Wang, Daquan Yu, Jing Zhou, Fengwei Dai, Chongshen Song, Yu Sun, and Lixi Wan. High-speed through-silicon via filling method using Cu-cored solder balls. _J. Semicond._, vol. 33, no. 8, pp. 086002-1–086002-4, Aug. 2012. doi: [10.1088/1674-4926/33/8/086002](/dx.doi.org/10.1088/1674-4926/33/8/086002)
 
-\[6\] .  Fengwen Mu, Kenichi Iguchi, Haruo Nakazawa, Yoshikazu Takahashi, **Ran He**, Masahisa Fujino, and Tadatomo Suga. Room Temperature SiC-SiO2 Wafer Bonding Enhanced by Using an Intermediate Si Nano Layer, _ECS J. Solid State Sci. Technol._, vol. 6, no. 5, pp. P227–P230, Jan. 2017. Available: http://dx.doi.org/10.1149/2.0081705jss
+### Co-authered Journal Papers
+
+\[6\]   Fengwen Mu, Kenichi Iguchi, Haruo Nakazawa, Yoshikazu Takahashi, **Ran He**, Masahisa Fujino, and Tadatomo Suga. Room Temperature SiC-SiO2 Wafer Bonding Enhanced by Using an Intermediate Si Nano Layer, _ECS J. Solid State Sci. Technol._, vol. 6, no. 5, pp. P227–P230, Jan. 2017. Available: [http://dx.doi.org/10.1149/2.0081705jss](http://dx.doi.org/10.1149/2.0081705jss)
 
 \[7\]    Fengwen Mu, Kenichi Iguchi, Haruo Nakazawa, Yoshikazu Takahashi, Masahisa Fujino, **Ran He**, and Tadatomo Suga. A comparison study: Direct wafer bonding of SiC–SiC by standard surface-activated bonding and modified surface-activated bonding with Si-containing Ar ion beam. _Applied Physics Express_, vol. 9, no. 8, pp. 081302-1–081302-4, Aug. 2016. doi: [10.7567/APEX.9.081302](/dx.doi.org/10.7567/APEX.9.081302)
 
