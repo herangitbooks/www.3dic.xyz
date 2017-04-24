@@ -10,7 +10,7 @@
 
 \[5\]    **Ran He**, Huijuan Wang, Daquan Yu, Jing Zhou, Fengwei Dai, Chongshen Song, Yu Sun, and Lixi Wan. High-speed through-silicon via filling method using Cu-cored solder balls. _J. Semicond._, vol. 33, no. 8, pp. 086002-1–086002-4, Aug. 2012. doi: [10.1088/1674-4926/33/8/086002](/dx.doi.org/10.1088/1674-4926/33/8/086002)
 
-### Co-authered Journal Papers
+### Co-authored Journal Papers
 
 \[6\]   Fengwen Mu, Kenichi Iguchi, Haruo Nakazawa, Yoshikazu Takahashi, **Ran He**, Masahisa Fujino, and Tadatomo Suga. Room Temperature SiC-SiO2 Wafer Bonding Enhanced by Using an Intermediate Si Nano Layer, _ECS J. Solid State Sci. Technol._, vol. 6, no. 5, pp. P227–P230, Jan. 2017. Available: [http://dx.doi.org/10.1149/2.0081705jss](http://dx.doi.org/10.1149/2.0081705jss)
 
@@ -56,5 +56,25 @@
 
 \[25\]    **Ran He**, Congshen Song, Fengwei Dai, Huijuan Wang, and Daquan Yu. Development and thermo-mechanical stress analysis of TSVs filling with Sn-based intermetallics. Proceedings of 13th International Conference on Electronic Packaging Technology and High Density Packaging \(ICEPT-HDP 2012\), China pp. 36–39, 2012.
 
-\[26\]    **Ran He**, Huijuan Wang, Jing Zhou, Xueping Guo, Daquan Yu, and Lixi Wan. Nonlinear thermo-mechanical analysis of TSV interposer filling with solder, Cu and Cu-cored solder. Proceedings of 12th International Conference on Electronic Packaging Technology and High Density Packaging \(ICEPT-HDP 2011\), Shanghai, pp. 1–4, 2011. \(Outstanding Paper Award\)
+\[26\]    D. Yu, X. Liu, **R. He**, X. Jing, C. Song, F. Dai, Y. Sun, and L. Wan, “Development of new TSV structure composing of intermetallic compounds,” in 2012 IEEE 14th Electronics Packaging Technology Conference \(EPTC\), 2012, pp. 360–363. Available: http://dx.doi.org/10.1109/EPTC.2012.6507108
+
+\[27\]    X. Liu, X. Wu, W. Chen, **R. He**, and D. Yu, “Development of large die assembly process based on simulation and experiments of underfill materials selection,” in 2012 13th International Conference on Electronic Packaging Technology High Density Packaging, 2012, pp. 401–404. Available: http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474644
+
+\[28\]    C. Song, **R. He**, D. Yu, and L. Wan, “Comprehensive analysis of thermal mechanical stress induced by Cu TSV and its impact on device performance,” in 2012 13th International Conference on Electronic Packaging Technology High Density Packaging
+
+, 2012, pp. 85–89. Available: http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474575
+
+\[29\]    Y. Sun, D. Yu, **R. He**, F. Dai, X. Sun, and L. Wan, “The development of low cost Through Glass Via \(TGV\) interposer using additive method for via filling,” in 2012 13th International Conference on Electronic Packaging Technology High Density Packaging, 2012, pp. 49–51. Available: http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474566
+
+\[30\]    H. Wang, D. Yu, **R. He**, L. Cao, T. Du, and L. Wan, “The development of wafer-level 3D high-density junction capacitor for passive device integration in SiP,” in 2012 4th Electronic System-Integration Technology Conference, 2012, pp. 1–5. Available: http://dx.doi.org/10.1109/ESTC.2012.6542102
+
+\[31\]    H. Wang, D. Yu, **R. He**, L. Cao, and L. Wan, “A study of electrical character of 3D high-density junction capacitor for SiP,” in 
+
+2012 13th International Conference on Electronic Packaging Technology High Density Packaging, 2012, pp. 1600–1603. Available: http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474913
+
+\[32\]    **Ran He**, Huijuan Wang, Jing Zhou, Xueping Guo, Daquan Yu, and Lixi Wan. Nonlinear thermo-mechanical analysis of TSV interposer filling with solder, Cu and Cu-cored solder. Proceedings of 12th International Conference on Electronic Packaging Technology and High Density Packaging \(ICEPT-HDP 2011\), Shanghai, pp. 1–4, 2011. \(Outstanding Paper Award\)
+
+\[33\]    H. Wang, D. Yu, **R. He**, F. Dai, L. Cao, and L. Wan, “Mechanical and electronic analysis of 3D embedded capacitor filling with conductive adhesive,” in 2011 12th International Conference on Electronic Packaging Technology and High Density Packaging, 2011, pp. 1–4. Available: http://dx.doi.org/10.1109/ICEPT.2011.6066928
+
+\[34\]    J. Zhou, D. Yu, **R. He**, F. WeiDai, X. Guo, C. Song, H. Wang, D. Guidotti, L. Cao, and L. Wan, “Nonlinear thermal stress-strain analysis of through silicon vias with different structures and polymer filling,” in 2011 IEEE 13th Electronics Packaging Technology Conference, 2011, pp. 686–690. Available: http://dx.doi.org/10.1109/EPTC.2011.6184505
 
