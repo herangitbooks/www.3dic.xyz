@@ -56,25 +56,25 @@
 
 \[25\]    **Ran He**, Congshen Song, Fengwei Dai, Huijuan Wang, and Daquan Yu. Development and thermo-mechanical stress analysis of TSVs filling with Sn-based intermetallics. Proceedings of 13th International Conference on Electronic Packaging Technology and High Density Packaging \(ICEPT-HDP 2012\), China pp. 36–39, 2012.
 
-\[26\]    D. Yu, X. Liu, **R. He**, X. Jing, C. Song, F. Dai, Y. Sun, and L. Wan, “Development of new TSV structure composing of intermetallic compounds,” in 2012 IEEE 14th Electronics Packaging Technology Conference \(EPTC\), 2012, pp. 360–363. Available: http://dx.doi.org/10.1109/EPTC.2012.6507108
+\[26\]    Daquan Yu, Xiaoyang Liu, **Ran He**, Xiangmeng Jing, Chongshen Song, Fengwei Dai, Yu Sun, and Lixi Wan, “Development of new TSV structure composing of intermetallic compounds,” in 2012 IEEE 14th Electronics Packaging Technology Conference \(EPTC\), 2012, pp. 360–363. Available: [http://dx.doi.org/10.1109/EPTC.2012.6507108](http://dx.doi.org/10.1109/EPTC.2012.6507108)
 
-\[27\]    X. Liu, X. Wu, W. Chen, **R. He**, and D. Yu, “Development of large die assembly process based on simulation and experiments of underfill materials selection,” in 2012 13th International Conference on Electronic Packaging Technology High Density Packaging, 2012, pp. 401–404. Available: http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474644
+\[27\]    X. Liu, X. Wu, W. Chen, **R. He**, and D. Yu, “Development of large die assembly process based on simulation and experiments of underfill materials selection,” in 2012 13th International Conference on Electronic Packaging Technology High Density Packaging, 2012, pp. 401–404. Available: [http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474644](http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474644)
 
 \[28\]    C. Song, **R. He**, D. Yu, and L. Wan, “Comprehensive analysis of thermal mechanical stress induced by Cu TSV and its impact on device performance,” in 2012 13th International Conference on Electronic Packaging Technology High Density Packaging
 
-, 2012, pp. 85–89. Available: http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474575
+, 2012, pp. 85–89. Available: [http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474575](http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474575)
 
-\[29\]    Y. Sun, D. Yu, **R. He**, F. Dai, X. Sun, and L. Wan, “The development of low cost Through Glass Via \(TGV\) interposer using additive method for via filling,” in 2012 13th International Conference on Electronic Packaging Technology High Density Packaging, 2012, pp. 49–51. Available: http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474566
+\[29\]    Y. Sun, D. Yu, **R. He**, F. Dai, X. Sun, and L. Wan, “The development of low cost Through Glass Via \(TGV\) interposer using additive method for via filling,” in 2012 13th International Conference on Electronic Packaging Technology High Density Packaging, 2012, pp. 49–51. Available: [http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474566](http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474566)
 
-\[30\]    H. Wang, D. Yu, **R. He**, L. Cao, T. Du, and L. Wan, “The development of wafer-level 3D high-density junction capacitor for passive device integration in SiP,” in 2012 4th Electronic System-Integration Technology Conference, 2012, pp. 1–5. Available: http://dx.doi.org/10.1109/ESTC.2012.6542102
+\[30\]    H. Wang, D. Yu, **R. He**, L. Cao, T. Du, and L. Wan, “The development of wafer-level 3D high-density junction capacitor for passive device integration in SiP,” in 2012 4th Electronic System-Integration Technology Conference, 2012, pp. 1–5. Available: [http://dx.doi.org/10.1109/ESTC.2012.6542102](http://dx.doi.org/10.1109/ESTC.2012.6542102)
 
-\[31\]    H. Wang, D. Yu, **R. He**, L. Cao, and L. Wan, “A study of electrical character of 3D high-density junction capacitor for SiP,” in 
+\[31\]    H. Wang, D. Yu, **R. He**, L. Cao, and L. Wan, “A study of electrical character of 3D high-density junction capacitor for SiP,” in
 
-2012 13th International Conference on Electronic Packaging Technology High Density Packaging, 2012, pp. 1600–1603. Available: http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474913
+2012 13th International Conference on Electronic Packaging Technology High Density Packaging, 2012, pp. 1600–1603. Available: [http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474913](http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474913)
 
 \[32\]    **Ran He**, Huijuan Wang, Jing Zhou, Xueping Guo, Daquan Yu, and Lixi Wan. Nonlinear thermo-mechanical analysis of TSV interposer filling with solder, Cu and Cu-cored solder. Proceedings of 12th International Conference on Electronic Packaging Technology and High Density Packaging \(ICEPT-HDP 2011\), Shanghai, pp. 1–4, 2011. \(Outstanding Paper Award\)
 
-\[33\]    H. Wang, D. Yu, **R. He**, F. Dai, L. Cao, and L. Wan, “Mechanical and electronic analysis of 3D embedded capacitor filling with conductive adhesive,” in 2011 12th International Conference on Electronic Packaging Technology and High Density Packaging, 2011, pp. 1–4. Available: http://dx.doi.org/10.1109/ICEPT.2011.6066928
+\[33\]    H. Wang, D. Yu, **R. He**, F. Dai, L. Cao, and L. Wan, “Mechanical and electronic analysis of 3D embedded capacitor filling with conductive adhesive,” in 2011 12th International Conference on Electronic Packaging Technology and High Density Packaging, 2011, pp. 1–4. Available: [http://dx.doi.org/10.1109/ICEPT.2011.6066928](http://dx.doi.org/10.1109/ICEPT.2011.6066928)
 
-\[34\]    J. Zhou, D. Yu, **R. He**, F. WeiDai, X. Guo, C. Song, H. Wang, D. Guidotti, L. Cao, and L. Wan, “Nonlinear thermal stress-strain analysis of through silicon vias with different structures and polymer filling,” in 2011 IEEE 13th Electronics Packaging Technology Conference, 2011, pp. 686–690. Available: http://dx.doi.org/10.1109/EPTC.2011.6184505
+\[34\]    J. Zhou, D. Yu, **R. He**, F. WeiDai, X. Guo, C. Song, H. Wang, D. Guidotti, L. Cao, and L. Wan, “Nonlinear thermal stress-strain analysis of through silicon vias with different structures and polymer filling,” in 2011 IEEE 13th Electronics Packaging Technology Conference, 2011, pp. 686–690. Available: [http://dx.doi.org/10.1109/EPTC.2011.6184505](http://dx.doi.org/10.1109/EPTC.2011.6184505)
 
