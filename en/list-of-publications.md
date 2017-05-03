@@ -2,7 +2,11 @@
 
 \[1\]    **Ran He**, Masahisa Fujino, Sakai Taiji, Sakuyama Seiki, and Tadatomo Suga, Cu/Adhesive Hybrid Bonding By Using H-containing HCOOH Vapor Treatment at sub-200 °C. _Applied Surface Science_, Vol. 414, pp. 163–170, August, 2017. doi: [10.1016/j.apsusc.2017.03.168](/dx.doi.org/10.1016/j.apsusc.2017.03.168) \([pdf](http://www.3dic.org/images/5/54/2017_He._H-containing_HCOOH_vapor_treatment_for_hybrid_bonding.pdf)\)
 
+> **Abstract** － Cu/adhesive hybrid bonding is an attractive approach to three-dimensional \(3D\) integration because it provides direct Cu-Cu vertical interconnects and high mechanical stability. However, Cu/adhesive hybrid bonding at below 200 °C is still challenging because of bonding temperature mismatch between Cu-Cu and polymer adhesives and lacking of effective adhesive-compatible Cu surface activation methods. In this paper, we investigate and demonstrate a “Cu-ﬁrst” hybrid bonding technique by using hydrogen\(H\)-containing formic acid \(HCOOH\) vapor prebonding surface treatment for the ﬁrst time. In this technique, high-quality Cu-Cu bonding is obtained at 180–200 °C that is close to or even lower than the temperature of subsequent adhesive curing. We experimentally investigate the effects of the H-containing HCOOH vapor treatment for Cu-Cu bonding and cyclo-oleﬁn polymer adhesive–adhesive bonding. This technique enables Cu/adhesive hybrid bonding at below 200 °C, promising smaller thermal stress, higher throughput, and lower cost comparing to the existing “adhesive-ﬁrst” hybrid bonding method.
+
 \[2\]    **Ran He**, Masahisa Fujino, Akira Yamauchi, Yinghui Wang, and Tadatomo Suga. Combined Surface Activated Bonding Technique for Low-Temperature Cu/Dielectric Hybrid Bonding. _ECS Journal of Solid State Science and Technology_, Vol. 5, No. 7, pp. P419–P424, May, 2016. doi: [10.1149/2.0201607jss](/dx.doi.org/10.1149/2.0201607jss) \([pdf](http://www.3dic.org/images/4/4d/2016_He_Combined_Surface_Activated_Bonding_For_Cu_Dielectric_Hybrid_Bonding.pdf)\)
+
+> **Abstract** － Cu/dielectric hybrid bonding at low temperatures of no more than 200°C remains challenging because of the different features of Cu-Cu and dielectric-dielectric \(such as SiO2-SiO2\) bonding. This paper reports a combined surface activated bonding \(SAB\) technique for low-temperature Cu-Cu, SiO2-SiO2, and SiO2-SiNx bonding. This technique involves a combination of surface irradiation using a Si-containing Ar beam and prebonding attach-detach process prior to bonding in vacuum. Wafer bonding experiments were conducted at either room temperature or 200°C. Results of bonding strength measurements, transmission electron microscopy \(TEM\) and energy-dispersive X-ray spectroscopy \(EDS\) observations, and X-ray photoelectron spectroscopy \(XPS\) analysis were reported and discussed to understand the present combined SAB technique.
 
 \[3\]    **Ran He**, Masahisa Fujino, Akira Yamauchi, and Tadatomo Suga. Combined Surface-Activated Bonding Technique for Low-Temperature Hydrophilic Direct Wafer Bonding. _Japanese Journal of Applied Physics_, Vol. 55, No. 4S, pp. 04EC02-1–04EC02-5, April, 2016. doi: [10.7567/JJAP.55.04EC02](/dx.doi.org/10.7567/JJAP.55.04EC02)
 
@@ -60,17 +64,13 @@
 
 \[27\]    X. Liu, X. Wu, W. Chen, **R. He**, and D. Yu, “Development of large die assembly process based on simulation and experiments of underfill materials selection,” in 2012 13th International Conference on Electronic Packaging Technology High Density Packaging, 2012, pp. 401–404. Available: [http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474644](http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474644)
 
-\[28\]    C. Song, **R. He**, D. Yu, and L. Wan, “Comprehensive analysis of thermal mechanical stress induced by Cu TSV and its impact on device performance,” in 2012 13th International Conference on Electronic Packaging Technology High Density Packaging
-
-, 2012, pp. 85–89. Available: [http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474575](http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474575)
+\[28\]    C. Song, **R. He**, D. Yu, and L. Wan, “Comprehensive analysis of thermal mechanical stress induced by Cu TSV and its impact on device performance,” in 2012 13th International Conference on Electronic Packaging Technology High Density Packaging, 2012, pp. 85–89. Available: [http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474575](http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474575)
 
 \[29\]    Y. Sun, D. Yu, **R. He**, F. Dai, X. Sun, and L. Wan, “The development of low cost Through Glass Via \(TGV\) interposer using additive method for via filling,” in 2012 13th International Conference on Electronic Packaging Technology High Density Packaging, 2012, pp. 49–51. Available: [http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474566](http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474566)
 
 \[30\]    H. Wang, D. Yu, **R. He**, L. Cao, T. Du, and L. Wan, “The development of wafer-level 3D high-density junction capacitor for passive device integration in SiP,” in 2012 4th Electronic System-Integration Technology Conference, 2012, pp. 1–5. Available: [http://dx.doi.org/10.1109/ESTC.2012.6542102](http://dx.doi.org/10.1109/ESTC.2012.6542102)
 
-\[31\]    H. Wang, D. Yu, **R. He**, L. Cao, and L. Wan, “A study of electrical character of 3D high-density junction capacitor for SiP,” in
-
-2012 13th International Conference on Electronic Packaging Technology High Density Packaging, 2012, pp. 1600–1603. Available: [http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474913](http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474913)
+\[31\]    H. Wang, D. Yu, **R. He**, L. Cao, and L. Wan, “A study of electrical character of 3D high-density junction capacitor for SiP,” in 2012 13th International Conference on Electronic Packaging Technology High Density Packaging, 2012, pp. 1600–1603. Available: [http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474913](http://dx.doi.org/10.1109/ICEPT-HDP.2012.6474913)
 
 \[32\]    **Ran He**, Huijuan Wang, Jing Zhou, Xueping Guo, Daquan Yu, and Lixi Wan. Nonlinear thermo-mechanical analysis of TSV interposer filling with solder, Cu and Cu-cored solder. Proceedings of 12th International Conference on Electronic Packaging Technology and High Density Packaging \(ICEPT-HDP 2011\), Shanghai, pp. 1–4, 2011. \(Outstanding Paper Award\)
 
