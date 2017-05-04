@@ -6,10 +6,12 @@
 * [List of Publications](en/list-of-publications.md)
 * [赫然简历](zh/jian-li.md)
 
-## Blog
+## Reseach
 
-* [Cu/Oxide Hybrid Bonding](en/Cu-oxide-hybrid-bonding.md)
 * [Cu/Adhesive Hybrid Bonding](en/Cu-adhesive-hybrid-bonding.md)
+* [Cu/Oxide Hybrid Bonding](en/Cu-oxide-hybrid-bonding.md)
 
 ## © www.3DIC.xyz
+
+
 
