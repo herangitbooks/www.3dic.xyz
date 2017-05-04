@@ -8,6 +8,8 @@
 
 **Personal website**: [www.3dic.xyz](https://www.3dic.xyz), **LinkedIn**: [linkedin.com/in/heran](http://linkedin.com/in/heran),  [**Google Scholar**](https://scholar.google.com/citations?user=MQ0LqzYAAAAJ): [MQ0LqzYAAAAJ](https://scholar.google.com/citations?user=MQ0LqzYAAAAJ)
 
+---
+
 ## EXPERIENCE
 
 ### Project Researcher, The University of Tokyo, Jul. 2016 — Present
@@ -28,6 +30,8 @@ Department of Precision Engineering, School of Engineering, The University of To
 
 1. Dielectric \(SiO2-SiO2 and SiO2-SiNx\) and
 2. Cu/dielectric \(SiO2, SiNx, polymer adheisve\) hybrid bonding for 3D integration.
+
+---
 
 ## EDUCATION
 
@@ -56,12 +60,16 @@ Department of Electronic Science and Technology, Huazhong University of Science 
 
 One year of experience with Barium Strontium Titanate \(Ba1-xSrxTiO3, BST\) ferroelectric ceramics and SnO2 gas sensor research and development.
 
+---
+
 ## SPECIALIZED SKILLS
 
 1. Deep understanding and over 4 years hands-on experience in low-temperature wafer bonding \(room temperature to 200 °C\) for semiconductor integration/advanced packaging.
 2. Three years hands-on experience in silicon wet chemical and reactive ion etching, metal film sputter deposition, wafer grinding/thinning, through-silicon via \(TSV\) formation and filling.
 3. Skilled in characterizations by using AFM, XPS, TEM, EDS, SAM, and bond strength measurements.
 4. Fluent English and Chinese in speaking and writing and good teamwork capability.
+
+---
 
 ## HONORS
 
