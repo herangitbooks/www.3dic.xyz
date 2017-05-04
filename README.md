@@ -4,9 +4,9 @@
 
 **Research interests**: low-temperature bonding \(especially surface activated bonding method and Cu/dielectric hybrid bonding\),  semiconductor advanced packaging, 3D interconnects, and 3D IC technology.
 
-**E-mail**: he.ran\(at\)su.t.u-tokyo.ac.jp, he.ran\(at\)live.com
+**E-mail**: he.ran\(at\)su.t.u-tokyo.ac.jp, he.ran\(at\)live.com, **WeChat**: iheran
 
-**Personal website**: [www.3dic.xyz](https://www.3dic.xyz), **LinkedIn**: [linkedin.com/in/heran](http://linkedin.com/in/heran), **WeChat**: iheran, [**Google Scholar**](https://scholar.google.com/citations?user=MQ0LqzYAAAAJ): [MQ0LqzYAAAAJ](https://scholar.google.com/citations?user=MQ0LqzYAAAAJ)
+**Personal website**: [www.3dic.xyz](https://www.3dic.xyz), **LinkedIn**: [linkedin.com/in/heran](http://linkedin.com/in/heran),  [**Google Scholar**](https://scholar.google.com/citations?user=MQ0LqzYAAAAJ): [MQ0LqzYAAAAJ](https://scholar.google.com/citations?user=MQ0LqzYAAAAJ)
 
 ## EXPERIENCE
 
