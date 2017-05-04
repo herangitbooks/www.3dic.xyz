@@ -6,7 +6,7 @@
 * [List of Publications](en/list-of-publications.md)
 * [赫然简历](zh/jian-li.md)
 
-## Reseach
+## Research
 
 * [Cu/Adhesive Hybrid Bonding](en/Cu-adhesive-hybrid-bonding.md)
 * [Cu/Oxide Hybrid Bonding](en/Cu-oxide-hybrid-bonding.md)
