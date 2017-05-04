@@ -2,16 +2,14 @@
 
 ## Home
 
-* [Hello, I'm Ran He](README.md)
+* [Ran He Resume](README.md)
 * [List of Publications](en/list-of-publications.md)
-* [Cu/Adhesive Hybrid Bonding](en/Cu-adhesive-hybrid-bonding.md)
+* [赫然简历](zh/jian-li.md)
+
+## Blog
+
 * [Cu/Oxide Hybrid Bonding](en/Cu-oxide-hybrid-bonding.md)
-
-## 中文
-
-* [赫然简历](zh/README.md)
+* [Cu/Adhesive Hybrid Bonding](en/Cu-adhesive-hybrid-bonding.md)
 
 ## © www.3DIC.xyz
-
-
 
