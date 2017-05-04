@@ -1,6 +1,6 @@
 # Summary
 
-## Home
+## About
 
 * [Ran He Resume](README.md)
 * [List of Publications](en/list-of-publications.md)
