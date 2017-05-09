@@ -11,14 +11,14 @@ h2 {
 }
 
 h3 {
-    font-size: 12px;
+    fontSize: 12px;
 }
 
 h1 {
     border-bottom: 2px solid #EFEAEA;
 }
 
-h2 , h3{
+h2 {
     border-bottom: 1px solid #EFEAEA;
 }
 
