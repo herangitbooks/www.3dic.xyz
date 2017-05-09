@@ -4,7 +4,7 @@
         "sidebar" : {
         "Home" : "https://www.3dic.xyz"
         }
-      }
+      },
     "styles": {
         "website": "styles/website.css"
     },
