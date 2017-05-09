@@ -69,5 +69,7 @@ One year of experience with Barium Strontium Titanate \(Ba1-xSrxTiO3, BST\) ferr
 2. Japanese Government \(Monbukagakusho\) Scholarship for Ph.D. study, Ministry of Education, Culture, Sports, Science and Technology, Japan, 2012-2015.
 3. Outstanding Paper Award, 2011 12th International Conference on Electronic Packaging Technology and High Density Packaging \(ICEPT-HDP\), Shanghai, China. August 8-11, 2011.
 
+---
+
 
 
