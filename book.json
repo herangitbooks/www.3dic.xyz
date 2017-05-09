@@ -6,7 +6,8 @@
     "plugins": [
     "ad",
     "sitemap",
-    "splitter"
+    "splitter",
+    "printlinks"
     ],
     
     
@@ -17,6 +18,9 @@
     },
     "sitemap": {
       "hostname": "https://www.3dic.xyz/"
+    },
+    "printlinks": {
+    "externalLinksAreReferences": true
     }
     }
 }
