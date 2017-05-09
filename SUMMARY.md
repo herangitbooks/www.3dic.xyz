@@ -4,7 +4,6 @@
 
 * [Ran He Resume](README.md)
 * [List of Publications](en/list-of-publications.md)
-* [赫然简历](zh/jian-li.md)
 
 ## Research
 
@@ -12,6 +11,4 @@
 * [Cu/Oxide Hybrid Bonding](en/Cu-oxide-hybrid-bonding.md)
 
 ## © www.3DIC.xyz
-
-
 
