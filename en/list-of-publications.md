@@ -1,6 +1,6 @@
 ## List of Publications
 
-* \[Journal Papers\] \(\#Journal Papers\)
+* \[Journal Papers\]\(\#Journal Papers\)
 
 ### Journal Papers
 
