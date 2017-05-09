@@ -26,10 +26,8 @@
       "hostname": "https://www.3dic.xyz/"
       },
     "tbfed-pagefooter": {
-      "copyright":"Ran He &copy www.3dic.xyz",
-      "modify_label": "This page was updated on: ",
+      "modify_label": "Ran He © www.3dic.xyz. This website was updated on: ",
       "modify_format": "YYYY-MM-DD HH:mm:ss",
-      "-copy"
       }
     }
 }
