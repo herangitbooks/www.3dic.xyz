@@ -23,6 +23,11 @@
       },
     "sitemap": {
       "hostname": "https://www.3dic.xyz/"
+      },
+    "tbfed-pagefooter": {
+      "copyright":"Ran He &copy www.3dic.xyz",
+      "modify_label": "This page was updated on: ",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
       }
     }
 }
