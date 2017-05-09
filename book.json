@@ -17,8 +17,8 @@
     "book-summary-scroll-position-saver",
     "prism", 
     "-highlight",
+    "edit-link"
     ],
-    
     
     "pluginsConfig": {
     "fontsettings": {
@@ -32,6 +32,10 @@
       },
     "sitemap": {
       "hostname": "https://www.3dic.xyz/"
-      }
+      },
+    "edit-link": {
+      "base": "https://github.com//book/heran/www-3dic-xyz",
+      "label": "Edit This Page"
+            }
     }
 }
