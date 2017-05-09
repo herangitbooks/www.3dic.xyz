@@ -7,20 +7,22 @@
     "ad",
     "sitemap",
     "splitter",
-    "printlinks"
+    "book-summary-scroll-position-saver"
     ],
     
     
     "pluginsConfig": {
+    "fontsettings": {
+            "theme": 'night', // 'sepia', 'night' or 'white',
+            "family": 'serif', // 'serif' or 'sans',
+            "size": 3         // 1 - 4
+      },
     "ad": {
       "contentTop": "",
       "contentBottom": "Ran He © www.3dic.xyz"
-    },
+      },
     "sitemap": {
       "hostname": "https://www.3dic.xyz/"
-    },
-    "printlinks": {
-    "externalLinksAreReferences": true
-    }
+      },
     }
 }
