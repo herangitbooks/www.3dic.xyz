@@ -1,6 +1,8 @@
 ## List of Publications
 
-    &lt;!-- toc --&gt;
+```
+<!-- toc -->
+```
 
 ### Journal Papers
 
