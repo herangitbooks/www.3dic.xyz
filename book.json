@@ -10,11 +10,6 @@
     
     
     "pluginsConfig": {
-    "sharing": {
-      "weibo": false,
-      "twitter": false,
-      "facebook": false
-    },
     "ad": {
       "contentTop": "<div>Ads at the top of the page</div>",
       "contentBottom": "%3Cdiv%3EAds%20at%20the%20bottom%20of%20the%20page%3C/div%3E"
