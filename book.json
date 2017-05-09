@@ -2,4 +2,26 @@
     "styles": {
         "website": "styles/website.css"
     }
+    
+    plugins": [
+    "ad",
+    "sitemap"
+    ],
+    
+    
+    "pluginsConfig": {
+    "sharing": {
+      "weibo": false,
+      "twitter": false,
+      "facebook": false
+    },
+    "ad": {
+      "contentBottom":"Ran He © www.3dic.xyz" 
+    },
+    "sitemap": {
+      "hostname": "https://www.3dic.xyz/"
+    }
+    }
+}    
+    
 }
