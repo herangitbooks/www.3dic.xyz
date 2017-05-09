@@ -15,7 +15,7 @@
     "fontsettings": {
       "theme": "white",// 'sepia', 'night' or 'white',
       "family": "serif",// 'serif' or 'sans',
-      "size": 2 // 1 - 4
+      "size": 2
       },
     "ad": {
       "contentTop": "",
