@@ -8,7 +8,7 @@
     "sitemap",
     "splitter",
     "book-summary-scroll-position-saver",
-    ["prism", "-highlight"]
+    "prism", "-highlight"
     ],
     
     
