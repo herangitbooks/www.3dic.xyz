@@ -1,6 +1,6 @@
 ## List of Publications
 
-\`&lt;!-- toc --&gt;\`
+&lt;pre&gt;&lt;code&gt;&lt;!-- toc --&gt;&lt;/code&gt;&lt;/pre&gt;
 
 ### Journal Papers
 
