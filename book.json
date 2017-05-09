@@ -16,7 +16,7 @@
     "splitter",
     "book-summary-scroll-position-saver",
     "prism", 
-    "-highlight",
+    "-highlight"
     ],
     
     "pluginsConfig": {
