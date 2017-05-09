@@ -13,8 +13,8 @@
     
     "pluginsConfig": {
     "fontsettings": {
-      "theme": "white",// 'sepia', 'night' or 'white',
-      "family": "serif",// 'serif' or 'sans',
+      "theme": "white",
+      "family": "serif",
       "size": 2
       },
     "ad": {
