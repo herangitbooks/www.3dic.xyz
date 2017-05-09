@@ -2,7 +2,7 @@
 
 Cu/adhesive hybrid bonding is an attractive approach to three-dimensional \(3D\) integration because it provides direct Cu–Cu vertical interconnects and high mechanical stability. However, Cu/adhesive hybrid bonding at below 200 °C is still challenging because of **bonding temperature mismatch** between Cu–Cu and polymer adhesives and lacking of effective **adhesive-friendly Cu surface activation** methods.
 
-&lt;!-- toc --&gt;
+`<!-- toc -->`
 
 ## Research Highlights
 
