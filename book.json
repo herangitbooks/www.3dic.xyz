@@ -8,7 +8,8 @@
     "sitemap",
     "splitter",
     "book-summary-scroll-position-saver",
-    "prism", "-highlight"
+    "prism", 
+    "-highlight"
     ],
     
     
@@ -24,6 +25,6 @@
       },
     "sitemap": {
       "hostname": "https://www.3dic.xyz/"
-      },
+      }
     }
 }
