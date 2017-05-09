@@ -1,7 +1,7 @@
 {
     "styles": {
         "website": "styles/website.css"
-    }
+    },
     
     "plugins": [
     "ad",
