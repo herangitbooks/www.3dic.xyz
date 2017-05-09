@@ -8,7 +8,7 @@
     "sitemap",
     "splitter",
     "book-summary-scroll-position-saver",
-    "tbfed-pagefooter"
+    ["prism", "-highlight"]
     ],
     
     
@@ -25,9 +25,5 @@
     "sitemap": {
       "hostname": "https://www.3dic.xyz/"
       },
-    "tbfed-pagefooter": {
-      "modify_label": "Ran He © www.3dic.xyz. This website was updated on: ",
-      "modify_format": "YYYY-MM-DD HH:mm:ss",
-      }
     }
 }
