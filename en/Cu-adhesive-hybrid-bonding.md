@@ -32,6 +32,18 @@ Shear strength measurements were used to characterize the bond strength. The bon
 
 ## Cu-first Hybrid Bonding vs. Adhesive-first Hybrid Bonding
 
+**Table I** compares the features of the proposed“Cu-first”hybrid bonding and the conventional“adhesive-first”hybrid bonding. Comparing to the “adhesive-first” hybrid bonding, the present method significantly lowers the bonding temperature and shortens the thermal-compression time. This is translated into smaller thermal stress, higher throughput, and lower cost.
+
+> **Table I **Comparison between “Cu-first” and “adhesive-first” hybrid bonding approaches.
+>
+> |  | **Cu-frist hybrid bonding** | **Adhesive-first hybrid bonding** |
+> | :--- | :--- | :--- |
+> | **Cu surface activation** | H-containing HCOOH vapor | None |
+> | **Bonding temperature** | Cu–Cu \(180-200 °C\) ≤ Adhesive \(≤ 250 °C\) | Adhesive \(≤ 250 °C\) &lt; Cu–Cu  |
+> | **Thermal stress** | Small | Great |
+> | **Misalignment** | No mutual slip | Mutual slip during adhesive bonding |
+> | **Throughput** | High | Low |
+
 ## **Publication**
 
 \[1\] R. He, M. Fujino, M. Akaike, T. Sakai, S. Sakuyama, and T. Suga, “Combined surface activated bonding using H-containing HCOOH vapor treatment for Cu/Adhesive hybrid bonding at below 200 °C,”  Applied Surface Science, vol. 414, pp. 163–170, Aug. 2017. Available: [http://dx.doi.org/10.1016/j.apsusc.2017.03.168](http://dx.doi.org/10.1016/j.apsusc.2017.03.168) \([pdf](http://www.3dic.org/images/5/54/2017_He._H-containing_HCOOH_vapor_treatment_for_hybrid_bonding.pdf)\)
