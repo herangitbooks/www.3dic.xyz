@@ -20,9 +20,8 @@
     "-highlight",
     "simple-page-toc",
     "page-toc-button",
-    "sharing",
-    "disqus"
-    ],
+    "sharing"
+        ],
     
     "pluginsConfig": {
     "fontsettings": {
