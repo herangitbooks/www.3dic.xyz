@@ -1,6 +1,6 @@
 # Cu/Adhesive Hybrid Bonding at Sub-200 °C for 3D IC Integration {#tit0005}
 
-## Problems To Solve
+## ➶ Problems To Solve
 
 Cu/adhesive hybrid bonding is an attractive approach to three-dimensional \(3D\) integration because it provides direct Cu–Cu vertical interconnects and high mechanical stability. However, Cu/adhesive hybrid bonding at below 200 °C is still challenging mainly because of the following issues:
 
@@ -39,7 +39,7 @@ Shear strength measurements were used to characterize the bond strength. The bon
 > |  | **Cu-frist hybrid bonding** | **Adhesive-first hybrid bonding** |
 > | :--- | :--- | :--- |
 > | **Cu surface activation** | H-containing HCOOH vapor | None |
-> | **Bonding temperature** | Cu–Cu \(180-200 °C\) ≤ Adhesive \(≤ 250 °C\) | Adhesive \(≤ 250 °C\) &lt; Cu–Cu  |
+> | **Bonding temperature** | Cu–Cu \(180-200 °C\) ≤ Adhesive \(≤ 250 °C\) | Adhesive \(≤ 250 °C\) &lt; Cu–Cu |
 > | **Thermal stress** | Small | Great |
 > | **Misalignment** | No mutual slip | Mutual slip during adhesive bonding |
 > | **Throughput** | High | Low |

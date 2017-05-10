@@ -1,12 +1,12 @@
 # Ran He, Ph.D.
 
-**Current position**: Project Researcher, Department of Precision Engineering, The University of Tokyo
+**Çurrent position**: Project Researcher, Department of Precision Engineering, The University of Tokyo
 
-**Research interests**: low-temperature bonding \(especially surface activated bonding methods and [Cu/adhesive](https://www.3dic.xyz/en/Cu-adhesive-hybrid-bonding.html) and [Cu/oxide](https://www.3dic.xyz/en/Cu-oxide-hybrid-bonding.html) hybrid bonding techniques\),  semiconductor advanced packaging, 3D interconnects, and 3D IC technology
+**Ɍesearch interests**: low-temperature bonding \(especially surface activated bonding methods and [Cu/adhesive](https://www.3dic.xyz/en/Cu-adhesive-hybrid-bonding.html) and [Cu/oxide](https://www.3dic.xyz/en/Cu-oxide-hybrid-bonding.html) hybrid bonding techniques\),  semiconductor advanced packaging, 3D interconnects, and 3D IC technology
 
-**E-mail**: he.ran\(at\)su.t.u-tokyo.ac.jp, he.ran\(at\)live.com, **WeChat**: iheran
+📧 **Ĕ-mail**: he.ran⟨æt⟩su.t.u-tokyo.ac.jp, he.ran⟨æt⟩live.com, **ⱲeChat**: iheran
 
-**Personal website**: [www.3dic.xyz](https://www.3dic.xyz), **LinkedIn**: [linkedin.com/in/heran](http://linkedin.com/in/heran),  **Google Scholar**: [goo.gl/RI5xES](https://goo.gl/RI5xES)
+**Ƥersonal website**: [www.3dic.xyz](https://www.3dic.xyz), **ḺinkedIn**: [linkedin.com/in/heran](http://linkedin.com/in/heran),  **Ḡoogle Scholar**: [goo.gl/RI5xES](https://goo.gl/RI5xES)
 
 ## EXPERIENCE
 
