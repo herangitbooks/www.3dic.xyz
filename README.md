@@ -4,7 +4,7 @@
 
 **Ɍesearch interests**: low-temperature bonding \(especially surface activated bonding methods and [Cu/adhesive](https://www.3dic.xyz/en/Cu-adhesive-hybrid-bonding.html) and [Cu/oxide](https://www.3dic.xyz/en/Cu-oxide-hybrid-bonding.html) hybrid bonding techniques\),  semiconductor advanced packaging, 3D interconnects, and 3D IC technology
 
-📧 **Ĕ-mail**: he.ran⟨æt⟩su.t.u-tokyo.ac.jp, he.ran⟨æt⟩live.com, **ⱲeChat**: iheran
+📧 **Ĕ-mail**: he.ran⟨æt⟩su.t.u-tokyo.ac.jp, he.ran⟨æt⟩live.com, **ẆeChat**: iherañ
 
 **Ƥersonal website**: [www.3dic.xyz](https://www.3dic.xyz), **ḺinkedIn**: [linkedin.com/in/heran](http://linkedin.com/in/heran),  **Ḡoogle Scholar**: [goo.gl/RI5xES](https://goo.gl/RI5xES)
 
