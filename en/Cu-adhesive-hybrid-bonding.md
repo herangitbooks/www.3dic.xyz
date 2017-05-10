@@ -1,4 +1,4 @@
-# Cu/Adhesive Hybrid Bonding at Sub-200 °C for 3D IC Integration {#tit0005}
+# Cu/Adhesive Hybrid Bonding at Sub-200 °C for 2.5D/3D IC Integration {#tit0005}
 
 ## ➶ Problems To Solve
 
