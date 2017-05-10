@@ -3,7 +3,7 @@
 ## Ran He, Ph.D.
 
 * [Resume](README.md)
-* [List of Publications](en/list-of-publications.md)
+* [List of Publications](en/publications.md)
 
 ## Research
 
