@@ -12,11 +12,11 @@ Cu/adhesive hybrid bonding is an attractive approach to three-dimensional \(3D\)
 ## Research Highlights
 
 1. Cu/adhesive hybrid bonding is conducted with pre-bonding treatment in H-containing HCOOH vapor ambient.
-2. A low-temperature \(**sub-200°C**\) “Cu-first” hybrid bonding approach is realized.
+2. A low-temperature \(sub-200°C\) _**Cu-first hybrid bonding approach**_ is realized.
 3. The present method enables excellent Cu–Cu bonding with shear strength above 100 MPa at 180–200 °C.
 4. The surface treatment is friendly to the cyclo-olefin polymer \(COP\) adhesive.
 5. Seamless Cu/adhesive hybrid bonding has been successfully demonstrated at 180 °C.
-6. The advantages of the present hybrid process is small thermal stress, high throughput, and low cost.
+6. The advantages of the present hybrid process are small thermal stress, high throughput, and low cost.
 
 ## Cu/Adhesive Hybrid Bonding in H-containing HCOOH Vapor Ambient
 
@@ -46,7 +46,7 @@ Comparing to the “adhesive-first” hybrid bonding, the present Cu-first hybri
 
 ## **Publication**
 
-\[1\] R. He, M. Fujino, M. Akaike, T. Sakai, S. Sakuyama, and T. Suga, “Combined surface activated bonding using H-containing HCOOH vapor treatment for Cu/Adhesive hybrid bonding at below 200 °C,”  Applied Surface Science, vol. 414, pp. 163–170, Aug. 2017. Available: [http://dx.doi.org/10.1016/j.apsusc.2017.03.168](http://dx.doi.org/10.1016/j.apsusc.2017.03.168) \([pdf](http://www.3dic.org/images/5/54/2017_He._H-containing_HCOOH_vapor_treatment_for_hybrid_bonding.pdf)\)
+\[1\] **R. He**, M. Fujino, M. Akaike, T. Sakai, S. Sakuyama, and T. Suga, “Combined surface activated bonding using H-containing HCOOH vapor treatment for Cu/Adhesive hybrid bonding at below 200 °C,”  Applied Surface Science, vol. 414, pp. 163–170, Aug. 2017. Available: [http://dx.doi.org/10.1016/j.apsusc.2017.03.168](http://dx.doi.org/10.1016/j.apsusc.2017.03.168) \([pdf](http://www.3dic.org/images/5/54/2017_He._H-containing_HCOOH_vapor_treatment_for_hybrid_bonding.pdf)\)
 
 ---
 
