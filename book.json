@@ -18,7 +18,8 @@
     "prism", 
     "-highlight",
     "simple-page-toc",
-    "page-toc-button"
+    "page-toc-button",
+    "sharing"
     ],
     
     "pluginsConfig": {
