@@ -1,8 +1,8 @@
 # Summary
 
-## Ran He, Ph.D.
+## About
 
-* [Resume](README.md)
+* [Ran He, Ph.D.](README.md)
 * [List of Publications](en/publications.md)
 
 ## Research
