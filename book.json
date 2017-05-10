@@ -16,7 +16,10 @@
     "splitter",
     "book-summary-scroll-position-saver",
     "prism", 
-    "-highlight"
+    "-highlight",
+    "anchor-navigation",
+    "simple-page-toc",
+    "page-toc-button"
     ],
     
     "pluginsConfig": {
