@@ -1,3 +1,7 @@
+---
+disqus: false
+---
+
 # Ran He, Ph.D.
 
 **Çurrent position**: Project Researcher, Department of Precision Engineering, The University of Tokyo
@@ -71,6 +75,4 @@ One year of experience with Barium Strontium Titanate \(Ba1-xSrxTiO3, BST\) ferr
 3. Outstanding Paper Award, **2011 12th International Conference on Electronic Packaging Technology and High Density Packaging \(ICEPT-HDP\)**, Shanghai, China. August 8-11, 2011.
 
 ---
-
-
 

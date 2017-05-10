@@ -1,3 +1,7 @@
+---
+disqus: false
+---
+
 # List of Publications
 
 ## Journal Papers

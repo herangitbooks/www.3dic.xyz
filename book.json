@@ -20,7 +20,8 @@
     "-highlight",
     "simple-page-toc",
     "page-toc-button",
-    "sharing"
+    "sharing",
+    "disqus"
     ],
     
     "pluginsConfig": {
@@ -46,6 +47,10 @@
                 "facebook", "google", "twitter",
                 "weibo", "instapaper"
             ]
-            }
+     },
+    "disqus": {
+            "shortName": "3dic"
+     }            
+            
     }
 }
