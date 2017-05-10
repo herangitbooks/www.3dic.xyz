@@ -33,6 +33,17 @@
       },
     "sitemap": {
       "hostname": "https://www.3dic.xyz/"
-      }
+      },
+    "sharing": {
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "weibo": false,
+            "instapaper": false,
+            "vk": false,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo", "instapaper"
+            ]
     }
 }
