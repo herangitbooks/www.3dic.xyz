@@ -47,10 +47,9 @@
                 "facebook", "google", "twitter",
                 "weibo", "instapaper"
             ]
-     },
-    "disqus": {
-            "shortName": "3dic"
-     }            
-            
+     }
+     //"disqus": {
+     //        "shortName": "3dic"
+     //}            
     }
 }

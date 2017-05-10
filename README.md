@@ -1,7 +1,3 @@
----
-disqus: 'false'
----
-
 # Ran He, Ph.D.
 
 **Çurrent position**: Project Researcher, Department of Precision Engineering, The University of Tokyo
