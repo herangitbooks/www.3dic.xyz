@@ -1,4 +1,4 @@
-# Ran He
+# Ran He, Ph.D.
 
 **Current position**: Project Researcher, Department of Precision Engineering, The University of Tokyo.
 
