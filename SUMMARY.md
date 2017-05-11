@@ -1,6 +1,6 @@
 # Summary
 
-* [HOME](README.md)
+* [Welcome](README.md)
 * [Ran He, Ph.D.](/en/heran.md)
 * [List of Publications](en/publications.md)
 
