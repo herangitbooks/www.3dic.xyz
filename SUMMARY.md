@@ -1,7 +1,5 @@
 # Summary
 
-## About
-
 * [Introduction](README.md)
 * [Ran He, Ph.D.](/en/heran.md) 
 * [List of Publications](en/publications.md)
