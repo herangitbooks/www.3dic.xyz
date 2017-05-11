@@ -6,6 +6,8 @@ Hello! I am Ran He. This is my personal website.
 
 I am currently a Project Researcher in Prof. T. Suga's group at the University of Tokyo, with great interests in low-temperature bonding \(especially surface activated bonding methods and bump-less [Cu/adhesive](/en/Cu-adhesive-hybrid-bonding.md) and [Cu/oxide](/en/Cu-oxide-hybrid-bonding.md) hybrid bonding techniques\),  semiconductor advanced packaging, 3D interconnects, and 3D IC technology.
 
+You can find more information about me on the following links:
+
 * [Ran He, Ph.D.](/en/heran.md) \(My resume\)
 * [List of Publications](en/publications.md)
 
