@@ -2,7 +2,7 @@
 
 **Çurrent position**: Project Researcher, Department of Precision Engineering, The University of Tokyo
 
-**Ɍesearch interests**: low-temperature bonding \(especially surface activated bonding methods and [Cu/adhesive](https://www.3dic.xyz/en/Cu-adhesive-hybrid-bonding.html) and [Cu/oxide](https://www.3dic.xyz/en/Cu-oxide-hybrid-bonding.html) hybrid bonding techniques\),  semiconductor advanced packaging, 3D interconnects, and 3D IC technology
+**Ɍesearch interests**: low-temperature bonding \(especially surface activated bonding methods and [Cu/adhesive](/en/Cu-adhesive-hybrid-bonding.md) and [Cu/oxide](/en/Cu-oxide-hybrid-bonding.md) hybrid bonding techniques\),  semiconductor advanced packaging, 3D interconnects, and 3D IC technology
 
 📧 **Ĕ-mail**: [he.ran⟨æt⟩su.t.u-tokyo.ac.jp](mailto:he.ran@su.t.u-tokyo.ac.jp), [he.ran⟨æt⟩live.com](mailto:he.ran@live.com), **ẆeChat**: [iherañ](https://www.3dic.xyz/img/wechat.jpg)
 
@@ -18,7 +18,7 @@ Department of Precision Engineering, School of Engineering, The University of To
 
 1. Wafer-level Cu-Cu and SiO2-SiO2 bonding at below 200 °C, 
 2. Cu-Cu direct bonding for power device packaging,
-3. [Cu/adhesive hybrid bonding](https://www.3dic.xyz/en/Cu-adhesive-hybrid-bonding.html) at 180-200 °C for 3D integration/packaging,
+3. [Cu/adhesive hybrid bonding](/en/Cu-adhesive-hybrid-bonding.md) at 180-200 °C for 3D integration/packaging,
 4. Direct bonding and Cu particles sintering for power die attach.
 
 ### Technical Assistant, The University of Tokyo, Japan, Oct. 2015 — Jun. 2016

@@ -1,4 +1,0 @@
-## Surface Activated Bonding \(SAB\)
-
-
-
