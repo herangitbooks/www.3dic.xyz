@@ -1,5 +1,5 @@
 ---
-tags: 'hybrid bonding, sub-200 °C, Cu-Cu, hydrophilic bonding'
+tags: 'Cu-Cu, hybrid bonding, hydrophilic bonding, sub-200 °C'
 ---
 
 # Cu/Oxide Hybrid Bonding
