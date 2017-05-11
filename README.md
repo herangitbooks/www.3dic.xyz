@@ -12,19 +12,19 @@ I am currently a Project Researcher in Prof. T. Suga's group at the University o
 ## Surface Activated Bonding \(SAB\) Technology
 
 * [Overview](/sab/sab.md)
-* Standard SAB
-* Modified SAB
-* Combined SAB
+* [Standard SAB](/sab/standard-sab.md)
+* [Modified SAB](/sab/modified-sab.md)
+* [Combined SAB](/sab/combined-sab.md)
 
 ## My Research
 
-* [Cu/Adhesive Hybrid Bonding](en/Cu-adhesive-hybrid-bonding.md)
+* [Cu/Adhesive Hybrid Bonding at sub-200 °C](/en/Cu-adhesive-hybrid-bonding.md) in [H-containing HCOOH vapor](/sab/h-containing-hcooh-vapor.md) ambient
 
-* [Cu/Oxide Hybrid Bonding](en/Cu-oxide-hybrid-bonding.md)
+* [Cu/Oxide Hybrid Bonding](en/Cu-oxide-hybrid-bonding.md) by [Combined SAB](/sab/combined-sab.md) at sub-200 °C
 
-* [Au-Cu Direct Die Attach](en/Au-Cu-direct-die-attach.md)
+* [Cu-Cu and Au-Cu Direct Die Attach](en/Au-Cu-direct-die-attach.md) for high-power device packaging by in [H-containing HCOOH vapor](/sab/h-containing-hcooh-vapor.md) treatment
 
-* [Glass-Glass Bonding](en/glass-glass-direct-bonding.md)
+* [Glass-Glass Direct Bonding](en/glass-glass-direct-bonding.md) by [modified SAB](/sab/modified-sab.md) and [sequential plasma activation bonding](/sab/sequential-plasma-activation-bonding.md)
 
 
 
