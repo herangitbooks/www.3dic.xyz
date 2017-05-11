@@ -28,5 +28,7 @@ You can find more information about me on the following links:
 
 * [Glass-Glass Direct Bonding](en/glass-glass-direct-bonding.md) by [modified SAB](/sab/modified-sab.md) and [sequential plasma activation bonding](/sab/sequential-plasma-activation-bonding.md)
 
+---
+
 
 
