@@ -21,7 +21,7 @@
     "simple-page-toc",
     "page-toc-button",
     "sharing",
-    "tags"
+    "tags", "-lunr", "-search", "search-pro"
         ],
     
     "pluginsConfig": {
