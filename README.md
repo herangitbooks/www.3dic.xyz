@@ -9,7 +9,7 @@ I am currently a Project Researcher in Prof. T. Suga's group at the University o
 * [Ran He, Ph.D.](/en/heran.md) \(My resume\)
 * [List of Publications](en/publications.md)
 
-## Introduction of Surface Activated Bonding \(SAB\) Technology
+## Surface Activated Bonding \(SAB\) Technology
 
 * [Overview](/sab/sab.md)
 * Standard SAB
