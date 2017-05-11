@@ -47,7 +47,10 @@
                 "facebook", "google", "twitter",
                 "weibo", "instapaper"
             ]
-     }
+     },
+     "tags": {
+            "placement": "bottom"
+        }
          
     }
 }
