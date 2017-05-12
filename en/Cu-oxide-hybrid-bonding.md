@@ -26,17 +26,17 @@ Low-temperature Cu-Cu bonding and dielectric-dielectric \(such as SiO2-SiO2\) bo
 
 ### Si-containing Ar beam
 
-Si-containing Ar beam irradiation was used to enable Si-enrichment modification on SiO2 without Si deposition on Cu, thanks to the simultaneous Si subplantation and surface sputtering effects.
+Si-containing Ar beam irradiation was used to enable Si-enrichment modification on SiO2 \(Figure 2\(a\)\) without Si deposition on Cu \(Figure 2\(b\)\), thanks to the simultaneous Si subplantation and surface sputtering/resputering effects.
 
-> ##### ![](/img/Si-containing-Ar-beam-on-SiO2.png)\(a\) Si-containing Ar beam irradiation on SiO2, resulting in Si sites enrichment on surface for Si-OH bonding site formation
+> ###### ![](/img/Si-containing-Ar-beam-on-SiO2.png)\(a\) Si-containing Ar beam irradiation on SiO2, resulting in Si sites enrichment on surface for Si-OH bonding site formation
 >
-> ##### ![](/img/Si-containing-Ar-beam-on-Cu.png)\(b\) Si-containing Ar beam irradiation on Cu with Si resputtering by Ar beam.
+> ###### ![](/img/Si-containing-Ar-beam-on-Cu.png)\(b\) Si-containing Ar beam irradiation on Cu with preferential Si resputtering by Ar beam.
 >
 > ##### Figure 2. Si-containing Ar beam irradiation on SiO2 and Cu surfaces.
 
 ### Prebonding Attach-Detach Approach
 
-Prebodning attach-detach refers to to bring two wafers into contact \(aligned\) in air, transport the attached wafer into a vacuum chamber, and detach the wafers before the bonding process in vacuum.
+_**Prebonding attach-detach**_ refers to to bring two wafers into contact \(aligned\) in air, transport the attached wafer into a vacuum chamber, and detach the wafers before the bonding process in vacuum. This process increases the Si-OH bonding sites on each SiO2/SiNx surfaces, while removes excess H2O \(adsorbed on surfaces in air\) prior to bonding.
 
 > ##### ![](/img/prebonding-attach-detach.png)Figure 3. Process flow of prebodning attach-detach.
 
