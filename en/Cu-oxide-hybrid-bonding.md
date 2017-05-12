@@ -28,9 +28,9 @@ Low-temperature Cu-Cu bonding and dielectric-dielectric \(such as SiO2-SiO2\) bo
 
 Si-containing Ar beam irradiation was used to enable Si-enrichment modification on SiO2 without Si deposition on Cu, thanks to the simultaneous Si subplantation and surface sputtering effects.
 
-> ##### ![](/img/Si-containing-Ar-beam-on-SiO2.png)\(a\) Si-containing Ar beam irradiation on SiO2
+> ##### ![](/img/Si-containing-Ar-beam-on-SiO2.png)\(a\) Si-containing Ar beam irradiation on SiO2, resulting in Si sites enrichment on surface for Si-OH bonding site formation
 >
-> ##### ![](/img/Si-containing-Ar-beam-on-Cu.png)\(b\) Si-containing Ar beam irradiation on Cu
+> ##### ![](/img/Si-containing-Ar-beam-on-Cu.png)\(b\) Si-containing Ar beam irradiation on Cu with Si resputtering by Ar beam.
 >
 > ##### Figure 2. Si-containing Ar beam irradiation on SiO2 and Cu surfaces.
 
