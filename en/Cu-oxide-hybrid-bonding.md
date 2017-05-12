@@ -26,11 +26,11 @@ Low-temperature Cu-Cu bonding and dielectric-dielectric \(such as SiO2-SiO2\) bo
 
 ### Si-containing Ar beam
 
-### 
+Si-containing Ar beam irradiation was used to enable Si-enrichment modification on SiO2 without Si deposition on Cu, thanks to the simultaneous Si subplantation and surface sputtering effects. 
 
 ### Prebodning Attach-Detach Approach
 
-
+Prebodning attach-detach refers to to bring two wafers into contact \(aligned\) in air, transport the attached wafer into a vacuum chamber, and detach the wafers before the bonding process in vacuum.
 
 ## **Publication**
 
