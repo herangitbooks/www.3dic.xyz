@@ -15,6 +15,8 @@ Cu/adhesive hybrid bonding is an attractive approach to three-dimensional \(3D\)
 3. Great thermal stress, low throughput, and high cost,
 4. A _Cu-first hybrid bonding_ _approach_ is highly desired, by using _adhesive-friendly_ Cu surface activation methods to lower the Cu-Cu bonding temperature to sub-200 °C.
 
+> ##### ![](/img/adhesive-first-hybrid-bonding.png)![](/img/Cu-first-hybrid-bonding.png)Figure 1. Adhesive-first and Cu-first hybrid bonding approaches.
+
 ## Research Highlights
 
 1. Cu/adhesive hybrid bonding is conducted with pre-bonding treatment in H-containing HCOOH vapor ambient.
@@ -30,17 +32,17 @@ In this work, we investigate a “Cu-first” hybrid bonding technique by using 
 
 The bonding process simply consists of H-containing HCOOH vapor prebonding treatment, thermo-compression bonding, and postbonding adhesive curing, as illustrated in Figure 1.
 
-> ##### ![](/img/Cu-first-hybrid-bonding.png)  Figure 1. Process flow of the Cu-first Hybrid Bonding approach conducted in H-containing HCOOH vapor ambient.
+> ##### ![](/img/Cu-first-hybrid-bonding-in-hcooh-vapor.png)  Figure 2. Process flow of the Cu-first hybrid bonding conducted in H-containing HCOOH vapor ambient.
 
 Shear strength measurements were used to characterize the bond strength. The bonded sample was ﬁxed on the shear test stage by jigs and then a shear force was applied on the edge of the upper \(smaller\) chip by the shear head. The height of the shear head was 50 m above the surface of the bottom \(larger\) chip. The maximum shear force of the shear tester was 640 N. Scanning electron microscope \(SEM\) \(JEOL JCM-5000\) was used to observe the Cu–Cu bond and Cu/adhesive hybrid bond interfaces.
 
-> ##### ![](/img/Cu-adhesive-hybrid-bonding-results.png)Figure 2. Bonding experiment results: bond strengh \(left\) and bonded interface \(right\).
+> ##### ![](/img/Cu-adhesive-hybrid-bonding-results.png)Figure 3. Bonding experiment results: bond strengh \(left\) and bonded interface \(right\).
 
 ## Cu-first Hybrid Bonding vs. Adhesive-first Hybrid Bonding
 
 Comparing to the “adhesive-first” hybrid bonding, the present Cu-first hybrid bonding method significantly lowers the bonding temperature and shortens the thermal-compression time. This is translated into smaller thermal stress, higher throughput, and lower cost. **Table I** compares the features of the proposed Cu-first hybrid bonding and the conventional“adhesive-first”hybrid bonding.
 
-> **Table I **Comparison between “Cu-first” and “adhesive-first” hybrid bonding approaches.
+> ##### **Table I **Comparison between “Cu-first” and “adhesive-first” hybrid bonding approaches.
 >
 > |  | **Cu-frist hybrid bonding** | **Adhesive-first hybrid bonding **\[1\] |
 > | :--- | :--- | :--- |
@@ -56,9 +58,9 @@ Comparing to the “adhesive-first” hybrid bonding, the present Cu-first hybri
 
 ## References
 
-\[1\] J.-Q. Lu, J.J. McMahon, R.J. Gutmann, Hybrid Metal/Polymer wafer bonding platform, in: P. Ramm, J.J.-Q. Lu, M.M.V. Taklo \(Eds.\), Handb. Wafer Bond., Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim, Germany, 2012, pp. 215–236. http://doi.wiley.com/10.1002/9783527644223.ch11.
+\[1\] J.-Q. Lu, J.J. McMahon, R.J. Gutmann, Hybrid Metal/Polymer wafer bonding platform, in: P. Ramm, J.J.-Q. Lu, M.M.V. Taklo \(Eds.\), Handb. Wafer Bond., Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim, Germany, 2012, pp. 215–236. [http://doi.wiley.com/10.1002/9783527644223.ch11](http://doi.wiley.com/10.1002/9783527644223.ch11).
 
-\[2\] T. Sakai, N. Imaizumi, S. Sakuyama, Hybrid bonding technology with Cu-Cu/adhesives for high density 2.5D/3D integration, in: 2016 Pan Pac. Microelectron. Symp. Pan Pac., IEEE, Big Island, HI, 2016, pp. 1–6,http://dx. doi.org/10.1109/PanPacific.2016.7428429.
+\[2\] T. Sakai, N. Imaizumi, S. Sakuyama, Hybrid bonding technology with Cu-Cu/adhesives for high density 2.5D/3D integration, in: 2016 Pan Pac. Microelectron. Symp. Pan Pac., IEEE, Big Island, HI, 2016, pp. 1–6,[http://dx](http://dx). doi.org/10.1109/PanPacific.2016.7428429.
 
 ---
 
