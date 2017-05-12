@@ -6,7 +6,7 @@ tags: >-
 
 # Cu/Adhesive Hybrid Bonding at Sub-200 °C for 3D IC Integration {#tit0005}
 
-## ➶ Problems To Solve
+## ➶ Background
 
 Cu/adhesive hybrid bonding is an attractive approach to three-dimensional \(3D\) integration because it provides direct Cu–Cu vertical interconnects and high mechanical stability. However, Cu/adhesive hybrid bonding at below 200 °C is still challenging mainly because of the following issues:
 
@@ -54,7 +54,7 @@ Comparing to the “adhesive-first” hybrid bonding, the present Cu-first hybri
 
 ## **Publication**
 
-\[1\] **R. He**, M. Fujino, M. Akaike, T. Sakai, S. Sakuyama, and T. Suga, “Combined surface activated bonding using H-containing HCOOH vapor treatment for Cu/Adhesive hybrid bonding at below 200 °C,”  Applied Surface Science, vol. 414, pp. 163–170, Aug. 2017. Available: [http://dx.doi.org/10.1016/j.apsusc.2017.03.168](http://dx.doi.org/10.1016/j.apsusc.2017.03.168) \([pdf](http://www.3dic.org/images/5/54/2017_He._H-containing_HCOOH_vapor_treatment_for_hybrid_bonding.pdf)\)
+* **R. He**, M. Fujino, M. Akaike, T. Sakai, S. Sakuyama, and T. Suga, “Combined surface activated bonding using H-containing HCOOH vapor treatment for Cu/Adhesive hybrid bonding at below 200 °C,”  Applied Surface Science, vol. 414, pp. 163–170, Aug. 2017. Available: [http://dx.doi.org/10.1016/j.apsusc.2017.03.168](http://dx.doi.org/10.1016/j.apsusc.2017.03.168) \([pdf](http://www.3dic.org/images/5/54/2017_He._H-containing_HCOOH_vapor_treatment_for_hybrid_bonding.pdf)\)
 
 ## References
 

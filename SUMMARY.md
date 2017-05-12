@@ -4,8 +4,8 @@
 * [Ran He, Ph.D.](/en/heran.md)
   * [List of Publications](en/publications.md)
 * Research - Low-temperature Bonding
+  * [Cu/SiO2 Hybrid Bonding](en/Cu-oxide-hybrid-bonding.md)
   * [Cu/Adhesive Hybrid Bonding](en/Cu-adhesive-hybrid-bonding.md)
-  * [Cu/Oxide Hybrid Bonding](en/Cu-oxide-hybrid-bonding.md)
   * [Glass-Glass Bonding](en/glass-glass-bonding.md)
   * [Direct Die Attach \(Cu-Cu and Au-Cu\)](en/direct-die-attach.md)
   * [Cu Microparticles Sintering](en/Cu-microparticles-sintering.md)
