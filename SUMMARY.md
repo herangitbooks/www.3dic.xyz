@@ -4,12 +4,12 @@
 * [Ran He, Ph.D.](/en/heran.md)
   * [List of Publications](en/publications.md)
 * Research - Low-temperature Bonding
-  * [1. Cu/Adhesive Hybrid Bonding](en/Cu-adhesive-hybrid-bonding.md)
-  * [2. Cu/Oxide Hybrid Bonding](en/Cu-oxide-hybrid-bonding.md)
-  * [3. Glass-Glass Bonding](en/glass-glass-direct-bonding.md)
-  * [4. Cu-Cu and Au-Cu Direct Die Attach](en/Au-Cu-direct-die-attach.md)
-  * [5. Cu Microparticles Sintering](en/cu-microparticles-sintering.md)
-  * [6. Superconductor Joints](en/superconductor-joints.md)
+  * [Cu/Adhesive Hybrid Bonding](en/Cu-adhesive-hybrid-bonding.md)
+  * [Cu/Oxide Hybrid Bonding](en/Cu-oxide-hybrid-bonding.md)
+  * [Glass-Glass Bonding](en/glass-glass-bonding.md)
+  * [Cu-Cu and Au-Cu Direct Die Attach](en/direct-die-attach.md)
+  * [Cu Microparticles Sintering](en/cu-microparticles-sintering.md)
+  * [Superconductor Joints](en/superconductor-joints.md)
 
 ## SAB Technology
 
