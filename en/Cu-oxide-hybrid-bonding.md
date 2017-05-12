@@ -34,11 +34,11 @@ Low-temperature Cu-Cu bonding and dielectric-dielectric \(such as SiO2-SiO2\) bo
 
 ## **Publication**
 
-\[1\] R. He, M. Fujino, A. Yamauchi, and T. Suga, “Novel hydrophilic SiO2 wafer bonding using combined surface-activated bonding technique,” Jpn. J. Appl. Phys., vol. 54, no. 3, p. 30218, Mar. 2015. Available: http://dx.doi.org/10.7567/JJAP.54.030218
+\[1\] R. He, M. Fujino, A. Yamauchi, and T. Suga, “Novel hydrophilic SiO2 wafer bonding using combined surface-activated bonding technique,” Jpn. J. Appl. Phys., vol. 54, no. 3, p. 30218, Mar. 2015. Available: [http://dx.doi.org/10.7567/JJAP.54.030218](http://dx.doi.org/10.7567/JJAP.54.030218)
 
-\[2\] R. He, M. Fujino, A. Yamauchi, and T. Suga, “Combined surface-activated bonding technique for low-temperature hydrophilic direct wafer bonding,” Japanese Journal of Applied Physics, vol. 55, no. 4S, p. 04EC02, Apr. 2016. Available: http://dx.doi.org/10.7567/JJAP.55.04EC02
+\[2\] R. He, M. Fujino, A. Yamauchi, and T. Suga, “Combined surface-activated bonding technique for low-temperature hydrophilic direct wafer bonding,” Japanese Journal of Applied Physics, vol. 55, no. 4S, p. 04EC02, Apr. 2016. Available: [http://dx.doi.org/10.7567/JJAP.55.04EC02](http://dx.doi.org/10.7567/JJAP.55.04EC02)
 
-\[3\] R. He, M. Fujino, A. Yamauchi, Y. Wang, and T. Suga, “Combined Surface Activated Bonding Technique for Low-Temperature Cu/Dielectric Hybrid Bonding,” ECS Journal of Solid State Science and Technology, vol. 5, no. 7, pp. P419–P424, 2016. Available: http://dx.doi.org/10.1149/2.0201607jss
+\[3\] R. He, M. Fujino, A. Yamauchi, Y. Wang, and T. Suga, “Combined Surface Activated Bonding Technique for Low-Temperature Cu/Dielectric Hybrid Bonding,” ECS Journal of Solid State Science and Technology, vol. 5, no. 7, pp. P419–P424, 2016. Available: [http://dx.doi.org/10.1149/2.0201607jss](http://dx.doi.org/10.1149/2.0201607jss)
 
 ## References
 
