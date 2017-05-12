@@ -18,13 +18,13 @@ Low-temperature Cu-Cu bonding and dielectric-dielectric \(such as SiO2-SiO2\) bo
 
 ## Research Highlights
 
-1. A combined surface activated bonding method \(with **Si-containing Ar beam** irradiation and **prebonding attach-detach** approach\) was proposed,
+1. A combined surface activated bonding method \(with [**Si-containing Ar beam**](#si-containing-ar-beam) irradiation and [**prebonding attach-detach**](#prebonding-attach-detach) approach\) was proposed,
 2. High-quality \(close to bulk strength\) Cu-Cu, SiO2-SiO2, and SiO2-SiNx bonding has been obtained at 200 °C by the same process,
 3. Si implantation onto SiO2 surface by Si-containing Ar beam irradiation and water management by the prebodning attach-detach are considered to contribute to the improvement.
 
 ## Combined SAB for Cu/SiO2 and Cu/SiO2/SiNx Hybrid Bonding
 
-### Si-containing Ar beam
+### Si-containing Ar beam {#si-containing-ar-beam}
 
 Si-containing Ar beam irradiation was used to enable Si-enrichment modification on SiO2 \(Figure 2\(a\)\) without Si deposition on Cu \(Figure 2\(b\)\), thanks to the simultaneous Si subplantation and surface sputtering/resputering effects.
 
@@ -34,7 +34,7 @@ Si-containing Ar beam irradiation was used to enable Si-enrichment modification 
 >
 > ##### Figure 2. Si-containing Ar beam irradiation on SiO2 and Cu surfaces.
 
-### Prebonding Attach-Detach Approach
+### Prebonding Attach-Detach Approach {#prebonding-attach-detach}
 
 _**Prebonding attach-detach**_ refers to to bring two wafers into contact \(aligned\) in air, transport the attached wafer into a vacuum chamber, and detach the wafers before the bonding process in vacuum. This process increases the Si-OH bonding sites on each SiO2/SiNx surfaces, while removes excess H2O \(adsorbed on surfaces in air\) prior to bonding.
 

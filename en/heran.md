@@ -16,9 +16,9 @@ Department of Precision Engineering, School of Engineering, The University of To
 
 **Research Subjects**:
 
-1. [Cu/Adhesive Hybrid Bonding at sub-200 °C](/en/Cu-adhesive-hybrid-bonding.md) in [H-containing HCOOH vapor](/sab/h-containing-hcooh-vapor.md) ambient
+1. [Cu/SiO2 Hybrid Bonding](en/Cu-oxide-hybrid-bonding.md) by [Combined SAB](/sab/combined-sab.md) at sub-200 °C
 
-2. [Cu/Oxide Hybrid Bonding](en/Cu-oxide-hybrid-bonding.md) by [Combined SAB](/sab/combined-sab.md) at sub-200 °C
+2. [Cu/Adhesive Hybrid Bonding at sub-200 °C](/en/Cu-adhesive-hybrid-bonding.md) in [H-containing HCOOH vapor](/sab/h-containing-hcooh-vapor.md) ambient
 
 3. [Glass-Glass Bonding](/en/glass-glass-bonding.md) by [modified SAB](/sab/modified-sab.md) and [sequential plasma activation bonding](/sab/sequential-plasma-activation-bonding.md)
 
@@ -34,7 +34,7 @@ Department of Precision Engineering, School of Engineering, The University of To
 
 **Research Subjects**: Combined surface activation approaches for
 
-1. Dielectric \(SiO2-SiO2 and SiO2-SiNx\) and
+1. Dielectric \(SiO2-SiO2 and SiO2-SiNx\) bonding and
 2. Cu/dielectric \(SiO2, SiNx, polymer adheisve\) hybrid bonding for 3D integration.
 
 ## EDUCATION
