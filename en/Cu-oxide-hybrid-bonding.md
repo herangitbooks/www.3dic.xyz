@@ -12,7 +12,7 @@ Low-temperature wafer bonding is one of key enabling technologies for the emergi
 
 > ![](/img/Cu-SiO2-SiNx-hybrid-bonding.png)
 >
-> ##### Figure 1.Cu/SiO2/SiNx hybrid bonding scheme for 3D electrical/optical hybrid interconnects.
+> ##### Figure 1. Cu/SiO2/SiNx hybrid bonding scheme for 3D electrical/optical hybrid interconnects.
 
 Low-temperature Cu-Cu bonding and dielectric-dielectric \(such as SiO2-SiO2\) bonding have been extensively studied because of their potentials for high bonding quality and good compatibility with the complementary metal-oxide-semiconductor \(CMOS\) technology. For Cu-Cu bonding, the most widely studied method is the **thermal-compression bonding \(TCB\)**, which is based on Cu interdiffusion across the bonding interface at elevated temperatures. Various prebonding activation methods, such as wet chemical cleaning and heating in a reducing atmosphere \(like [H-containing HCOOH vapor for Cu/adhesive hybrid bonding](/en/Cu-adhesive-hybrid-bonding.md)\), have been developed to reduce the oxides on Cu surfaces for improvement of the Cu interdiffusion at reduced bonding temperatures. But **the TCB method hasn’t shown its benefit for SiO2-SiO2 bonding or SiO2-SiNx bonding**, which is typically based on the hydrophilic bonding mechanism. Several reseaches on Cu/SiO2 hybrid bodning has been done based on the hydrophilic bonding, however, high-temperature postbonding anneal \(300-400 °C\) is still needed to improve the bonding quality. Cu/SiO2 hybrid bonding at low-temperature \(no more than 200 °C\) still remains challenging.
 
@@ -28,11 +28,19 @@ Low-temperature Cu-Cu bonding and dielectric-dielectric \(such as SiO2-SiO2\) bo
 
 Si-containing Ar beam irradiation was used to enable Si-enrichment modification on SiO2 without Si deposition on Cu, thanks to the simultaneous Si subplantation and surface sputtering effects.
 
-### Prebodning Attach-Detach Approach
+> ##### ![](/img/Si-containing-Ar-beam-on-SiO2.png)\(a\) Si-containing Ar beam irradiation on SiO2
+>
+> ##### ![](/img/Si-containing-Ar-beam-on-Cu.png)\(b\) Si-containing Ar beam irradiation on Cu
+>
+> ##### Figure 2. Si-containing Ar beam irradiation on SiO2 and Cu surfaces.
+
+### Prebonding Attach-Detach Approach
 
 Prebodning attach-detach refers to to bring two wafers into contact \(aligned\) in air, transport the attached wafer into a vacuum chamber, and detach the wafers before the bonding process in vacuum.
 
-## **Publication**
+> ##### ![](/img/prebonding-attach-detach.png)Figure 3. Process flow of prebodning attach-detach.
+
+## **Publications**
 
 \[1\] R. He, M. Fujino, A. Yamauchi, and T. Suga, “Novel hydrophilic SiO2 wafer bonding using combined surface-activated bonding technique,” Jpn. J. Appl. Phys., vol. 54, no. 3, p. 30218, Mar. 2015. Available: [http://dx.doi.org/10.7567/JJAP.54.030218](http://dx.doi.org/10.7567/JJAP.54.030218)
 
