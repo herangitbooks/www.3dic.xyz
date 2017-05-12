@@ -2,7 +2,7 @@
 
 * [Welcome](README.md)
 * [Ran He, Ph.D.](/en/heran.md)
-* [List of Publications](en/publications.md)
+  * [List of Publications](en/publications.md)
 
 ## SAB Technology
 
