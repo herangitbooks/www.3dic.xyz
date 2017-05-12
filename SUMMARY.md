@@ -7,8 +7,8 @@
   * [Cu/Adhesive Hybrid Bonding](en/Cu-adhesive-hybrid-bonding.md)
   * [Cu/Oxide Hybrid Bonding](en/Cu-oxide-hybrid-bonding.md)
   * [Glass-Glass Bonding](en/glass-glass-bonding.md)
-  * [Cu-Cu and Au-Cu Direct Die Attach](en/direct-die-attach.md)
-  * [Cu Microparticles Sintering](en/cu-microparticles-sintering.md)
+  * [Direct Die Attach \(Cu-Cu and Au-Cu\)](en/direct-die-attach.md)
+  * [Cu Microparticles Sintering](en/Cu-microparticles-sintering.md)
   * [Superconductor Joints](en/superconductor-joints.md)
 
 ## SAB Technology

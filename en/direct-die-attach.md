@@ -2,11 +2,9 @@
 tags: 'H-containing HCOOH vapor, metal bonding, thermal-compression bonding'
 ---
 
-# Cu-Cu and Au-Cu Direct Die Attach
+# Direct Die Attach \(Cu-Cu and Au-Cu bonding\)
 
 ## ➶ Problems To Solve
-
-
 
 ---
 
