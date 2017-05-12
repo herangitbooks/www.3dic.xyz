@@ -14,12 +14,19 @@
 
 Department of Precision Engineering, School of Engineering, The University of Tokyo, Tokyo, Japan
 
-**Research Subjects**: Process development of
+**Research Subjects**:
 
-1. Wafer-level Cu-Cu and SiO2-SiO2 bonding at below 200 °C, 
-2. Cu-Cu direct bonding for power device packaging,
-3. [Cu/adhesive hybrid bonding](/en/Cu-adhesive-hybrid-bonding.md) at 180-200 °C for 3D integration/packaging,
-4. Direct bonding and Cu particles sintering for power die attach.
+1. [Cu/Adhesive Hybrid Bonding at sub-200 °C](/en/Cu-adhesive-hybrid-bonding.md) in [H-containing HCOOH vapor](/sab/h-containing-hcooh-vapor.md) ambient
+
+2. [Cu/Oxide Hybrid Bonding](en/Cu-oxide-hybrid-bonding.md) by [Combined SAB](/sab/combined-sab.md) at sub-200 °C
+
+3. [Glass-Glass Bonding](/en/glass-glass-bonding.md) by [modified SAB](/sab/modified-sab.md) and [sequential plasma activation bonding](/sab/sequential-plasma-activation-bonding.md)
+
+4. [Direct Die Attach](/en/direct-die-attach.md) for high-power device packaging by Cu-Cu and Au-Cu bonding
+
+5. [Cu Microparticles Sintering](/en/cu-microparticles-sintering.md)
+
+6. [Superconductor Joints](/en/superconductor-joints.md) by Cu-Cu bonding
 
 ### Technical Assistant, The University of Tokyo, Japan, Oct. 2015 — Jun. 2016
 
@@ -36,9 +43,9 @@ Department of Precision Engineering, School of Engineering, The University of To
 
 Department of Precision Engineering, School of Engineering, The University of Tokyo, Tokyo, Japan
 
-**Research Subjects**: Combined Surface Activation Approaches to Low-Temperature Wafer Bonding for 3D Integration:
+**Thesis**: Combined Surface Activation Approaches to Low-Temperature Wafer Bonding for 3D Integration.
 
-1. Development of new wafer surface activation methods for low-temperature \(≤200 °C\) dielectric \(SiO2-SiO2 and SiO2-SiNx\) and Cu/dielectric \([Cu/adhesive](https://www.3dic.xyz/en/Cu-adhesive-hybrid-bonding.html) and [Cu/oxide](https://www.3dic.xyz/en/Cu-oxide-hybrid-bonding.html)\) hybrid bonding, 
+1. Development of new wafer surface activation methods for low-temperature \(≤200 °C\) dielectric \(SiO2-SiO2 and SiO2-SiNx\) and Cu/dielectric \(Cu/adhesive and Cu/oxide\) hybrid bonding, 
 2. Chemical/mechanical/electrical/microstructure characterization of the bonding surface/interface, and
 3. Study of mechanisms of the surface activations and bonding.
 
