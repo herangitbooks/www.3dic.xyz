@@ -42,10 +42,14 @@ Prebodning attach-detach refers to to bring two wafers into contact \(aligned\) 
 
 ## Experimental Results
 
+High-strength SiO2-SiO2, SiO2-SiNx, and Cu-Cu bonding was realized at 200 °C by the present combined SAB. Figure 4 shows photos of fracture surfaces of the SiO2-SiNx bonded samples. Si bulk fracture and transfer of films from one side to another implies great bond strength.
+
 > ![](/img/combined-SAB-SiO2-fracture.jpg)
 >
 > ##### Figure 4. Photos of fracture surface of SiO2-SiNx bonded interface. Si bulk fracture and transfer of films from one side to another implies great bond strength.
->
+
+The Cu-Cu bonded interface consists of low-O and CuOx \(~6 nm\) interfacial portions. Figure 5 shows the low-O Cu-Cu interface obtained. The formation of low-O interface is owing to diffusionof the interfacial Cu and O species. A low-resistance bonding can be expected by using the present bonding technique.
+
 > ![](/img/combined-SAB-low-O-Cu-Cu-interface.jpg)
 >
 > ##### Figure 5. TEM image of Cu-Cu bond interface without oxide interlayer.
