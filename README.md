@@ -11,13 +11,6 @@ You can find more information about me on the following links:
 * [Ran He, Ph.D.](/en/heran.md) \(My resume\)
 * [List of Publications](en/publications.md)
 
-## Surface Activated Bonding \(SAB\) Technology
-
-* [Overview](/sab/sab.md)
-* [Standard SAB](/sab/standard-sab.md)
-* [Modified SAB](/sab/modified-sab.md)
-* [Combined SAB](/sab/combined-sab.md)
-
 ## My Research
 
 * [Cu/Adhesive Hybrid Bonding at sub-200 °C](/en/Cu-adhesive-hybrid-bonding.md) in [H-containing HCOOH vapor](/sab/h-containing-hcooh-vapor.md) ambient
@@ -27,6 +20,13 @@ You can find more information about me on the following links:
 * [Cu-Cu and Au-Cu Direct Die Attach](en/Au-Cu-direct-die-attach.md) for high-power device packaging by in [H-containing HCOOH vapor](/sab/h-containing-hcooh-vapor.md) treatment
 
 * [Glass-Glass Direct Bonding](en/glass-glass-direct-bonding.md) by [modified SAB](/sab/modified-sab.md) and [sequential plasma activation bonding](/sab/sequential-plasma-activation-bonding.md)
+
+## Introduction to Surface Activated Bonding \(SAB\) Technology
+
+* [Overview](/sab/sab.md)
+* [Standard SAB](/sab/standard-sab.md)
+* [Modified SAB](/sab/modified-sab.md)
+* [Combined SAB](/sab/combined-sab.md)
 
 ---
 
