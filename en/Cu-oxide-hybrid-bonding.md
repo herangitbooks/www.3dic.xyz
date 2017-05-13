@@ -1,7 +1,7 @@
 ---
 tags: >-
-  Cu-Cu, hybrid bonding, hydrophilic bonding, surface activated bonding (SAB),
-  sub-200 °C
+  Cu-Cu, hybrid bonding, hydrophilic bonding, SiO2-SiO2, SiO2-SiNx, surface
+  activated bonding (SAB), sub-200 °C, 
 ---
 
 # Cu/SiO2 Hybrid Bonding at 200 °C for 3D IC
@@ -67,6 +67,4 @@ The Cu-Cu bonded interface consists of low-O and CuOx \(~6 nm\) interfacial port
 \[2\]  J. H. Lau, “Recent advances and trends in advanced packaging,” Chip Scale Review, pp. 1–7, 2017.
 
 ---
-
-
 
