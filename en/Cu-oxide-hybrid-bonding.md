@@ -1,7 +1,7 @@
 ---
 tags: >-
   Cu-Cu, hybrid bonding, hydrophilic bonding, SiO2-SiO2, SiO2-SiNx, surface
-  activated bonding (SAB), sub-200 °C, 
+  activated bonding (SAB), sub-200 °C,
 ---
 
 # Cu/SiO2 Hybrid Bonding at 200 °C for 3D IC
@@ -26,7 +26,7 @@ Low-temperature Cu-Cu bonding and dielectric-dielectric \(such as SiO2-SiO2\) bo
 
 ### Si-containing Ar beam {#si-containing-ar-beam}
 
-Si-containing Ar beam irradiation was used to enable Si-enrichment modification on SiO2 \(Figure 2\(a\)\) without Si deposition on Cu \(Figure 2\(b\)\), thanks to the simultaneous Si subplantation and surface sputtering/resputering effects.
+Si-containing Ar beam irradiation was used to enable Si-enrichment modification on SiO2 \(Figure 2\(a\)\) and Cu oxide removal without Si deposition on Cu \(Figure 2\(b\)\), thanks to the simultaneous Si subplantation and surface sputtering/resputering effects.
 
 > ###### ![](/img/Si-containing-Ar-beam-on-SiO2.png)\(a\) Si-containing Ar beam irradiation on SiO2, resulting in Si sites enrichment on surface for Si-OH bonding site formation
 >
@@ -67,4 +67,6 @@ The Cu-Cu bonded interface consists of low-O and CuOx \(~6 nm\) interfacial port
 \[2\]  J. H. Lau, “Recent advances and trends in advanced packaging,” Chip Scale Review, pp. 1–7, 2017.
 
 ---
+
+
 

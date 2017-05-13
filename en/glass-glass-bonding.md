@@ -8,9 +8,8 @@ tags: 'hydrophilic bonding, surface activated bonding (SAB), sub-200 °C'
 
 Direct and indirect bonding of oxide films at below 200 °C and even at room temperature.
 
-1. SiO2-SiO2, Si-SiO2,
-2. SiO2-SiNx,
-3. glass-glass, Si-glass
+1. SiO2-SiO2, Si-SiO2, SiO2-SiNx
+2. glass-glass, Si-glass, SiO2-glass
 
 ## Low-temperature Direct Bonding
 
