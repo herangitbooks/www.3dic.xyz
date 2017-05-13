@@ -6,7 +6,7 @@
 * [Research - Low-temperature Bonding](en/research-bonding.md)
   * [Cu/SiO2 Hybrid Bonding](en/Cu-oxide-hybrid-bonding.md)
   * [Cu/Adhesive Hybrid Bonding](en/Cu-adhesive-hybrid-bonding.md)
-  * [Glass-Glass Bonding](en/glass-glass-bonding.md)
+  * [Oxide \(Glass\) Wafer Bonding](en/glass-glass-bonding.md)
   * [Direct Die Attach \(Cu-Cu and Au-Cu\)](en/direct-die-attach.md)
   * [Cu Microparticles Sintering](en/Cu-microparticles-sintering.md)
   * [Superconductor Joints](en/superconductor-joints.md)
