@@ -2,11 +2,15 @@
 tags: 'hydrophilic bonding, surface activated bonding (SAB), sub-200 °C'
 ---
 
-# Glass-Glass Bonding at 150-200 °C
+# Oxide \(Glass\) Wafer Bonding at 150-200 °C
 
 ## ➶ Background
 
-Glass-glass direct and indirect bonding at below 200 °C and even at room temperature.
+Direct and indirect bonding of oxide films at below 200 °C and even at room temperature.
+
+1. SiO2-SiO2, Si-SiO2,
+2. SiO2-SiNx,
+3. glass-glass, Si-glass
 
 ## Low-temperature Direct Bonding
 
