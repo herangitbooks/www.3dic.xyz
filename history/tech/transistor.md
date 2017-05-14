@@ -1,14 +1,14 @@
 # Short History of Transistor and IC
 
-## Point-contact transistor
+## Bipolar Transistor 
+
+### Point-contact transistor
+
+### Bipolar Junction transistor \(BJT\)
 
 ## Field-Effect Transistor \(FET\)
 
-### Bipolar Transistor
-
-### Junction transistor
-
-The first grown junction transistors were manufactured in 1952.
+### The first grown junction transistors were manufactured in 1952.
 
 In 1952 alloyed junction transistor was re- ported \(two pellets of indium were alloyed on the opposite sides of a slice of silicon\).
 
