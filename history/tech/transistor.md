@@ -1,6 +1,6 @@
 # Short History of Transistor and IC
 
-## Bipolar Transistor 
+## Bipolar Transistor
 
 ### Point-contact transistor
 
@@ -29,6 +29,16 @@ In 1963 Steven Hofstein and Fredric Heiman published a paper on a silicon MOSFET
 ## Multi-gate MOSFET
 
 ## SOI MOSFET
+
+## Flip Chip
+
+## Cu interconnects
+
+## Low-k Dielectrics
+
+## System-on-Chip \(SoC\)
+
+## System-in-Packaging \(SiP\)
 
 
 
