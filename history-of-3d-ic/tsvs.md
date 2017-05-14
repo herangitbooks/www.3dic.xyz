@@ -4,7 +4,9 @@ tags: TSVs
 
 # Short History of Through-Silicon Vias \(TSVs\)
 
-On October 23, 1958, William Shockley filed a patent “Semiconductive Wafer and Method of Making the Same”, which was granted on July 17, 1962.[^1] Shockley invented a junction semiconductive device with **holes** pass through a wafer from one surface to the other. The wafers and the sidewalls of the holes are doped to be different type \(n or p-type doped\) semiconductor materials, forming a junction between them. As shown in Figure 1, the wafers is p-type doped and then the sidewall \(16\) of the hole is n-type doped. 
+Through-silicon vias \(TSVs\) are considered as a key concept in 3D IC. It is necessary \(together with bonding technology\) for vertical interconnections between devices on 3D-stacked IC layers.
+
+On October 23, 1958, William Shockley filed a patent “Semiconductive Wafer and Method of Making the Same”, which was granted on July 17, 1962.[^1] Shockley invented a junction semiconductive device with **holes** pass through a wafer from one surface to the other. The wafers and the sidewalls of the holes are doped to be different type \(n or p-type doped\) semiconductor materials, forming a junction between them. As shown in Figure 1, the wafers is p-type doped and then the sidewall \(16\) of the hole is n-type doped.
 
 > ![](/img/US3044909-0.png)Figure 1. William Shockley's invention with a hole pass through a wafer.[^1]
 
