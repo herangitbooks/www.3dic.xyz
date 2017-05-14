@@ -20,13 +20,13 @@
 * [Sequential Plasma Activation Bonding](sab/sequential-plasma-activation-bonding.md)
 * [H-containing HCOOH Vapor Treatment](sab/h-containing-hcooh-vapor.md)
 
-## © www.3DIC.xyz
-
-* [Index](tags.md)
-
 ## Short History of 3D IC
 
 * Technologies
   * [Transistors](history/tech/transistors.md)
   * [Through-silicon vias \(TSVs\)](history/tech/tsvs.md)
+
+## © www.3DIC.xyz
+
+* [Index](tags.md)
 
