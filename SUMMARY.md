@@ -23,6 +23,7 @@
 ## Short History of 3D IC
 
 * Technologies
+  * [IEEE milestones](history/tech/ieee-milestones.md)
   * [Transistor and IC](history/tech/transistor.md)
   * [Through-silicon vias \(TSVs\)](history/tech/tsvs.md)
 
