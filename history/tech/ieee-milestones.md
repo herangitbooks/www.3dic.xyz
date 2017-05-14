@@ -1,18 +1,22 @@
+# List of IEEE Milestones
+
+> http://ethw.org/Milestones:List\_of\_IEEE\_Milestones
+
 ### Prior to 1800
 
-[Book “Experiments and Observations on Electricity” by Benjamin Franklin, 1751](http://ethw.org/Milestones:Book_%E2%80%9CExperiments_and_Observations_on_Electricity%E2%80%9D_by_Benjamin_Franklin,_1751)
+[Book “Experiments and Observations on Electricity” by Benjamin Franklin, 1751](http://ethw.org/Milestones:Book_“Experiments_and_Observations_on_Electricity”_by_Benjamin_Franklin,_1751)
 
 Philadelphia, Pennsylvania, U.S.A., Dedicated 7 August 2009 - IEEE Philadelphia Section
 
 In April 1751 the Royal Society published Benjamin Franklin's book, "Experiments and Observations on Electricity: Made in Philadelphia in America." A collection of letters to London's Peter Collinson, it described Franklin's ideas about the nature of electricity and how electrical devices worked, and new experiments to investigate lightning. This book led to a better understanding of charges, stimulated Franklin's work on lightning rods, and made him an internationally known figure.
 
-[Benjamin Franklin's work in London, 1757-1775](http://ethw.org/Milestones:Benjamin_Franklin%27s_work_in_London,_1757-1775)
+[Benjamin Franklin's work in London, 1757-1775](http://ethw.org/Milestones:Benjamin_Franklin's_work_in_London,_1757-1775)
 
 London, England, Dedicated 31 March 2003 - IEEE United Kingdom and Ireland Section
 
 Benjamin Franklin, American electrician, printer, and diplomat, spent many years on Craven Street. He lived at No. 7 between 1772 and 1775 and at No. 36 from 1757-1762 and again from 1764-1772. During these years, Franklin popularized the study of electricity, performed experiments, and served as an advisor on lightning conductors.
 
-[Volta's Electrical Battery Invention, 1799](http://ethw.org/Milestones:Volta%27s_Electrical_Battery_Invention,_1799)
+[Volta's Electrical Battery Invention, 1799](http://ethw.org/Milestones:Volta's_Electrical_Battery_Invention,_1799)
 
 Como, Italy, Dedicated 1 September 1999 - IEEE Italy Section
 
@@ -20,13 +24,13 @@ In 1799, Alessandro Volta developed the first electrical battery. This battery, 
 
 ### 1800-1850
 
-[Shilling's Pioneering Contribution to Practical Telegraphy, 1828-1837](http://ethw.org/Milestones:Shilling%27s_Pioneering_Contribution_to_Practical_Telegraphy,_1828-1837)
+[Shilling's Pioneering Contribution to Practical Telegraphy, 1828-1837](http://ethw.org/Milestones:Shilling's_Pioneering_Contribution_to_Practical_Telegraphy,_1828-1837)
 
 St. Petersburg, Russia, Dedicated 18 May 2009 - IEEE Russia \(Northwest\) Section
 
 In this building, Shilling\`s original electromagnetic telegraph is exhibited. P. L. Shilling, a Russian scientist, successfully transmitted messages over different distances by means of an electric current’s effect on a magnetic needle, using two signs and a telegraph dictionary for transferring letters and digits. Shilling\`s demonstrations in St. Petersburg and abroad provided an impetus to scientists in different countries and influenced the invention of more advanced electromagnetic telegraphs.
 
-[Callan's Pioneering Contributions to Electrical Science and Technology, 1836](http://ethw.org/Milestones:Callan%27s_Pioneering_Contributions_to_Electrical_Science_and_Technology,_1836)
+[Callan's Pioneering Contributions to Electrical Science and Technology, 1836](http://ethw.org/Milestones:Callan's_Pioneering_Contributions_to_Electrical_Science_and_Technology,_1836)
 
 Maynooth, Ireland, Dedicated 5 September 2006 - IEEE United Kingdom and Ireland Section
 
@@ -46,7 +50,7 @@ Boston, MA, U.S.A., Dedicated 1 October 2004 - IEEE Boston Section
 
 On 28 April 1852 the first municipal electric fire alarm system using call boxes with automatic signaling to indicate the location of a fire was placed into operation in Boston. Invented by William Channing and Moses Farmer, this system was highly successful in reducing property loss and deaths due to fire and was subsequently adopted throughout the United States and in Canada.
 
-[Maxwell's Equations, 1860-1871](http://ethw.org/Milestones:Maxwell%27s_Equations,_1860-1871)
+[Maxwell's Equations, 1860-1871](http://ethw.org/Milestones:Maxwell's_Equations,_1860-1871)
 
 London England, Glenlair, Scotland, Dedicated 13 August 2009 - IEEE United Kingdom and Ireland Section
 
@@ -146,7 +150,7 @@ Richmond, VA, U.S.A., Dedicated 2 February 1992 - IEEE Richmond Section
 
 In February 1888, the electric street railway system designed by Frank Julian Sprague for the Richmond Union Passenger Railway began operating in Richmond, Virginia. Sprague's Richmond system became the lasting prototype for electric street railways because of its large-scale practicality and operating superiority. This system, which combined Sprague's engineering innovations with other proven technical features, helped shape urban growth worldwide.
 
-[Power System of Boston's Rapid Transit, 1889](http://ethw.org/Milestones:Power_System_of_Boston%27s_Rapid_Transit,_1889)
+[Power System of Boston's Rapid Transit, 1889](http://ethw.org/Milestones:Power_System_of_Boston's_Rapid_Transit,_1889)
 
 Boston, MA, Dedicated 10 November 2004 - IEEE Boston Section
 
@@ -160,7 +164,7 @@ Paris, France, Dedicated 23 September 2010 - IEEE France Section
 
 In this building, Edouard Branly discovered radioconduction, now called the Branly Effect. On 24 November 1890, he observed that an electromagnetic wave changes the ability of metal filings to conduct electricity. Branly used his discovery to make a very sensitive detector called a coherer, improved versions of which became the first practical wireless signal receivers.
 
-[Keage Power Station: The Japan’s First Commercial Hydroelectric Plant, 1890-1897](http://ethw.org/Milestones:Keage_Power_Station:_The_Japan%E2%80%99s_First_Commercial_Hydroelectric_Plant,_1890-1897)
+[Keage Power Station: The Japan’s First Commercial Hydroelectric Plant, 1890-1897](http://ethw.org/Milestones:Keage_Power_Station:_The_Japan’s_First_Commercial_Hydroelectric_Plant,_1890-1897)
 
 Kyoto, Dedicated 11 September 2016 - IEEE Kansai Section
 
@@ -196,13 +200,13 @@ Niagara Falls, NY, Dedicated 21 June 1990 - IEEE Buffalo Section
 
 When the Adams Plant went into operation on August 26, 1895, it represented a key victory for alternating-current systems over direct-current. The clear advantage of high voltage AC for long distance power transmission and the unprecedented size of the plant \(it reached its full capacity of ten 5,000-HP generators in May 1900\) influenced the future of the electrical industry worldwide.
 
-[Popov's Contribution to the Development of Wireless Communication, 1895](http://ethw.org/Milestones:Popov%27s_Contribution_to_the_Development_of_Wireless_Communication,_1895)
+[Popov's Contribution to the Development of Wireless Communication, 1895](http://ethw.org/Milestones:Popov's_Contribution_to_the_Development_of_Wireless_Communication,_1895)
 
 St. Petersburg, Russia, Dedicated 20 May 2005 - IEEE Russia \(Northwest\) Section
 
 On 7 May 1895, A. S. Popov demonstrated the possibility of transmitting and receiving short, continuous signals over a distance up to 64 meters by means of electromagnetic waves with the help of a special portable device responding to electrical oscillation which was a significant contribution to the development of wireless communication.
 
-[Marconi's Early Experiments in Wireless Telegraphy, 1895](http://ethw.org/Milestones:Marconi%27s_Early_Experiments_in_Wireless_Telegraphy,_1895)
+[Marconi's Early Experiments in Wireless Telegraphy, 1895](http://ethw.org/Milestones:Marconi's_Early_Experiments_in_Wireless_Telegraphy,_1895)
 
 Pontechio Marconi, Italy, Dedicated 29 April 2011 - IEEE Italy Section
 
@@ -216,7 +220,7 @@ Baltimore MD, U.S.A., Dedicated 21 June 2012 - IEEE Baltimore Section
 
 On 27 June 1895, at the nearby Howard Street Tunnel, the B&O demonstrated the first electrified main line railroad, and commercial operation began four days later. The electrification involved designing, engineering, and constructing electric locomotives far more powerful than any then existing and creating innovative electric power generation and distribution facilities. This pioneering achievement became a prototype for later main line railroad electrification.
 
-[Krka-Šibenik Electric Power System, 1895](http://ethw.org/Milestones:Krka-%C5%A0ibenik_Electric_Power_System,_1895)
+[Krka-Šibenik Electric Power System, 1895](http://ethw.org/Milestones:Krka-Šibenik_Electric_Power_System,_1895)
 
 Krka-Sibenik, Croatia, Dedicated 5 July 2013 - IEEE Croatia Section
 
@@ -330,9 +334,9 @@ This was a pioneering venture in mainline railroad electrification. It establish
 
 Georgetown, CO, U.S.A., Dedicated 22 June 1991 - IEEE Denver Section
 
-July 17, 1909, the Shoshone Transmission Line began service carrying power, generated by the Shoshone Hydroelectric Generating Station, to Denver. The Line operated at 90 kV, was 153.4 miles long, and crossed the Continental Divide three times reaching an altitude of 13,500 feet. Its design and construction represented an outstanding electrical engineering accomplishment due to its length, the mountainous country over which it was constructed, and the unusually severe weather conditions under which it operated. 
+July 17, 1909, the Shoshone Transmission Line began service carrying power, generated by the Shoshone Hydroelectric Generating Station, to Denver. The Line operated at 90 kV, was 153.4 miles long, and crossed the Continental Divide three times reaching an altitude of 13,500 feet. Its design and construction represented an outstanding electrical engineering accomplishment due to its length, the mountainous country over which it was constructed, and the unusually severe weather conditions under which it operated.
 
-[World's First Reliable High Voltage Power Fuse, 1909](http://ethw.org/Milestones:World%27s_First_Reliable_High_Voltage_Power_Fuse,_1909)
+[World's First Reliable High Voltage Power Fuse, 1909](http://ethw.org/Milestones:World's_First_Reliable_High_Voltage_Power_Fuse,_1909)
 
 Chicago, IL, U.S.A., Dedicated 3 August 2012 - IEEE Chicago Section
 
@@ -378,7 +382,7 @@ Hamamatsu, Japan, Dedicated 12 November 2009 - IEEE Nagoya Section
 
 Professor Kenjiro Takayanagi started his research program in television at Hamamatsu Technical College \(now Shizuoka University\) in 1924. He transmitted an image of the Japanese character イ\(i\) on a cathode-ray tube on 25 December 1926 and broadcast video over an electronic television system in 1935. His work, patents, articles, and teaching helped lay the foundation for the rise of Japanese television and related industries to global leadership.
 
-[Enrico Fermi's Major Contribution to Semiconductor Statistics, 1924-1926](http://ethw.org/Milestones:Enrico_Fermi%27s_Major_Contribution_to_Semiconductor_Statistics,_1924-1926)
+[Enrico Fermi's Major Contribution to Semiconductor Statistics, 1924-1926](http://ethw.org/Milestones:Enrico_Fermi's_Major_Contribution_to_Semiconductor_Statistics,_1924-1926)
 
 Florence, Italy, Dedicated 5 December 2015 - IEEE Italy Section
 
@@ -472,7 +476,7 @@ Tokyo, Japan, Dedicated 6 March 2017 - IEEE Tokyo Section
 
 In April 1933, Issac Koga of the Tokyo Institute of Technology reported cutting angles that produced quartz crystal plates having a zero temperature coefficient of frequency. These angles, 54⁰ 45’ and 137⁰ 59’, he named the R1and R2cuts. Temperature-insensitive quartz crystal was used at first for radio transmitters and later for clocks, and has proven indispensable to all radio communication systems and much of information electronics.
 
-[Long-Range Shortwave Voice Transmissions from Byrd's Antarctic Expedition, 1934](http://ethw.org/Milestones:Long-Range_Shortwave_Voice_Transmissions_from_Byrd%27s_Antarctic_Expedition,_1934)
+[Long-Range Shortwave Voice Transmissions from Byrd's Antarctic Expedition, 1934](http://ethw.org/Milestones:Long-Range_Shortwave_Voice_Transmissions_from_Byrd's_Antarctic_Expedition,_1934)
 
 Cedar Rapids, IA, Dedicated 1 February 2001 - IEEE Cedar Rapids Section
 
@@ -552,7 +556,7 @@ Denver, CO, U.S.A., Dedicated 1 September 1999 - IEEE Denver Section
 
 In 1945, Marcellus Merrill first implemented an electronic dynamic wheel-balancing system. Previously, all mechanical methods were static in nature and required removing the wheels from the vehicle. Merrill's innovative balancing system came to be widely used internationally. Elements of the dynamic balancing systems are still used today, primarily for industrial and automotive production applications.
 
-[Rincón del Bonete, 1945](http://ethw.org/Milestones:Rinc%C3%B3n_del_Bonete,_1945)
+[Rincón del Bonete, 1945](http://ethw.org/Milestones:Rincón_del_Bonete,_1945)
 
 Rincon del Bonete, Uruguay, Dedicated 14 December 2012 - IEEE Uruguay Section
 
@@ -768,11 +772,11 @@ The Apollo Guidance Computer provided spacecraft guidance, navigation, and contr
 
 [NAIC/Arecibo Radiotelescope, 1963](http://ethw.org/Milestones:NAIC/Arecibo_Radiotelescope,_1963)
 
-Arecibo, Puerto Rico, Dedicated 1 November 2001 - IEEE Puerto Rico 
+Arecibo, Puerto Rico, Dedicated 1 November 2001 - IEEE Puerto Rico
 
 &
 
- Caribbean Section
+Caribbean Section
 
 The Arecibo Observatory, the world's largest radiotelescope, was dedicated in 1963. Its design and implementation led to advances in the electrical engineering areas of antenna design, signal processing, and electronic instrumentation, and in the mechanical engineering areas of antenna suspension and drive systems. The drive system positions all active parts of the antenna with millimeter precision, regardless of temperature changes, enabling the telescope to maintain an accurate focus. Its subsequent operation led to advances in the scientific fields of radioastronomy, planetary studies, and space and atmospheric sciences.
 
@@ -780,7 +784,7 @@ The Arecibo Observatory, the world's largest radiotelescope, was dedicated in 19
 
 Proffit Mountain, Missouri, U.S.A., Dedicated 1 September 2005 - IEEE Saint Louis Section
 
-The Taum Sauk Plant, when it came on-line in 1963, was the largest pure pumped-storage electric power plant in North America. Other pioneering features for this pumped-storage plant were its high capacity turbine-generators and its ability to be operated remotely, 90 miles away, from St. Louis, Missouri. 
+The Taum Sauk Plant, when it came on-line in 1963, was the largest pure pumped-storage electric power plant in North America. Other pioneering features for this pumped-storage plant were its high capacity turbine-generators and its ability to be operated remotely, 90 miles away, from St. Louis, Missouri.
 
 [First Transpacific Reception of a Television \(TV\) Signal via Satellite, 1963](http://ethw.org/Milestones:First_Transpacific_Reception_of_a_Television_%28TV%29_Signal_via_Satellite,_1963)
 
@@ -840,7 +844,7 @@ Osake, Japan, Dedicated 27 November 2007 - IEEE Kansai Section
 
 Pioneering ticket examining machines, designed to speed commuter railroad use substantially, were first installed in 1965, based on work by a joint research team of Osaka University and Kintetsu Corporation. Following this work, an improved version -- based on joint work by Omron, Kintetsu, and Hankyu corporations using punched cards and magnetic cards -- was first deployed in 1967 and at nineteen stations in 1971.
 
-[Dadda's Multiplier](http://ethw.org/Milestones:Dadda%27s_Multiplier)
+[Dadda's Multiplier](http://ethw.org/Milestones:Dadda's_Multiplier)
 
 Milano, Italy, Dedicated 26 September 2016 - IEEE Italy Section
 
@@ -902,7 +906,7 @@ At Great Britain's Government Communications Headquarters \(GCHQ\), by 1975 Jame
 
 ### 1970-1979
 
-[World's First Low-Loss Optical Fiber for Telecommunications, 1970](http://ethw.org/Milestones:World%27s_First_Low-Loss_Optical_Fiber_for_Telecommunications,_1970)
+[World's First Low-Loss Optical Fiber for Telecommunications, 1970](http://ethw.org/Milestones:World's_First_Low-Loss_Optical_Fiber_for_Telecommunications,_1970)
 
 Corning, NY, U.S.A., Dedicated 1 May 2012 - IEEE Rochester Section
 
@@ -946,7 +950,7 @@ Tokyo, Japan, Dedicated 31 January 2012 - IEEE Tokyo Section
 
 Hitachi developed practical field emission electron source technology in collaboration with Albert Crewe of the University of Chicago, and commercialized the world’s first field emission scanning electron microscope in 1972. This technology enabled stable and reliable ultrahigh resolution imaging with easy operation. Field emission electron microscopes have made invaluable contributions to the progress of science, technology and industry in physics, biology, materials, and semiconductor devices.
 
-[SHAKEY: The World’s First Mobile Intelligent Robot, 1972](http://ethw.org/Milestones:SHAKEY:_The_World%E2%80%99s_First_Mobile_Intelligent_Robot,_1972)
+[SHAKEY: The World’s First Mobile Intelligent Robot, 1972](http://ethw.org/Milestones:SHAKEY:_The_World’s_First_Mobile_Intelligent_Robot,_1972)
 
 Menlo Park, CA, Dedicated 16 February 2017 - IEEE Santa Clara Valley Section
 
