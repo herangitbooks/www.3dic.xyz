@@ -40,5 +40,7 @@ In 1963 Steven Hofstein and Fredric Heiman published a paper on a silicon MOSFET
 
 ## System-in-Packaging \(SiP\)
 
+---
+
 
 
