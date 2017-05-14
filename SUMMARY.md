@@ -1,5 +1,6 @@
 # Summary
 
+* [Index](tags.md)
 * [Welcome](README.md)
 * [Ran He, Ph.D.](/en/heran.md)
   * [List of Publications](en/publications.md)
@@ -27,6 +28,4 @@
   * [Through-silicon vias \(TSVs\)](history/tech/tsvs.md)
 
 ## © www.3DIC.xyz
-
-* [Index](tags.md)
 
