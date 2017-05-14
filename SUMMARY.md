@@ -1,6 +1,7 @@
 # Summary
 
 * [Welcome](README.md)
+* [Index](tags.md)
 * [Ran He, Ph.D.](/en/heran.md)
   * [List of Publications](en/publications.md)
 * [Research - Low-temperature Bonding](en/research-bonding.md)
@@ -27,6 +28,4 @@
   * [Through-silicon vias \(TSVs\)](history/tech/tsvs.md)
 
 ## © www.3DIC.xyz
-
-* [Index](tags.md)
 
