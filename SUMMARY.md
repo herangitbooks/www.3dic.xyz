@@ -23,7 +23,7 @@
 ## Short History of 3D IC
 
 * Technologies
-  * [Transistors and IC](history/tech/transistors.md)
+  * [Transistor and IC](history/tech/transistor.md)
   * [Through-silicon vias \(TSVs\)](history/tech/tsvs.md)
 
 ## © www.3DIC.xyz
