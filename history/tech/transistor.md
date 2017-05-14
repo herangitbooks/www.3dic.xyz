@@ -1,5 +1,9 @@
 # Short History of Transistor and IC
 
+## Semiconductor
+
+The first recorded effect that can be ascribed to semiconductor behaviour was the observation by M. Faraday in 1833 that silver sulphide, unlike metals, exhibited a negative temperature coefficient.
+
 ## Bipolar Transistor
 
 ### Point-contact transistor
@@ -24,19 +28,21 @@
 >
 > Peter Robin Morris, _History of Technology : History of the World Semiconductor Industry_
 
-## Planar transistor
+## Planar Transistor Process
 
-The planar transistor process was invented by J.A. Hoerni of the Fairchild Corporation in 1959, and first described in Europe by V.H. Grinich and J.A. Hoerni in February 1961. This invention opened up the prospect of successful metal-oxide-silicon field-effect transistor \(MOSFET\) and integrated circuit \(IC\) manufacture.
+The planar transistor process was invented by **Jean A. Hoerni** of the Fairchild Corporation in 1959, and first described in Europe by V.H. Grinich and J.A. Hoerni in February 1961. **This invention opened up the prospect of successful metal-oxide-silicon field-effect transistor \(MOSFET\) and integrated circuit \(IC\) manufacture.**
+
+## Integrated Circuit \(IC\)
+
+On 12 September 1958, Jack S. Kilby demonstrated the first working integrated circuit to managers at Texas Instruments. This was the first time electronic components were integrated onto a single substrate. This seminal device consisted of a phase shift oscillator circuit on a tiny bar of **germanium**. 
+
+In 1959, **R. Noyce** of the Fairchild Corporation, six months after Kilby's success, produced **the first silicon planar IC** based on Jean A. Hoerni's planer technology, thereby rendering the concept commercially viable. **The semiconductor planar process and IC led to the present IC industry**, which today supplies a wide and growing variety of advanced semiconductor products used throughout the world.
 
 ## Metal-Oxide-Semiconductor FET \(MOSFET\) and CMOS FET
 
 In 1930 and 1933 Julius Lilienfeld obtained patents for devices resembling today’s MESFET and MOSFET, respectively.
 
 In 1963 Steven Hofstein and Fredric Heiman published a paper on a Si MOSFET with a Al gate and SiO2 gate dielectric. In the same year the first CMOS circuit was proposed by Frank Wanlass.
-
-## Integrated Circuit \(IC\)
-
-The most significant advance was, however, made by R. Noyce of the Fairchild Corporation, who, six months after Kilby's success, produced **the first Si planar IC**, thereby rendering the concept commercially viable.
 
 ## Poly-Si gate MOSFET
 
