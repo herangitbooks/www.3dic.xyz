@@ -1,7 +1,6 @@
 # Summary
 
 * [Welcome](README.md)
-* [Index](tags.md)
 * [Ran He, Ph.D.](/en/heran.md)
   * [List of Publications](en/publications.md)
 * [Research - Low-temperature Bonding](en/research-bonding.md)
@@ -24,8 +23,10 @@
 ## Short History of 3D IC
 
 * Technologies
-  * [Transistors](history/tech/transistors.md)
+  * [Transistors and IC](history/tech/transistors.md)
   * [Through-silicon vias \(TSVs\)](history/tech/tsvs.md)
 
 ## © www.3DIC.xyz
+
+* [Index](tags.md)
 
