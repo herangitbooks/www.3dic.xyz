@@ -34,11 +34,9 @@ In 1930 and 1933 Julius Lilienfeld obtained patents for devices resembling today
 
 In 1963 Steven Hofstein and Fredric Heiman published a paper on a Si MOSFET with a Al gate and SiO2 gate dielectric. In the same year the first CMOS circuit was proposed by Frank Wanlass.
 
-
-
 ## Integrated Circuit \(IC\)
 
-The most significant advance was, however, made by R. Noyce of the Fairchild Corporation, who, six months after Kilby's success, produced the first silicon planar integrated circuit, thereby rendering the concept commercially viable.
+The most significant advance was, however, made by R. Noyce of the Fairchild Corporation, who, six months after Kilby's success, produced **the first Si planar IC**, thereby rendering the concept commercially viable.
 
 ## Poly-Si gate MOSFET
 
