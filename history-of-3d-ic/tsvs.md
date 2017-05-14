@@ -8,11 +8,7 @@ On October 23, 1958, William Shockley filed a patent “Semiconductive Wafer and
 
 > ![](/img/US3044909-0.png)Figure 1. William Shockley's invention with a hole pass through a wafer.[^1]
 
-December 28, 1964, Merlin G Smith, Stern Emanuel at IBM filed a patent “Methods of Making Thru-Connections in Semiconductor Wafers”, which was granted on September 26, 1967[^2] . In this patent, they invented a method forming a **thru-connection** between conductive patterns formed over opposite surfaces, as shown in the Figure 2.
-
-
-
-
+The purpose of Shockley's patent is to make a lateral junction rather than 3D IC. On December 28, 1964, Merlin G Smith, Stern Emanuel at IBM filed a patent “Methods of Making Thru-Connections in Semiconductor Wafers”, which was granted on September 26, 1967[^2] . In this patent, they invented a method forming a **thru-connection** between conductive patterns formed over opposite surfaces, as shown in the Figure 2. This is the structure like the TSVs we are using for 3D IC today.
 
 > ![](/img/US3343256-0.png)Figure 2.Merlin Smith and Emanuel Stern's “Methods of Making Thru-Connections in Semiconductor Wafers” .[^2]
 
