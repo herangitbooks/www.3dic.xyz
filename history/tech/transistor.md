@@ -50,7 +50,7 @@ In 1963 Steven Hofstein and Fredric Heiman published a paper on a Si MOSFET with
 
 ## High-k/metal-gate MOSFET
 
-## Multi-gate MOSFET
+## Multi-gate MOSFET \(FinFET\)
 
 ## SOI MOSFET
 
