@@ -30,7 +30,7 @@
 
 \[11\]    **Ran He**, Masahisa Fujino, Masatake Akaike, Taiji Sakai, Seiki Sakuyama, and Tadatomo Suga, “Cu/Adhesive Hybrid Bonding through a Cu-first Approach by Using H-containing HCOOH Vapor Treatment”, to be presented in 2017 IEEE 18th International Conference on Electronic Packaging Technology \(ICEPT2017\), Harbin, China, Aug. 16-19, 2017.
 
-\[12\]    **Ran He** and Tadatomo Suga, “Novel Sequential Plasma Activation Bonding Method for Direct Glass Bonding”, to be presented in 2017 5th International Workshop on Low Temperature Bonding for 3D Integration \(LTB-3D 2017\), Tokyo, Japan, May 16-18, 2017.
+\[12\]    **Ran He** and Tadatomo Suga, “Novel Sequential Plasma Activation Bonding Method for Direct Glass Bonding”, in 2017 5th International Workshop on Low Temperature Bonding for 3D Integration \(LTB-3D 2017\), Tokyo, Japan, May 16-18, 2017.
 
 \[13\]    **Ran He**, Masahisa Fujino, Akira Yamauchi, and Tadatomo Suga, “Combined Surface Activated Bonding Technique for Hydrophilic SiO2-SiO2 and Cu-Cu Bonding,” ECS Trans., vol. 75, no. 9, pp. 117–128, Aug. 2016.
 
