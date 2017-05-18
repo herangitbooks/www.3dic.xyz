@@ -1,5 +1,5 @@
 ---
-Tags: Short History
+Tags: 'Short History,'
 ---
 
 # Short History of Wafer Bonding
@@ -7,6 +7,4 @@ Tags: Short History
 Wafer bonding
 
 ---
-
-
 

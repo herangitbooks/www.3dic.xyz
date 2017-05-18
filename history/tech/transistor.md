@@ -1,5 +1,5 @@
 ---
-Tags: Short History
+Tags: 'Short History,'
 ---
 
 # Short History of Transistor and IC

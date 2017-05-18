@@ -1,8 +1,6 @@
 ---
-Tags: Short History
+Tags: 'Short History,'
 ---
 
 # Short History of Wafer Thinning
-
-
 
