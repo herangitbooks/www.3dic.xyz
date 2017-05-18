@@ -22,10 +22,15 @@
 
 ## Short History of 3D IC
 
-* Technologies
-  * [IEEE milestones](history/tech/ieee-milestones.md)
+* [Technologies](short-history-of-3d-ic/technologies.md)
+  * [IEEE Milestones](history/tech/ieee-milestones.md)
   * [Transistor and IC](history/tech/transistor.md)
-  * [Through-silicon vias \(TSVs\)](history/tech/tsvs.md)
+  * [Flip Chip and MCM](history/tech/flip-chip-and-mcm.md)
+  * [System-in-Package \(SiP\)](history/tech/sip.md)
+  * [Package-on-Package \(PoP\)](history/tech/pop.md)
+  * [Through-Silicon Vias \(TSVs\)](history/tech/tsvs.md)
+  * [Wafer Bonding](history/tech/wafer-bonding.md)
+  * [Wafer Thinning](history/tech/wafer-thinning.md)
 
 ## © www.3DIC.xyz
 
