@@ -1,5 +1,5 @@
 ---
-tags: 'TSVs, 3D IC'
+Tags: Short History
 ---
 
 # Short History of Through-Silicon Vias \(TSVs\)
@@ -17,8 +17,6 @@ The purpose of Shockley's patent is to make a lateral junction rather than 3D IC
 > ![](/img/US3343256-0.png)Figure 2.Merlin Smith and Emanuel Stern's “Methods of Making Thru-Connections in Semiconductor Wafers” .[^2]
 
 ## TSVs-containing Passive Interposer for 2.5D Integration
-
-
 
 ## TSVs for 3D Integration
 

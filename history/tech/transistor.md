@@ -1,3 +1,7 @@
+---
+Tags: Short History
+---
+
 # Short History of Transistor and IC
 
 ## Semiconductor
@@ -65,6 +69,4 @@ In 1963 Steven Hofstein and Fredric Heiman published a paper on a Si MOSFET with
 ## System-in-Packaging \(SiP\)
 
 ---
-
-
 
