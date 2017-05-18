@@ -1,8 +1,8 @@
 ---
-Tags: 'Short History,'
+Tags: 'TSVs, 3D IC'
 ---
 
-# Short History of Through-Silicon Vias \(TSVs\)
+# Through-Silicon Vias \(TSVs\)
 
 ## Concept of TSVs
 

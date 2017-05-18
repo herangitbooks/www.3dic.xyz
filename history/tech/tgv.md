@@ -1,6 +1,6 @@
 ---
-Tags: 'Short History,'
+Tags: 'TGVs,'
 ---
 
-# Short History of Through-Glass Vias \(TGVs\)
+# Through-Glass Vias \(TGVs\)
 
