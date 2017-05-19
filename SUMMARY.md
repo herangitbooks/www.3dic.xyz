@@ -2,14 +2,14 @@
 
 * [Welcome](README.md)
 * [Ran He, Ph.D.](/en/heran.md)
-  * [List of Publications](en/publications.md)
-* [Research - Low-temperature Bonding](en/research-bonding.md)
-  * [Cu/SiO2 Hybrid Bonding](en/Cu-oxide-hybrid-bonding.md)
-  * [Cu/Adhesive Hybrid Bonding](en/Cu-adhesive-hybrid-bonding.md)
-  * [Oxide \(Glass\) Wafer Bonding](en/glass-glass-bonding.md)
-  * [Direct Die Attach \(Cu-Cu and Au-Cu\)](en/direct-die-attach.md)
-  * [Cu Microparticles Sintering](en/Cu-microparticles-sintering.md)
-  * [Superconductor Joints](en/superconductor-joints.md)
+  * [List of Publications](heran/pub.md)
+* [Research - Low-temperature Bonding](heran/research-bonding.md)
+  * [Cu/SiO2 Hybrid Bonding](heran/Cu-oxide-hybrid-bonding.md)
+  * [Cu/Adhesive Hybrid Bonding](heran/Cu-adhesive-hybrid-bonding.md)
+  * [Oxide \(Glass\) Wafer Bonding](heran/glass-glass-bonding.md)
+  * [Direct Die Attach \(Cu-Cu and Au-Cu\)](heran/direct-die-attach.md)
+  * [Cu Microparticles Sintering](heran/Cu-microparticles-sintering.md)
+  * [Superconductor Joints](heran/superconductor-joints.md)
 
 ## SAB Technology
 
@@ -23,22 +23,24 @@
 ## Short History of 3D IC
 
 * [Technologies](short-history-of-3d-ic/technologies.md)
-  * [IEEE Milestones](history/tech/ieee-milestones.md)
-  * [Transistors and ICs](history/tech/transistor.md)
-  * [Flip Chip and MCM](history/tech/flip-chip-and-mcm.md)
-  * [System-in-Package \(SiP\)](history/tech/sip.md)
-  * [Package-on-Package \(PoP\)](history/tech/pop.md)
-  * [Through-Silicon Vias \(TSVs\)](history/tech/tsv.md)
-  * [Through-Glass Vias \(TGVs\)](history/tech/tgv.md)
-  * [Wafer Bonding](history/tech/wafer-bonding.md)
-  * [Wafer Thinning](history/tech/wafer-thinning.md)
+  * [3D Integration Schemes](tech/3d-schemes.md)
+  * [Transistors and ICs](tech/transistor.md)
+  * [Flip Chip and MCM](tech/flip-chip-and-mcm.md)
+  * [System-in-Package \(SiP\)](tech/sip.md)
+  * [Package-on-Package \(PoP\)](tech/pop.md)
+  * [Through-Silicon Vias \(TSVs\)](tech/tsv.md)
+  * [Through-Glass Vias \(TGVs\)](tech/tgv.md)
+  * [Wafer Bonding](tech/wafer-bonding.md)
+  * [Wafer Thinning](tech/wafer-thinning.md)
+  * [Appendix: IEEE Milestones](tech/ieee-milestones.md)
+
 * [Products](short-history-of-3d-ic/products.md)
-  * CIS
-  * FPGA
-  * HBM
-  * GPU
-  * DRAM
-  * 3D-NAND
+  * [CIS](tech/cis.md)
+  * [FPGA](tech/fpga.md)
+  * [HBM](tech/hbm.md)
+  * [GPU]((tech/gpu.md))
+  * [DRAM]((tech/dram.md))
+  * [3D-NAND]((tech/3d-nand.md))
 
 ## © www.3DIC.xyz
 
