@@ -1,5 +1,10 @@
 {
     "author" : "Ran He",
+    
+    "structure": {
+ 			"structure.readme": "Intro.md"
+ 		},
+    
     "links" : {
         "sidebar" : {
         "© www.3dic.xyz" : "https://www.3dic.xyz",
@@ -7,12 +12,10 @@
         "Contact" : "mailto:he.ran@su.t.u-tokyo.ac.jp"
         }
       },
+    
     "styles": {
         "website": "styles/website.css"
     },
-    "structure": {
- 			"structure.readme": "Intro.md"
- 		},
     
     "plugins": [
     "ad",
@@ -33,13 +36,16 @@
       "family": "serif",
       "size": 2
       },
+        
     "ad": {
       "contentTop": "",
       "contentBottom": "©2016–2017 Ran He (www.3dic.xyz) all rights reserved."
       },
+        
     "sitemap": {
       "hostname": "https://www.3dic.xyz/"
       },
+        
     "sharing": {
             "facebook": false,
             "twitter": false,
@@ -51,12 +57,13 @@
                 "weibo", "instapaper"
             ]
      },
+        
      "tags": {
             "placement": "bottom"
         },
+        
      "editlink": {
         "base": "https://github.com/herangitbooks/www.3dic.xyz/blob/master",
-        "label": "GitHub Edit"}
-         
+        "label": "Edit"}   
     }
 }
