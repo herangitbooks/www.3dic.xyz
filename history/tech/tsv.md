@@ -19,6 +19,12 @@ The purpose of Shockley's patent is to make a lateral junction rather than 3D IC
 ## TSVs-containing Passive Interposer for 2.5D Integration
 
 ## TSVs for 3D Integration
+### Prebonding TSVs: via-first, via-middle, or via-last
+
+
+
+### Postbonding TSVs
+
 
 [^1]: William Shockley, “Semiconductive Wafer and Method of Making the Same”, US Patent \# 3,044,909, filed on October 23, 1958 and granted on July 17, 1962.
 
