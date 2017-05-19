@@ -21,7 +21,7 @@
     "simple-page-toc",
     "page-toc-button",
     "sharing",
-    "tags", "-lunr", "-search", "search-pro"
+    "tags", "-lunr", "-search", "search-pro", "editlink"
         ],
     
     "pluginsConfig": {
@@ -50,7 +50,10 @@
      },
      "tags": {
             "placement": "bottom"
-        }
+        },
+     "editlink": {
+        "base": "https://github.com/herangitbooks/www.3dic.xyz/blob/master/content",
+        "label": "Edit This Page"
          
     }
 }
