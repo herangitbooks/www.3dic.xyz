@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](Intro.md)
+* [INTRODUCTION](INTRO.md)
 * [Ran He, Ph.D.](heran.md)
   * [List of Publications](heran/pub.md)
 * [Research - Low-temperature Bonding](heran/research-bonding.md)
