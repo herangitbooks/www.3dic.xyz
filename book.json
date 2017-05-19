@@ -10,6 +10,9 @@
     "styles": {
         "website": "styles/website.css"
     },
+    "structure": {
+ 			"readme": "Welcome.md"
+ 		},
     
     "plugins": [
     "ad",
