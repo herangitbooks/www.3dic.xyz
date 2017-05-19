@@ -11,7 +11,7 @@
         "website": "styles/website.css"
     },
     "structure": {
- 			"structure.readme": "WELCOME.md"
+ 			"structure.readme": "Intro.md"
  		},
     
     "plugins": [
