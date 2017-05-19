@@ -1,7 +1,7 @@
 # Summary
 
 * [Welcome](README.md)
-* [Ran He, Ph.D.](/en/heran.md)
+* [Ran He, Ph.D.](heran.md)
   * [List of Publications](heran/pub.md)
 * [Research - Low-temperature Bonding](heran/research-bonding.md)
   * [Cu/SiO2 Hybrid Bonding](heran/Cu-oxide-hybrid-bonding.md)
@@ -22,7 +22,7 @@
 
 ## Short History of 3D IC
 
-* [Technologies](short-history-of-3d-ic/technologies.md)
+* Technologies
   * [3D Integration Schemes](tech/3d-schemes.md)
   * [Transistors and ICs](tech/transistor.md)
   * [Flip Chip and MCM](tech/flip-chip-and-mcm.md)
@@ -34,7 +34,7 @@
   * [Wafer Thinning](tech/wafer-thinning.md)
   * [Appendix: IEEE Milestones](tech/ieee-milestones.md)
 
-* [Products](short-history-of-3d-ic/products.md)
+* Products
   * [CIS](tech/cis.md)
   * [FPGA](tech/fpga.md)
   * [HBM](tech/hbm.md)
