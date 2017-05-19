@@ -52,7 +52,7 @@
             "placement": "bottom"
         },
      "editlink": {
-        "base": "https://github.com/herangitbooks/www.3dic.xyz/blob/master/content",
+        "base": "https://github.com/herangitbooks/www.3dic.xyz/blob/master",
         "label": "Edit This Page"}
          
     }
