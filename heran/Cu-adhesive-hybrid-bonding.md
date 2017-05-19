@@ -4,7 +4,7 @@ tags: >-
   (SAB), sub-200 °C, thermal-compression bonding
 ---
 
-# Cu/Adhesive Hybrid Bonding at Sub-200 °C for 3D IC Integration {#tit0005}
+# Cu/Adhesive Hybrid Bonding at Sub-200 °C for 3D IC Integration
 
 ## ➶ Background
 
