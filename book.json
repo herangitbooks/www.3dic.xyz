@@ -2,7 +2,7 @@
     "author" : "Ran He",
     
     "structure": {
- 			"structure.readme": "Intro.md"
+ 			"readme": "Intro.md"
  		},
     
     "links" : {
