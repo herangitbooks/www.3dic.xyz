@@ -73,7 +73,9 @@ On 18 June 1963, the first CMOS circuit combining p-channel and n-channel MOS tr
 
 
 ## References
+
 [^1]: Edgar Lilienfeld Julius, Electric current control mechanism, CA272437 A, filed 22 Octobor 1925.
+
 [^2]: Wanlass, F. M. and Sah, C.T. "Nanowatt Logic Using Field-Effect Metal-Oxide Semiconductor Triodes," International Solid State Circuits Conference Digest of Technical Papers (February 20, 1963) pp. 32-33. doi: [10.1109/ISSCC.1963.1157450](http://ieeexplore.ieee.org/document/1157450/)
 
 
