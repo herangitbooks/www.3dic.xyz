@@ -32,21 +32,23 @@ In two short papers titled "The Theory of Electronic Semi-Conductors \(I and II\
 
 ## Junction Field-Effect Transistor \(JFET\)
 
-> A succession of FET-like devices were patented by Julius Lilienfeld in the 1920s [^1] and 1930s. However, materials science and fabrication technology would require decades of advances before FETs could actually be made. Following the invention of the bipolar transistor at Bell in 1947, Bell Labs continued work on the FET, with the object of obtaining a device with a higher frequency response than the existing point-contact and grown-junction transistors.
+> A succession of FET-like devices were patented by [Julius Lilienfeld](https://en.wikipedia.org/wiki/Julius_Edgar_Lilienfeld) in the 1920s [^1] and 1930s. However, materials science and fabrication technology would require decades of advances before FETs could actually be made. Following the invention of the bipolar transistor at Bell in 1947, Bell Labs continued work on the FET, with the object of obtaining a device with a higher frequency response than the existing point-contact and grown-junction transistors.
 >
-> Shockley and Pearson demonstrated the field effect in 1948 and showed that the conductance in the surface region of a semiconductor could be modulated. Following this, in 1953, W.L. Brown postulated the behaviour of an ion-induced conducting channel. In 1955, Ross proposed that such a channel could be made by inducing an inversion layer by means of an electrode placed in the region of the base of a semiconductor device. The difficulty in realising this concept was the lack of a suitable dielectric material across which to induce the charge. This problem was solved by M.M. Atalla in 1959, who proposed that thermally grown silicon dioxide could be used as a gate insulation dielectric, when grown upon single crystal silicon. This was successfully achieved by D. Kahng and M.M. Atalla, of Bell Laboratories, who reported their findings in I960.58 This achievement owed much to the work of Ligenza, who succeeded in growing good quality, high dielectric strength silicon dioxide films by high pressure steam oxidation of silicon. Meanwhile in 1957 J.T.Wallmark of RCA took out a patent on the FET but did no further work in this field. By 1959 P. Weiner, also of RCA had constructed a thin-film FET using cadmium sulphide.
+> Shockley and Pearson demonstrated the field effect in 1948 and showed that the conductance in the surface region of a semiconductor could be modulated. Following this, in 1953, W.L. Brown postulated the behaviour of an ion-induced conducting channel. In 1955, Ross proposed that such a channel could be made by inducing an inversion layer by means of an electrode placed in the region of the base of a semiconductor device. The difficulty in realising this concept was the lack of a suitable dielectric material across which to induce the charge. 
+>
+> This problem was solved by M. M. Atalla in 1959, who proposed that thermally grown silicon dioxide could be used as a gate insulation dielectric, when grown upon single crystal silicon. This was successfully achieved by D. Kahng and M. M. Atalla, of Bell Laboratories, who reported their findings in I960. This achievement owed much to the work of Ligenza, who succeeded in growing good quality, high dielectric strength silicon dioxide films by high pressure steam oxidation of silicon. 
+>
+> Meanwhile in 1957 J. T. Wallmark of RCA took out a patent on the FET but did no further work in this field. By 1959 P. Weiner, also of RCA had constructed a thin-film FET using cadmium sulphide.
 >
 > The first commercial field effect transistor was produced in France in 1958 by Stanislaus Teszner, a Polish scientist employed by CFTH, a General Electric affiliate. Called the Technitron, this device was of germanium alloy construc- tion.61 It suffered from the disadvantages of high reverse leakage current and low transconductance, rendering it effectively a low gain amplifying device.
 >
 > Peter Robin Morris, _History of Technology : History of the World Semiconductor Industry_
 
-## Planar Transistor Process
-
-
 ## Integrated Circuit \(IC\)
-
+### Kilby's Mesa Ge IC
 On 12 September 1958, Jack S. Kilby demonstrated the first working integrated circuit (consisted of a phase shift oscillator circuit on mesa germanium) to managers at Texas Instruments (TI). This was the first time electronic components were integrated onto a single substrate. Kilby’s reduction to practice of his invention was that of a hybrid IC (using mesa fabrication and isolation techonology instead of planar technology, germanium instead of silicon, and gold wire-bonds interconnects instead of  on-chip interconnects), not a monolithic IC.
 
+### Noyce's Planar Si IC
 Six weeks after TI had gone public with Kilby’s invention, [Kurt Lehovec](https://en.wikipedia.org/wiki/Kurt_Lehovec) of the Sprague Electric Co designed an IC whose components were isolated by p-n junctions, and filed a patent ([US3029366 A](https://www.google.com/patents/US3029366)) on April 22 1959.
 
 Built upon the original work of several other people done earlier, the planar transistor process was patented ([US3025589 A](https://www.google.com/patents/US3025589)) by **Jean A. Hoerni** of the Fairchild Corporation in May 1 1959, and first described in Europe by V.H. Grinich and J.A. Hoerni in February 1961. **This invention opened up the prospect of successful metal-oxide-silicon field-effect transistor \(MOSFET\) and integrated circuit \(IC\) manufacture.**
@@ -69,12 +71,11 @@ Table I. Key requirements for making monolithic IC and whether or not they were 
 | Planar device interconnections | No (Gold wire bonds) | **Yes (Aluminum)**     |
 
 
-
 Kilby won the 2000 Nobel Prize in Physics for his part in the invention of the integrated circuit, while R. Noyce died from a heart attach at the age of 62 on June 6th, 1990.
 
 ## Metal-Oxide-Semiconductor FET \(MOSFET\) and CMOS FET
 
-In 1930 and 1933 Julius Lilienfeld obtained patents for devices resembling today’s MESFET and MOSFET, respectively.
+In 1930 and 1933 [Julius Lilienfeld](https://en.wikipedia.org/wiki/Julius_Edgar_Lilienfeld) obtained patents for devices resembling today’s MESFET and MOSFET, respectively.
 
 In 1963 Frank M. Wanlass and C.T. Sah of Fairchild R&D, Palo Alto presented a paper describing the use of complementary MOS \(CMOS\) structures to achieve very low power operation compared to contemporary bipolar circuits at ISSCC in February 1963 [^2].
 
