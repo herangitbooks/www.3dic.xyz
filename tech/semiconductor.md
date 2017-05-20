@@ -62,6 +62,7 @@ Built upon the original work of several other people done earlier, the planar tr
 In 1959, **R. Noyce** of the Fairchild Corporation, six months after Kilby's success, produced **the first silicon planar IC based on Jean A. Hoerni's planer technology and Lehovec’s p-n junctions**, thereby rendering the concept commercially viable. **The semiconductor planar process and IC led to the present IC industry**, which today supplies a wide and growing variety of advanced semiconductor products used throughout the world. **R. Noyce **co-founded Fairchild Semiconductor in 1957 and Intel Corporation in 1968.
 
 >![](/img/kilby-noyce-patents-compared.png)
+>
 >Kilby and Noyce's patents compared. (http://www.explainthatstuff.com/integratedcircuits.html)
 
 Table I. Key requirements for making monolithic IC and whether or not they were met by Kilby and Noyce in their respective inventions.
