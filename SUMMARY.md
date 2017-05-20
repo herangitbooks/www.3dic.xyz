@@ -20,11 +20,11 @@
 * [Sequential Plasma Activation Bonding](sab/sequential-plasma-activation-bonding.md)
 * [H-containing HCOOH Vapor Treatment](sab/h-containing-hcooh-vapor.md)
 
-## Short History of 3D IC
+## Introduction to 3D IC
 
 * Technologies
   * [3D Integration Schemes](tech/3d-schemes.md)
-  * [Short History of Transistors and ICs](tech/transistor.md)
+  * [Short History of Semiconductor Technology](tech/semiconductor.md)
   * [Flip Chip and MCM](tech/flip-chip-and-mcm.md)
   * [System-in-Package \(SiP\)](tech/sip.md)
   * [Package-on-Package \(PoP\)](tech/pop.md)
