@@ -24,7 +24,7 @@
 
 * Technologies
   * [3D Integration Schemes](tech/3d-schemes.md)
-  * [Transistors and ICs](tech/transistor.md)
+  * [Short History of Transistors and ICs](tech/transistor.md)
   * [Flip Chip and MCM](tech/flip-chip-and-mcm.md)
   * [System-in-Package \(SiP\)](tech/sip.md)
   * [Package-on-Package \(PoP\)](tech/pop.md)
