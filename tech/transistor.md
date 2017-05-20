@@ -1,4 +1,4 @@
-# Transistors and ICs
+# Short History of Transistors and ICs
 
 ## Semiconductor
 
