@@ -1,8 +1,12 @@
 # Short History of Transistors and ICs
 
-## Semiconductor
+## Semiconductor Behaviour
 
-The first recorded effect that can be ascribed to semiconductor behaviour was the observation by M. Faraday in 1833 that silver sulphide, unlike metals, exhibited a negative temperature coefficient.
+The first recorded effect that can be ascribed to semiconductor behaviour was the observation by M. Faraday in 1833 that silver sulphide, unlike metals, exhibited a negative temperature coefficient. Translated into English as "semiconductor," the German word "halbleiter" was first used in 1911 to describe materials with electrical conductivities between those of metals (conductors) and insulators.
+
+In 1928-1931, After Scrodinger, Heisenberg, Bohr, Born, Dirac and Jordan finish inventing quentum theory, people like Bloch, [Alan Wilson](https://en.wikipedia.org/wiki/Alan_Herries_Wilson) and Rudolf Peierls start applying it to solids , and they come up with `band theory`. They found that, because the phase of the wave function can vary from site to site without violating the boundary condition, bands of allowed energy states exist that may be spread over several eV. They introduced the wave vector k that labels the individual levels in a band and describes the frequency and direction of the phase modulation. And essentially, they showed that a material can be classified as a metal or an insulator according to whether the highest occupied electron level lies within a band or at the bottom of a band gap.
+
+In two short papers titled "The Theory of Electronic Semi-Conductors (I and II)" published in 1931, [Alan Wilson](https://en.wikipedia.org/wiki/Alan_Herries_Wilson) proposed that their peculiar properties were due to the presence of impurity atoms in otherwise pure crystals of these materials.
 
 ## Bipolar Transistor
 
