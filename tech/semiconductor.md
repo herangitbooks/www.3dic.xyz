@@ -65,7 +65,7 @@ Table I. Key requirements for making monolithic IC and whether or not they were 
 
 | Key requirements for making IC | Kilby                | Noyce                  |
 | :----------------------------- | :------------------- | :--------------------- |
-| Devices fabricated on one substrate | Yes                  | Yes                    |
+| Devices integrated on a single substrate | Yes                  | Yes                    |
 | Planar device fabrication      | No (mesa Ge)         | **Yes (Planar Si invented by Hoerni in 1959)**    |
 | Planar device isolation        | No (mesa)            | **Yes (p-n junction isolation invented by Lehovec in 1959)** |
 | Planar device interconnections | No (Gold wire bonds) | **Yes (Aluminum)**     |
