@@ -42,7 +42,7 @@ In two short papers titled "The Theory of Electronic Semi-Conductors \(I and II\
 
 ## Planar Transistor Process
 
-The planar transistor process was invented by **Jean A. Hoerni** of the Fairchild Corporation in 1959, and first described in Europe by V.H. Grinich and J.A. Hoerni in February 1961. **This invention opened up the prospect of successful metal-oxide-silicon field-effect transistor \(MOSFET\) and integrated circuit \(IC\) manufacture.**
+The invention of the planar technology was built upon the original work of several other people done earlier, the planar transistor process was patented by **Jean A. Hoerni** of the Fairchild Corporation in 1959, and first described in Europe by V.H. Grinich and J.A. Hoerni in February 1961. **This invention opened up the prospect of successful metal-oxide-silicon field-effect transistor \(MOSFET\) and integrated circuit \(IC\) manufacture.**
 
 ## Integrated Circuit \(IC\)
 
@@ -55,8 +55,8 @@ Table I. Key requirements for making monolithic IC and whether or not they were 
 | Key requirements for making IC | Kilby                | Noyce                  |
 | :----------------------------- | :------------------- | :--------------------- |
 | Monolithic IC                  | Yes                  | Yes                    |
-| Planar device fabrication      | No (mesa Ge)         | **Yes (Planar Si)**    |
-| Planar device isolation        | No (mesa)            | **Yes (p-n junction)** |
+| Planar device fabrication      | No (mesa Ge)         | **Yes (Planar Si invented by Hoerni in 1959)**    |
+| Planar device isolation        | No (mesa)            | **Yes (p-n junction invented by Lehovec in 1959)** |
 | Planar device interconnections | No (Gold wire bonds) | **Yes (Aluminum)**     |
 
 
