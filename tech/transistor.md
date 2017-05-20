@@ -36,7 +36,7 @@ The planar transistor process was invented by **Jean A. Hoerni** of the Fairchil
 
 On 12 September 1958, Jack S. Kilby demonstrated the first working integrated circuit to managers at Texas Instruments. This was the first time electronic components were integrated onto a single substrate. This seminal device consisted of a phase shift oscillator circuit on a tiny bar of **germanium**.
 
-In 1959, **R. Noyce** of the Fairchild Corporation, six months after Kilby's success, produced **the first silicon planar IC** based on Jean A. Hoerni's planer technology, thereby rendering the concept commercially viable. **The semiconductor planar process and IC led to the present IC industry**, which today supplies a wide and growing variety of advanced semiconductor products used throughout the world. **R. Noyce **co-founded Fairchild Semiconductor in 1957 and Intel Corporation in 1968.
+In 1959, **R. Noyce** of the Fairchild Corporation, six months after Kilby's success, produced **the first silicon planar IC based on Jean A. Hoerni's planer technology**, thereby rendering the concept commercially viable. **The semiconductor planar process and IC led to the present IC industry**, which today supplies a wide and growing variety of advanced semiconductor products used throughout the world. **R. Noyce **co-founded Fairchild Semiconductor in 1957 and Intel Corporation in 1968.
 
 Kilby won the 2000 Nobel Prize in Physics for his part in the invention of the integrated circuit, while R. Noyce died from a heart attach at the age of 62 on June 6th, 1990.
 
