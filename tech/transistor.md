@@ -8,11 +8,11 @@ The first recorded effect that can be ascribed to semiconductor behaviour was th
 
 ### Point-contact transistor
 
-> The first transistor was constructed on 23rd December, 1947 at Bell Laboratories by W.H. Brattain and J. Bardeen and announced to the press on 1stJuly, 1948, although patent application had beenfiledin February, 1948.It was of a type which later became known as 'point contact' because of its form of construction.
+> The first transistor was constructed on 23rd December, 1947 at Bell Laboratories by W.H. Brattain and J. Bardeen and announced to the press on 1st July, 1948, although patent application had beenfiledin February, 1948. It was of a type which later became known as 'point contact' because of its form of construction.
 >
 > The invention of the point-contact transistor was the indirect result of a failure to produce a successful field effect device.
 
-### Bipolar Junction transistor \(BJT\)
+### Bipolar junction transistor \(BJT\)
 
 > Although the point-contact transistor was the first in the field, the junction transistor possessed far greater potential. This device was invented by W. Shockley working at Bell Laboratories and described in a paper published in July 1949, although Shockley names the date of conception of the device as early as 23rd June 1948 and wrote a detailed theoretical analysis in a patent application filed on 26th June 1948.
 >
