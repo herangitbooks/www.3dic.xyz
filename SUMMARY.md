@@ -32,7 +32,7 @@
   * [Through-Glass Vias \(TGVs\)](tech/tgv.md)
   * [Wafer Bonding](tech/wafer-bonding.md)
   * [Wafer Thinning](tech/wafer-thinning.md)
-  * [Appendix: 3D IC History](tech/3dic-history.md)
+  * [Appendix: 3D IC Timeline](tech/3dic-history.md)
   * [Appendix: IEEE Milestones](tech/ieee-milestones.md)
 
 * Products
