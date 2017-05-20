@@ -42,21 +42,28 @@ In two short papers titled "The Theory of Electronic Semi-Conductors \(I and II\
 
 ## Planar Transistor Process
 
-The invention of the planar technology was built upon the original work of several other people done earlier, the planar transistor process was patented by **Jean A. Hoerni** of the Fairchild Corporation in 1959, and first described in Europe by V.H. Grinich and J.A. Hoerni in February 1961. **This invention opened up the prospect of successful metal-oxide-silicon field-effect transistor \(MOSFET\) and integrated circuit \(IC\) manufacture.**
 
 ## Integrated Circuit \(IC\)
 
-On 12 September 1958, Jack S. Kilby demonstrated the first working integrated circuit (consisted of a phase shift oscillator circuit on mesa germanium) to managers at Texas Instruments. This was the first time electronic components were integrated onto a single substrate. Kilby’s reduction to practice of his invention was that of a hybrid IC (using mesa fabrication and isolation techonology instead of planar technology, germanium instead of silicon, and gold wire-bonds interconnects instead of  on-chip interconnects), not a monolithic IC.
+On 12 September 1958, Jack S. Kilby demonstrated the first working integrated circuit (consisted of a phase shift oscillator circuit on mesa germanium) to managers at Texas Instruments (TI). This was the first time electronic components were integrated onto a single substrate. Kilby’s reduction to practice of his invention was that of a hybrid IC (using mesa fabrication and isolation techonology instead of planar technology, germanium instead of silicon, and gold wire-bonds interconnects instead of  on-chip interconnects), not a monolithic IC.
 
-In 1959, **R. Noyce** of the Fairchild Corporation, six months after Kilby's success, produced **the first silicon planar IC based on Jean A. Hoerni's planer technology**, thereby rendering the concept commercially viable. **The semiconductor planar process and IC led to the present IC industry**, which today supplies a wide and growing variety of advanced semiconductor products used throughout the world. **R. Noyce **co-founded Fairchild Semiconductor in 1957 and Intel Corporation in 1968.
+Six weeks after TI had gone public with Kilby’s invention, [Kurt Lehovec](https://en.wikipedia.org/wiki/Kurt_Lehovec) of the Sprague Electric Co designed an IC whose components were isolated by p-n junctions, and filed a patent ([US3029366 A](https://www.google.com/patents/US3029366)) on April 22 1959.
+
+Built upon the original work of several other people done earlier, the planar transistor process was patented ([US3025589 A](https://www.google.com/patents/US3025589)) by **Jean A. Hoerni** of the Fairchild Corporation in May 1 1959, and first described in Europe by V.H. Grinich and J.A. Hoerni in February 1961. **This invention opened up the prospect of successful metal-oxide-silicon field-effect transistor \(MOSFET\) and integrated circuit \(IC\) manufacture.**
+
+>![](/img/US3025589-0.png)
+> Planar transistors were made in batches on silicon wafers by silicon dioxide coating, etching, impurity doping, and aluminum wires attach.
+> Jean A Hoerni, "Method of manufacturing semiconductor devices", US Patent [US3025589 A](https://www.google.com/patents/US3025589), filed 1959 May 1.
+
+In 1959, **R. Noyce** of the Fairchild Corporation, six months after Kilby's success, produced **the first silicon planar IC based on Jean A. Hoerni's planer technology and Lehovec’s p-n junctions**, thereby rendering the concept commercially viable. **The semiconductor planar process and IC led to the present IC industry**, which today supplies a wide and growing variety of advanced semiconductor products used throughout the world. **R. Noyce **co-founded Fairchild Semiconductor in 1957 and Intel Corporation in 1968.
 
 Table I. Key requirements for making monolithic IC and whether or not they were met by Kilby and Noyce in their respective inventions.
 
 | Key requirements for making IC | Kilby                | Noyce                  |
 | :----------------------------- | :------------------- | :--------------------- |
-| Monolithic IC                  | Yes                  | Yes                    |
+| Devices fabricated on one substrate | Yes                  | Yes                    |
 | Planar device fabrication      | No (mesa Ge)         | **Yes (Planar Si invented by Hoerni in 1959)**    |
-| Planar device isolation        | No (mesa)            | **Yes (p-n junction invented by Lehovec in 1959)** |
+| Planar device isolation        | No (mesa)            | **Yes (p-n junction isolation invented by Lehovec in 1959)** |
 | Planar device interconnections | No (Gold wire bonds) | **Yes (Aluminum)**     |
 
 
