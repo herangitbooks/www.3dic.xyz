@@ -85,7 +85,7 @@ On 18 June 1963, the first CMOS circuit combining p-channel and n-channel MOS tr
 
 ## High-k/metal-gate MOSFET
 
-## Multi-gate MOSFET \(FinFET\)
+## Multi-gate MOSFET \(Tri-gate FinFET\)
 
 ## SOI MOSFET
 
