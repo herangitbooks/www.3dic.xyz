@@ -52,7 +52,9 @@ Six weeks after TI had gone public with Kilby’s invention, [Kurt Lehovec](http
 Built upon the original work of several other people done earlier, the planar transistor process was patented ([US3025589 A](https://www.google.com/patents/US3025589)) by **Jean A. Hoerni** of the Fairchild Corporation in May 1 1959, and first described in Europe by V.H. Grinich and J.A. Hoerni in February 1961. **This invention opened up the prospect of successful metal-oxide-silicon field-effect transistor \(MOSFET\) and integrated circuit \(IC\) manufacture.**
 
 >![](/img/US3025589-0.png)
+>
 > Planar transistors were made in batches on silicon wafers by silicon dioxide coating, etching, impurity doping, and aluminum wires attach.
+>
 > Jean A Hoerni, "Method of manufacturing semiconductor devices", US Patent [US3025589 A](https://www.google.com/patents/US3025589), filed 1959 May 1.
 
 In 1959, **R. Noyce** of the Fairchild Corporation, six months after Kilby's success, produced **the first silicon planar IC based on Jean A. Hoerni's planer technology and Lehovec’s p-n junctions**, thereby rendering the concept commercially viable. **The semiconductor planar process and IC led to the present IC industry**, which today supplies a wide and growing variety of advanced semiconductor products used throughout the world. **R. Noyce **co-founded Fairchild Semiconductor in 1957 and Intel Corporation in 1968.
