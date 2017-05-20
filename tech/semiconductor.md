@@ -46,19 +46,19 @@ The planar transistor process was invented by **Jean A. Hoerni** of the Fairchil
 
 ## Integrated Circuit \(IC\)
 
-On 12 September 1958, Jack S. Kilby demonstrated the first working integrated circuit to managers at Texas Instruments. This was the first time electronic components were integrated onto a single substrate. This seminal device consisted of a phase shift oscillator circuit on a tiny bar of **germanium**.
+On 12 September 1958, Jack S. Kilby demonstrated the first working integrated circuit (consisted of a phase shift oscillator circuit on mesa germanium) to managers at Texas Instruments. This was the first time electronic components were integrated onto a single substrate.
 
 In 1959, **R. Noyce** of the Fairchild Corporation, six months after Kilby's success, produced **the first silicon planar IC based on Jean A. Hoerni's planer technology**, thereby rendering the concept commercially viable. **The semiconductor planar process and IC led to the present IC industry**, which today supplies a wide and growing variety of advanced semiconductor products used throughout the world. **R. Noyce **co-founded Fairchild Semiconductor in 1957 and Intel Corporation in 1968.
 
-Kilby won the 2000 Nobel Prize in Physics for his part in the invention of the integrated circuit, while R. Noyce died from a heart attach at the age of 62 on June 6th, 1990.
-
-
-
-Table I. Key requirements for making the monolithic-IC and whether or not they were met by Kilby and Noyce in their respective inventions.
-
-| Key requirements for making the IC | Kilby | Noyce |
+Table I. Key requirements for making monolithic IC and whether or not they were met by Kilby and Noyce in their respective inventions.
+| Key requirements for making IC | Kilby | Noyce |
 | :--- | :--- | :--- |
-| 1 | 2 | 3 |
+| Monolithic IC| Yes | Yes |
+| Planar device fabrication | No (mesa Ge) | Yes (Planar Si) |
+| Planar device isolation | No (mesa) | Yes (p-n junction) |
+| Planar device interconnections | No ((Gold wire bonds)) | Yes (Aluminum)|
+
+Kilby won the 2000 Nobel Prize in Physics for his part in the invention of the integrated circuit, while R. Noyce died from a heart attach at the age of 62 on June 6th, 1990.
 
 ## Metal-Oxide-Semiconductor FET \(MOSFET\) and CMOS FET
 
