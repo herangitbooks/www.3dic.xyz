@@ -1,7 +1,7 @@
 ---
 tags: >-
-  H-containing HCOOH vapor, metal bonding, thermal-compression bonding,
-  sintering
+  H-containing HCOOH vapor, Metal Bonding, Thermal-Compression Bonding (TCB),
+  Sintering
 ---
 
 # Superconductor Joints
