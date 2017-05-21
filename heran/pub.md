@@ -2,27 +2,27 @@
 
 ### Journal Papers
 
-\[1\]    **Ran He**, Masahisa Fujino, Sakai Taiji, Sakuyama Seiki, and Tadatomo Suga, Cu/Adhesive Hybrid Bonding By Using H-containing HCOOH Vapor Treatment at sub-200 °C. _Applied Surface Science_, Vol. 414, pp. 163–170, August, 2017. doi: [10.1016/j.apsusc.2017.03.168](/dx.doi.org/10.1016/j.apsusc.2017.03.168) \([pdf](http://www.3dic.org/images/5/54/2017_He._H-containing_HCOOH_vapor_treatment_for_hybrid_bonding.pdf)\)
+\[1\]    **Ran He**, Masahisa Fujino, Sakai Taiji, Sakuyama Seiki, and Tadatomo Suga, Cu/Adhesive Hybrid Bonding By Using H-containing HCOOH Vapor Treatment at sub-200 °C. _Applied Surface Science_, Vol. 414, pp. 163–170, August, 2017. doi: [10.1016/j.apsusc.2017.03.168](http://dx.doi.org/10.1016/j.apsusc.2017.03.168) \([pdf](http://www.3dic.org/images/5/54/2017_He._H-containing_HCOOH_vapor_treatment_for_hybrid_bonding.pdf)\)
 
-\[2\]    **Ran He**, Masahisa Fujino, Akira Yamauchi, Yinghui Wang, and Tadatomo Suga. Combined Surface Activated Bonding Technique for Low-Temperature Cu/Dielectric Hybrid Bonding. _ECS Journal of Solid State Science and Technology_, Vol. 5, No. 7, pp. P419–P424, May, 2016. doi: [10.1149/2.0201607jss](/dx.doi.org/10.1149/2.0201607jss) \([pdf](http://www.3dic.org/images/4/4d/2016_He_Combined_Surface_Activated_Bonding_For_Cu_Dielectric_Hybrid_Bonding.pdf)\)
+\[2\]    **Ran He**, Masahisa Fujino, Akira Yamauchi, Yinghui Wang, and Tadatomo Suga. Combined Surface Activated Bonding Technique for Low-Temperature Cu/Dielectric Hybrid Bonding. _ECS Journal of Solid State Science and Technology_, Vol. 5, No. 7, pp. P419–P424, May, 2016. doi: [10.1149/2.0201607jss](http://dx.doi.org/10.1149/2.0201607jss) \([pdf](http://www.3dic.org/images/4/4d/2016_He_Combined_Surface_Activated_Bonding_For_Cu_Dielectric_Hybrid_Bonding.pdf)\)
 
-\[3\]    **Ran He**, Masahisa Fujino, Akira Yamauchi, and Tadatomo Suga. Combined Surface-Activated Bonding Technique for Low-Temperature Hydrophilic Direct Wafer Bonding. _Japanese Journal of Applied Physics_, Vol. 55, No. 4S, pp. 04EC02-1–04EC02-5, April, 2016. doi: [10.7567/JJAP.55.04EC02](/dx.doi.org/10.7567/JJAP.55.04EC02)
+\[3\]    **Ran He**, Masahisa Fujino, Akira Yamauchi, and Tadatomo Suga. Combined Surface-Activated Bonding Technique for Low-Temperature Hydrophilic Direct Wafer Bonding. _Japanese Journal of Applied Physics_, Vol. 55, No. 4S, pp. 04EC02-1–04EC02-5, April, 2016. doi: [10.7567/JJAP.55.04EC02](http://dx.doi.org/10.7567/JJAP.55.04EC02)
 
-\[4\]    **Ran He**, Masahisa Fujino, Akira Yamauchi, and Tadatomo Suga. Novel Hydrophilic SiO2 Wafer Bonding Using Combined Surface-Activated Bonding Technique. _Japanese Journal of Applied Physics_, Vol. 54, No. 3, pp. 030218-1–030218-1-5, March, 2015. doi: [10.7567/JJAP.54.030218](/dx.doi.org/10.7567/JJAP.54.030218)
+\[4\]    **Ran He**, Masahisa Fujino, Akira Yamauchi, and Tadatomo Suga. Novel Hydrophilic SiO2 Wafer Bonding Using Combined Surface-Activated Bonding Technique. _Japanese Journal of Applied Physics_, Vol. 54, No. 3, pp. 030218-1–030218-1-5, March, 2015. doi: [10.7567/JJAP.54.030218](http://dx.doi.org/10.7567/JJAP.54.030218)
 
-\[5\]    **Ran He**, Huijuan Wang, Daquan Yu, Jing Zhou, Fengwei Dai, Chongshen Song, Yu Sun, and Lixi Wan. High-speed through-silicon via filling method using Cu-cored solder balls. _J. Semicond._, vol. 33, no. 8, pp. 086002-1–086002-4, Aug. 2012. doi: [10.1088/1674-4926/33/8/086002](/dx.doi.org/10.1088/1674-4926/33/8/086002)
+\[5\]    **Ran He**, Huijuan Wang, Daquan Yu, Jing Zhou, Fengwei Dai, Chongshen Song, Yu Sun, and Lixi Wan. High-speed through-silicon via filling method using Cu-cored solder balls. _J. Semicond._, vol. 33, no. 8, pp. 086002-1–086002-4, Aug. 2012. doi: [10.1088/1674-4926/33/8/086002](http://dx.doi.org/10.1088/1674-4926/33/8/086002)
 
 ### Co-authored Journal Papers
 
 \[6\]   Fengwen Mu, Kenichi Iguchi, Haruo Nakazawa, Yoshikazu Takahashi, **Ran He**, Masahisa Fujino, and Tadatomo Suga. Room Temperature SiC-SiO2 Wafer Bonding Enhanced by Using an Intermediate Si Nano Layer, _ECS J. Solid State Sci. Technol._, vol. 6, no. 5, pp. P227–P230, Jan. 2017. Available: [http://dx.doi.org/10.1149/2.0081705jss](http://dx.doi.org/10.1149/2.0081705jss)
 
-\[7\]    Fengwen Mu, Kenichi Iguchi, Haruo Nakazawa, Yoshikazu Takahashi, Masahisa Fujino, **Ran He**, and Tadatomo Suga. A comparison study: Direct wafer bonding of SiC–SiC by standard surface-activated bonding and modified surface-activated bonding with Si-containing Ar ion beam. _Applied Physics Express_, vol. 9, no. 8, pp. 081302-1–081302-4, Aug. 2016. doi: [10.7567/APEX.9.081302](/dx.doi.org/10.7567/APEX.9.081302)
+\[7\]    Fengwen Mu, Kenichi Iguchi, Haruo Nakazawa, Yoshikazu Takahashi, Masahisa Fujino, **Ran He**, and Tadatomo Suga. A comparison study: Direct wafer bonding of SiC–SiC by standard surface-activated bonding and modified surface-activated bonding with Si-containing Ar ion beam. _Applied Physics Express_, vol. 9, no. 8, pp. 081302-1–081302-4, Aug. 2016. doi: [10.7567/APEX.9.081302](http://dx.doi.org/10.7567/APEX.9.081302)
 
-\[8\]    Huijuan Wang, Lixi Wan, Daquan Yu, Daniel Guidotti, **Ran He**, Fengwei Dai, Liqiang Cao, Xia Zhang, Ning Zhao, and Xueping Guo. Three-dimensional PN junction capacitor for passive integration. _Applied Physics Letters_, vol. 99, no. 5, pp. 052104-1–052104-3, Aug. 2011. doi: [10.1063/1.3610489](/dx.doi.org/10.1063/1.3610489)
+\[8\]    Huijuan Wang, Lixi Wan, Daquan Yu, Daniel Guidotti, **Ran He**, Fengwei Dai, Liqiang Cao, Xia Zhang, Ning Zhao, and Xueping Guo. Three-dimensional PN junction capacitor for passive integration. _Applied Physics Letters_, vol. 99, no. 5, pp. 052104-1–052104-3, Aug. 2011. doi: [10.1063/1.3610489](http://dx.doi.org/10.1063/1.3610489)
 
 ### Book Chapter
 
-\[9\]    Tadatomo Suga, **Ran He**, George Vakanas, Antonio La Manna, “Direct Cu to Cu Bonding and Other Alternative Bonding Techniques in 3D Packaging,” in 3D Microelectronic Packaging, Y. Li and D. Goyal, Eds. Springer International Publishing, 2017, pp. 129–155. doi: [10.1007/978-3-319-44586-1\_6](/dx.doi.org/10.1007/978-3-319-44586-1_6)
+\[9\]    Tadatomo Suga, **Ran He**, George Vakanas, Antonio La Manna, “Direct Cu to Cu Bonding and Other Alternative Bonding Techniques in 3D Packaging,” in 3D Microelectronic Packaging, Y. Li and D. Goyal, Eds. Springer International Publishing, 2017, pp. 129–155. doi: [10.1007/978-3-319-44586-1\_6](http://dx.doi.org/10.1007/978-3-319-44586-1_6)
 
 ### International Conference Papers/Presentations
 
