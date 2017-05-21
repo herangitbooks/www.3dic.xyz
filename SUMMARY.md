@@ -11,7 +11,7 @@
   * [Cu Microparticles Sintering](heran/Cu-microparticles-sintering.md)
   * [Superconductor Joints](heran/superconductor-joints.md)
 
-## SAB Technology
+## Introduction to SAB Technology
 
 * [Overview](sab/sab.md)
 * [Standard SAB](sab/standard-sab.md)
