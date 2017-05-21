@@ -48,7 +48,7 @@
 
 ### Ph.D., Oct. 2012 — May 2016
 
-Department of Precision Engineering, School of Engineering, **The University of Tokyo**, Tokyo, Japan
+Department of Precision Engineering, School of Engineering, **[The University of Tokyo](http://www.pe.t.u-tokyo.ac.jp/en/index.html)**, Tokyo, Japan
 
 Supervisor: [Tadamoto Suga](http://www.su.t.u-tokyo.ac.jp/en/03-kyouinn-cv/suga-cv.html)
 
@@ -60,7 +60,7 @@ Supervisor: [Tadamoto Suga](http://www.su.t.u-tokyo.ac.jp/en/03-kyouinn-cv/suga-
 
 ### Master, Sep. 2009 — Jul. 2012
 
-Institute of Microelectronics, **Chinese Academy of Sciences (CAS)**, Beijing, China
+**[Institute of Microelectronics, Chinese Academy of Sciences (CAS)](http://english.ime.cas.cn)**, Beijing, China
 
 Supervisor: Daquan Yu
 
@@ -71,7 +71,7 @@ Supervisor: Daquan Yu
 
 ### Bachelor, Sep. 2005 — Jul. 2009
 
-Department of Electronic Science and Technology, **Huazhong University of Science and Technology (HUST)**, Wuhan, China
+Department of Electronic Science and Technology, **[Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn)**, Wuhan, China
 
 One year of experience with Barium Strontium Titanate \(Ba1-xSrxTiO3, BST\) ferroelectric ceramics and SnO2 gas sensor research and development.
 
