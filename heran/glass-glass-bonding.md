@@ -13,7 +13,11 @@ Direct and indirect bonding of oxide films at below 200 °C and even at room tem
 
 ## Low-temperature Direct Bonding
 
-Plasma activation is used to enable glass-glass direct bonding at room temperature. Great bond strength can be obtained after post-bonding annealing at 150-200 °C.
+Plasma activation is used to enable glass-glass direct bonding. Great bond strength can be obtained after post-bonding annealing at 150-200 °C.
+
+>![](/img/sequential-plasma-activation.png)
+>
+>Fig. 1. Sequential Plasma Activation
 
 ## Room-temperature Indirect Bonding Using Si Nano-Intermediate Layer
 
