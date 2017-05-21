@@ -1,3 +1,4 @@
+# Glossary
 
 ## HCOOH
 Formic acid, systemically named methanoic acid, is the simplest carboxylic acid. The chemical formula is HCOOH or HCO2H.
