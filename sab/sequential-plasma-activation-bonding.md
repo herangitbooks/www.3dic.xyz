@@ -1,3 +1,6 @@
+---
+tags: 'Hydrophilic Bonding, Surface Activated Bonding (SAB), Sequential Plasma Activation Bonding, Sub-200 °C'
+---
 # Sequential Plasma Activation Bonding
 In the sequential plasma activation bonding method, plasma and N radical activations are used sequentially to activate wafer surfaces before bonding at room temperature.
 
