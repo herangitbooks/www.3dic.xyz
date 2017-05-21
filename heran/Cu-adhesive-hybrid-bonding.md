@@ -1,7 +1,6 @@
 ---
 tags: >-
-  Cu-Cu, hybrid bonding, H-containing HCOOH vapor, surface activated bonding
-  (SAB), sub-200 °C, thermal-compression bonding
+  Cu-Cu, Hybrid bonding, H-containing HCOOH vapor, Surface Activated Bonding (SAB), Sub-200 °C, Thermal-Compression Bonding (TCB)
 ---
 
 # Cu/Adhesive Hybrid Bonding at Sub-200 °C for 3D IC Integration
