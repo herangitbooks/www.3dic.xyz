@@ -1,5 +1,5 @@
 ---
-tags: 'Cu-Cu, surface activated bonding (SAB), standard SAB'
+tags: 'Cu-Cu, Surface Activated Bonding (SAB), Standard SAB, Direct Bonding'
 ---
 
 # Standard SAB for Room-temperature Bonding of Semiconductors and Metals
