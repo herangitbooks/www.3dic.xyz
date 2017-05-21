@@ -1,5 +1,5 @@
 ---
-tags: 'H-containing HCOOH vapor, metal bonding, thermal-compression bonding'
+tags: 'H-containing HCOOH vapor, Metal Bonding, Thermal-Compression Bonding (TCB), Direct Bonding'
 ---
 
 # Direct Die Attach \(Cu-Cu and Au-Cu bonding\)
