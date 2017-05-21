@@ -10,9 +10,9 @@
 
 ## EXPERIENCE
 
-### Project Researcher, The University of Tokyo, Japan, Jul. 2016 — Present
+### Project Researcher, Jul. 2016 — Present
 
-Department of Precision Engineering, School of Engineering, The University of Tokyo, Tokyo, Japan
+**Department of Precision Engineering, School of Engineering, The University of Tokyo, Tokyo, Japan**
 
 **Research Subjects**:
 
@@ -28,9 +28,9 @@ Department of Precision Engineering, School of Engineering, The University of To
 
 6. [Superconductor Joints](/en/superconductor-joints.md) by Cu-Cu bonding
 
-### Technical Assistant, The University of Tokyo, Japan, Oct. 2015 — Jun. 2016
+### Technical Assistant, Oct. 2015 — Jun. 2016
 
-Department of Precision Engineering, School of Engineering, The University of Tokyo, Tokyo, Japan
+**Department of Precision Engineering, School of Engineering, The University of Tokyo, Tokyo, Japan**
 
 **Research Subjects**: Combined surface activation approaches for
 
