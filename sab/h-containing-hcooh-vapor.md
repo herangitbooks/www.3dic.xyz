@@ -7,4 +7,6 @@ tags: >-
 
 
 ## Cu/Adhesive Hybrid Bonding at Sub-200 °C for 3D IC Integration
-see [Cu/Adhesive Hybrid Bonding at Sub-200 °C for 3D IC Integration](/heran/Cu-adhesive-hybrid-bonding.html)
+See [Cu/Adhesive Hybrid Bonding at Sub-200 °C for 3D IC Integration](/heran/Cu-adhesive-hybrid-bonding.html)
+
+> ##### ![](/img/Cu-first-hybrid-bonding-in-hcooh-vapor.png)  Figure 1. Process flow of the Cu-first hybrid bonding conducted in H-containing HCOOH vapor ambient.
