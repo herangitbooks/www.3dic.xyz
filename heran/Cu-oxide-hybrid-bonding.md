@@ -1,7 +1,6 @@
 ---
 tags: >-
-  Cu-Cu, hybrid bonding, hydrophilic bonding, SiO2-SiO2, SiO2-SiNx, surface
-  activated bonding (SAB), sub-200 °C,
+  Cu-Cu, Hybrid Bonding, Hydrophilic Bonding, SiO2-SiO2, SiO2-SiNx, Surface Activated Bonding (SAB), Sub-200 °C,
 ---
 
 # Cu/SiO2 Hybrid Bonding at 200 °C for 3D IC
