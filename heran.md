@@ -37,11 +37,20 @@ Department of Precision Engineering, School of Engineering, The University of To
 1. Dielectric \(SiO2-SiO2 and SiO2-SiNx\) bonding and
 2. Cu/dielectric \(SiO2, SiNx, polymer adheisve\) hybrid bonding for 3D integration.
 
+## SPECIALIZED SKILLS
+
+1. Deep understanding and 5 years hands-on experience in low-temperature wafer bonding \(room temperature to 200 °C\) for semiconductor integration/advanced packaging/3D IC.
+2. 3 years hands-on experience in silicon wet chemical and reactive ion etching, metal film sputter deposition, wafer grinding/thinning, through-silicon via \(TSV\) formation and filling.
+3. Skilled in characterizations by using AFM, XPS, TEM, EDS, SAM, and bond strength measurements, etc.
+4. Fluent English and Chinese \(Mandarin\) in speaking and writing; good teamwork capability.
+
 ## EDUCATION
 
-### Ph.D., The University of Tokyo, Japan, Oct. 2012 — May 2016
+### Ph.D., Oct. 2012 — May 2016
 
-Department of Precision Engineering, School of Engineering, The University of Tokyo, Tokyo, Japan
+Department of Precision Engineering, School of Engineering, **The University of Tokyo**, Tokyo, Japan
+
+Supervisor: [Tadamoto Suga](http://www.su.t.u-tokyo.ac.jp/en/03-kyouinn-cv/suga-cv.html)
 
 **Thesis**: Combined Surface Activation Approaches to Low-Temperature Wafer Bonding for 3D Integration.
 
@@ -49,27 +58,22 @@ Department of Precision Engineering, School of Engineering, The University of To
 2. Chemical/mechanical/electrical/microstructure characterization of the bonding surface/interface, and
 3. Study of mechanisms of the surface activations and bonding.
 
-### M. E., Chinese Academy of Sciences, China, Sep. 2009 — Jul. 2012
+### Master, Sep. 2009 — Jul. 2012
 
-Institute of Microelectronics, Chinese Academy of Sciences, Beijing, China
+Institute of Microelectronics, **Chinese Academy of Sciences (CAS)**, Beijing, China
+
+Supervisor: Daquan Yu
 
 **Research Subjects**:
 
 1. Development of through-silicon vias \(TSVs\) filling process by using Cu-cored solder ball, in charge of the thermal-mechanical simulation, and process planning and running \(photolithography, reactive ion etching, Ti/Cu sputtering deposition, TSV fill, etc.\), 
 2. Si-based 3D PN junction capacitor for passive integration on Si interposer, assisting the process optimizing and testing of the capacitor.
 
-### B. E., Huazhong University of Science and Technology, China, Sep. 2005 — Jul. 2009
+### Bachelor, Sep. 2005 — Jul. 2009
 
-Department of Electronic Science and Technology, Huazhong University of Science and Technology, Wuhan, China
+Department of Electronic Science and Technology, **Huazhong University of Science and Technology (HUST)**, Wuhan, China
 
 One year of experience with Barium Strontium Titanate \(Ba1-xSrxTiO3, BST\) ferroelectric ceramics and SnO2 gas sensor research and development.
-
-## SPECIALIZED SKILLS
-
-1. Deep understanding and 5 years hands-on experience in low-temperature wafer bonding \(room temperature to 200 °C\) for semiconductor integration/advanced packaging/3D IC.
-2. 3 years hands-on experience in silicon wet chemical and reactive ion etching, metal film sputter deposition, wafer grinding/thinning, through-silicon via \(TSV\) formation and filling.
-3. Skilled in characterizations by using AFM, XPS, TEM, EDS, SAM, and bond strength measurements, etc.
-4. Fluent English and Chinese \(Mandarin\) in speaking and writing; good teamwork capability.
 
 ## HONORS
 
