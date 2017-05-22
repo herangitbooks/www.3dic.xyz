@@ -53,9 +53,9 @@ I am currently a Project Researcher in Prof. T. Suga's group at the University o
   * [CIS](tech/cis.md)
   * [FPGA](tech/fpga.md)
   * [HBM](tech/hbm.md)
-  * [GPU]((tech/gpu.md))
-  * [DRAM]((tech/dram.md))
-  * [3D-NAND]((tech/3d-nand.md))
+  * [GPU](tech/gpu.md)
+  * [DRAM](tech/dram.md)
+  * [3D-NAND](tech/3d-nand.md)
 
 ---
 
