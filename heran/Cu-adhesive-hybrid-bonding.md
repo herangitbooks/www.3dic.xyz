@@ -43,12 +43,12 @@ Comparing to the “adhesive-first” hybrid bonding, the present Cu-first hybri
 
 > ##### **Table I **Comparison between “Cu-first” and “adhesive-first” hybrid bonding approaches.
 >
-> |  | **Cu-frist hybrid bonding** | **Adhesive-first hybrid bonding ** [^1] |
+> |  | **Cu-frist hybrid bonding** | **Adhesive-first hybrid bonding**[^1] |
 > | :--- | :--- | :--- |
 > | **Cu surface activation** | H-containing HCOOH vapor | None |
 > | **Bonding temperature** | Cu–Cu \(180-200 °C\) ≤ Adhesive \(≤ 250 °C\) | Adhesive \(≤ 250 °C\) &lt; Cu–Cu |
 > | **Thermal stress** | Small | Great |
-> | **Misalignment** | No mutual slip | Mutual slip during adhesive bonding [^2] |
+> | **Misalignment** | No mutual slip | Mutual slip during adhesive bonding[^2] |
 > | **Throughput** | High | Low |
 
 ## **Publication**
