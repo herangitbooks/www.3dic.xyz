@@ -2,7 +2,7 @@
 
 **Çurrent position**: Project Researcher, Department of Precision Engineering, The University of Tokyo
 
-**Ɍesearch interests**: low-temperature bonding \(especially surface activated bonding methods and [Cu/adhesive](/en/Cu-adhesive-hybrid-bonding.md) and [Cu/oxide](/en/Cu-oxide-hybrid-bonding.md) hybrid bonding techniques\),  semiconductor advanced packaging, 3D interconnects, and 3D IC technology
+**Ɍesearch interests**: low-temperature bonding \(especially surface activated bonding methods and [Cu/adhesive](/heran/Cu-adhesive-hybrid-bonding.md) and [Cu/oxide](/heran/Cu-oxide-hybrid-bonding.md) hybrid bonding techniques\),  semiconductor advanced packaging, 3D interconnects, and 3D IC technology
 
 📧 **Ĕ-mail**: [ran.he⟨æt⟩ieee.org](mailto:ran.he@ieee.org), **ẆeChat**: [iherañ](https://www.3dic.xyz/img/wechat.jpg)
 
@@ -16,17 +16,17 @@
 
 **Research Subjects**:
 
-1. [Cu/SiO2 Hybrid Bonding](en/Cu-oxide-hybrid-bonding.md) by [Combined SAB](/sab/combined-sab.md) at sub-200 °C
+1. [Cu/SiO2 Hybrid Bonding](/heran/Cu-oxide-hybrid-bonding.md) by [Combined SAB](/sab/combined-sab.md) at sub-200 °C
 
-2. [Cu/Adhesive Hybrid Bonding at sub-200 °C](/en/Cu-adhesive-hybrid-bonding.md) in [H-containing HCOOH vapor](/sab/h-containing-hcooh-vapor.md) ambient
+2. [Cu/Adhesive Hybrid Bonding at sub-200 °C](/heran/Cu-adhesive-hybrid-bonding.md) in [H-containing HCOOH vapor](/sab/h-containing-hcooh-vapor.md) ambient
 
-3. [Glass-Glass Bonding](/en/glass-glass-bonding.md) by [modified SAB](/sab/modified-sab.md) and [sequential plasma activation bonding](/sab/sequential-plasma-activation-bonding.md)
+3. [Glass-Glass Bonding](/heran/glass-glass-bonding.md) by [modified SAB](/sab/modified-sab.md) and [sequential plasma activation bonding](/sab/sequential-plasma-activation-bonding.md)
 
-4. [Direct Die Attach](/en/direct-die-attach.md) for high-power device packaging by Cu-Cu and Au-Cu bonding
+4. [Direct Die Attach](/heran/die-attach.md) for high-power device packaging by Cu-Cu and Au-Cu bonding
 
-5. [Cu Microparticles Sintering](/en/cu-microparticles-sintering.md)
+5. [Cu Microparticles Sintering](/heran/cu-microparticles-sintering.md)
 
-6. [Superconductor Joints](/en/superconductor-joints.md) by Cu-Cu bonding
+6. [Superconductor Joints](/heran/superconductor-joints.md) by Cu-Cu bonding
 
 ### Technical Assistant, Oct. 2015 — Jun. 2016
 
