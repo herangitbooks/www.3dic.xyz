@@ -7,7 +7,7 @@
   * [Cu/SiO2 Hybrid Bonding](heran/Cu-oxide-hybrid-bonding.md)
   * [Cu/Adhesive Hybrid Bonding](heran/Cu-adhesive-hybrid-bonding.md)
   * [Oxide \(Glass\) Wafer Bonding](heran/glass-glass-bonding.md)
-  * [Direct Die Attach \(Cu-Cu and Au-Cu\)](heran/direct-die-attach.md)
+  * [Direct Die Attach \(Cu-Cu and Au-Cu\)](heran/die-attach.md)
   * [Cu Microparticles Sintering](heran/Cu-microparticles-sintering.md)
   * [Superconductor Joints](heran/superconductor-joints.md)
 
