@@ -21,9 +21,9 @@ Low-temperature Cu-Cu bonding and dielectric-dielectric \(such as SiO2-SiO2\) bo
 2. High-quality \(close to bulk strength\) Cu-Cu, SiO2-SiO2, and SiO2-SiNx bonding has been obtained at 200 °C by the same process,
 3. Si implantation onto SiO2 surface by Si-containing Ar beam irradiation and water management by the prebodning attach-detach are considered to contribute to the improvement.
 
-## Combined SAB for Cu/SiO2 and Cu/SiO2/SiNx Hybrid Bonding
+## 1. Combined SAB for Cu/SiO2 and Cu/SiO2/SiNx Hybrid Bonding
 
-### Si-containing Ar beam {#si-containing-ar-beam}
+### 1.1 Si-containing Ar beam {#si-containing-ar-beam}
 
 Si-containing Ar beam irradiation was used to enable Si-enrichment modification on SiO2 \(Figure 2\(a\)\) and Cu oxide removal without Si deposition on Cu \(Figure 2\(b\)\), thanks to the simultaneous Si subplantation and surface sputtering/resputering effects.
 
@@ -33,13 +33,13 @@ Si-containing Ar beam irradiation was used to enable Si-enrichment modification 
 >
 > ##### Figure 2. Si-containing Ar beam irradiation on SiO2 and Cu surfaces.
 
-### Prebonding Attach-Detach Approach {#prebonding-attach-detach}
+### 1.2 Prebonding Attach-Detach Approach {#prebonding-attach-detach}
 
 _**Prebonding attach-detach**_ refers to to bring two wafers into contact \(aligned\) in air, transport the attached wafer into a vacuum chamber, and detach the wafers before the bonding process in vacuum. This process increases the Si-OH bonding sites on each SiO2/SiNx surfaces, while removes excess H2O \(adsorbed on surfaces in air\) prior to bonding.
 
 > ##### ![](/img/prebonding-attach-detach.png)Figure 3. Process flow of prebodning attach-detach.
 
-## Experimental Results
+## 1.3 Experimental Results
 
 High-strength SiO2-SiO2, SiO2-SiNx, and Cu-Cu bonding was realized at 200 °C by the present combined SAB. Figure 4 shows photos of fracture surfaces of the SiO2-SiNx bonded samples. Si bulk fracture and transfer of films from one side to another implies great bond strength.
 
@@ -52,6 +52,9 @@ The Cu-Cu bonded interface consists of low-O and CuOx \(~6 nm\) interfacial port
 > ![](/img/combined-SAB-low-O-Cu-Cu-interface.jpg)
 >
 > ##### Figure 5. TEM image of Cu-Cu bond interface without oxide interlayer.
+
+## 2. Sequential Plasma Activation Bonding
+
 
 ## **Publications**
 
