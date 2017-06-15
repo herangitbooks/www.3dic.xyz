@@ -39,7 +39,7 @@ _**Prebonding attach-detach**_ refers to to bring two wafers into contact \(alig
 
 > ##### ![](/img/prebonding-attach-detach.png)Figure 3. Process flow of prebodning attach-detach.
 
-## 1.3 Experimental Results
+### 1.3 Experimental Results
 
 High-strength SiO2-SiO2, SiO2-SiNx, and Cu-Cu bonding was realized at 200 °C by the present combined SAB. Figure 4 shows photos of fracture surfaces of the SiO2-SiNx bonded samples. Si bulk fracture and transfer of films from one side to another implies great bond strength.
 
@@ -54,7 +54,13 @@ The Cu-Cu bonded interface consists of low-O and CuOx \(~6 nm\) interfacial port
 > ##### Figure 5. TEM image of Cu-Cu bond interface without oxide interlayer.
 
 ## 2. Sequential Plasma Activation Bonding
+### 2.1 Sequential Plasma Activation
+Two kinds of sequential plasma activaiton methods are newly developed:
+(1) O2-plasma/N2-plasma/N-radical sequential activation; 
+(2) N2-plasma/N-radical sequential activation.
 
+### 2.2 Bonding Results
+Bulk-like SiO2–SiO2 bonding was obtained after room-temperature bonding followed by 150-200 °C.
 
 ## **Publications**
 
