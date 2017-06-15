@@ -56,8 +56,11 @@ The Cu-Cu bonded interface consists of low-O and CuOx \(~6 nm\) interfacial port
 ## 2. Sequential Plasma Activation Bonding
 ### 2.1 Sequential Plasma Activation
 Two kinds of sequential plasma activaiton methods are newly developed:
+
 (1) O2-plasma/N2-plasma/N-radical sequential activation; 
+
 (2) N2-plasma/N-radical sequential activation.
+
 
 ### 2.2 Bonding Results
 Bulk-like SiO2–SiO2 bonding was obtained after room-temperature bonding followed by 150-200 °C.
