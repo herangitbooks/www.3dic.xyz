@@ -1,9 +1,6 @@
 # Welcome
 
 ## About
-
-Hello! I am Ran He. This is my personal website.
-
 I am currently a Project Researcher in Prof. T. Suga's group at the University of Tokyo, with great interests in low-temperature bonding, semiconductor advanced packaging, 3D interconnects, and 3D IC technology. You can find more about me on the following links:
 
 * [Ran He, Ph.D.](/heran.md) \(My resume\)
