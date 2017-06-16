@@ -9,15 +9,15 @@ I am currently a Project Researcher in Prof. T. Suga's group at the University o
 ## Research
 
 ### (A) Surface Activated Bonding \(SAB\) Methods
-Low-temperature wafer bonding is a useful technique for many applications such as three-dimensional integrated circuit (3D IC), heterogeneous integration, micro-electro-mechanical systems (MEMS), photonics/optics, and microfluidics. Many bonding techniques including indirect bonding and direct bonding have been developed for different applications. 
+Low-temperature wafer bonding is a useful technique for many applications such as three-dimensional integrated circuit (3D IC), heterogeneous integration, micro-electro-mechanical systems (MEMS), photonics/optics, and microfluidics. The Surface Activated Bonding \(SAB\) bonding is a technology that uses physical/chemical surface activation processes to reduce the bonding temperature, which is very important to reduce the residual stress due to CTE mismatch of dissimilar materials. Verious SAB methods have been developed for different applications. 
 
-1. Combined SAB. Si-containing Ar beam and prebonding attach-detach procedure was combined to reduce bonding temperature of dielectric (like SiO2 and SiNx) and Cu films to sub-200 °C.
+1. [Combined SAB](/sab/combined-sab.md). Si-containing Ar beam and prebonding attach-detach procedure was combined to reduce bonding temperature of dielectric (like SiO2 and SiNx) and Cu films to sub-200 °C.
 
-2. Modified SAB using Si nano-intermediate layer. Using in situ Ar beam bombardment and Si nano-intermediate layer deposition, bonding of semiconductors and dielectric can be obtained at room temperature.
+2. [Modified SAB](/sab/modified-sab.md) using Si nano-intermediate layer. Using in situ Ar beam bombardment and Si nano-intermediate layer deposition, bonding of semiconductors and dielectric can be obtained at room temperature.
 
-3. Sequential plasma activation bonding. 
+3. [Sequential Plasma Activation Bonding](/sab/sequential-plasma-activation-bonding). Various combinations of O2 plasma, N2 plasma, and N radical activations are investigated for pre-bonding surface activation to improve the bonding energy achieved after post-bonding annealing at sub-200 °C.
 
-4. Low-temperature metal-metal direct bonding in H-containing HCOOH vapor ambient.
+4. [H-containing HCOOH vapor](/sab/h-containing-hcooh-vapor.md) treatment for sub-200 °C metal bonding/sintering.
 
 ### (B) Hydrophilic direct bonding (SiO2–SiO2, SiO2–SiNx, and glass–glass) at sub-200 °C
 To improve the bonding energies of SiO2–SiO2, SiO2–SiNx, glass–glass bonding, we further developed the sequential plasma activation methods for hydrophilic direct bonding based on the existing O2-plasma/N-radical sequential activation. Various sequences of O2 plasma, N2 plasma, and N radical activations are investigated for pre-bonding surface activation to improve the bond strength. We found that the bond energy can be significantly improved to close to the bulk fracture energy by using either the O2-plasma/N2-plasma/N-radical or N2-plasma/N-radical sequential activation.
