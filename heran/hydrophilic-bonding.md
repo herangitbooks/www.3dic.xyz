@@ -2,7 +2,7 @@
 tags: 'Hydrophilic Bonding, Surface Activated Bonding (SAB), Sequential Plasma Activation Bonding, Sub-200 °C'
 ---
 
-# Oxide \(Glass\) Wafer Bonding at 150-200 °C
+# Hydrophilic Bonding at sub-200 °C
 
 ## ➶ Background
 
