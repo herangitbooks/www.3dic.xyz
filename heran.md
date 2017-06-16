@@ -18,13 +18,13 @@
 
 1. Surface Activated Bonding (SAB) Methods
 
-* [Combined SAB](/sab/combined-sab.md). Si-containing Ar beam and prebonding attach-detach procedure was combined to reduce bonding temperature of dielectric (like SiO2 and SiNx) and Cu films to sub-200 °C.
+>* [Combined SAB](/sab/combined-sab.md). Si-containing Ar beam and prebonding attach-detach procedure was combined to reduce bonding temperature of dielectric (like SiO2 and SiNx) and Cu films to sub-200 °C.
 
-* [Modified SAB](/sab/modified-sab.md) using Si nano-intermediate layer. Using in situ Ar beam bombardment and Si nano-intermediate layer deposition, bonding of semiconductors and dielectric can be obtained at room temperature.
+>* [Modified SAB](/sab/modified-sab.md) using Si nano-intermediate layer. Using in situ Ar beam bombardment and Si nano-intermediate layer deposition, bonding of semiconductors and dielectric can be obtained at room temperature.
 
-* [Sequential Plasma Activation Bonding](/sab/sequential-plasma-activation-bonding). Various combinations of O2 plasma, N2 plasma, and N radical activations are investigated for pre-bonding surface activation to improve the bonding energy achieved after post-bonding annealing at sub-200 °C.
+>* [Sequential Plasma Activation Bonding](/sab/sequential-plasma-activation-bonding). Various combinations of O2 plasma, N2 plasma, and N radical activations are investigated for pre-bonding surface activation to improve the bonding energy achieved after post-bonding annealing at sub-200 °C.
 
-* [H-containing HCOOH vapor](/sab/h-containing-hcooh-vapor.md) treatment for sub-200 °C metal bonding/sintering.
+>* [H-containing HCOOH vapor](/sab/h-containing-hcooh-vapor.md) treatment for sub-200 °C metal bonding/sintering.
 
 2. Hydrophilic direct bonding (SiO2–SiO2, SiO2–SiNx, and [glass–glass](/heran/glass-glass-bonding.md)) at sub-200 °C
 
