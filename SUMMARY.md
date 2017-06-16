@@ -13,7 +13,7 @@
   * [H-containing HCOOH Vapor Treatment](sab/h-containing-hcooh-vapor.md)
 
 * Research - Low-temperature Bonding
-  * [Dielectric Bonding](heran/glass-glass-bonding.md)
+  * [Hydrophilic Bonding](heran/hydrophilic-bonding.md)
   * [Cu/SiO2 Hybrid Bonding](heran/Cu-oxide-hybrid-bonding.md)
   * [Cu/Adhesive Hybrid Bonding](heran/Cu-adhesive-hybrid-bonding.md)
 
