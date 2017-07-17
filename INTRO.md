@@ -1,7 +1,7 @@
 # Welcome
 
 ## About
-I am currently a Project Researcher in Prof. T. Suga's group at the University of Tokyo, with great interests in low-temperature bonding, semiconductor advanced packaging, 3D interconnects, and 3D IC technology. You can find more about me on the following links:
+I am Ran He, a project researcher in Prof. T. Suga's group at the University of Tokyo, with great interests in low-temperature bonding, semiconductor advanced packaging, 3D interconnects, and 3D IC technology. You can find more about me on the following links:
 
 * [Ran He, Ph.D.](/heran.md) \(My resume\)
 * [List of Publications](heran/pub.md)
