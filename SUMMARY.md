@@ -15,12 +15,11 @@
   * [H-containing HCOOH Vapor Treatment](sab/h-containing-hcooh-vapor.md)
 
 * Low-temperature Bonding
-  * [Hydrophilic Bonding](heran/hydrophilic-bonding.md)
-  * [Cu/SiO2 Hybrid Bonding](heran/Cu-oxide-hybrid-bonding.md)
-  * [Cu/Adhesive Hybrid Bonding](heran/Cu-adhesive-hybrid-bonding.md)
+  * [Hydrophilic Bonding](bonding/hydrophilic-bonding.md)
+  * [Cu/SiO2 Hybrid Bonding](bonding/Cu-oxide-hybrid-bonding.md)
+  * [Cu/Adhesive Hybrid Bonding](bonding/Cu-adhesive-hybrid-bonding.md)
 
 ## © www.3DIC.xyz
 
 * [Index](tags.md)
 * [Interesting Links](links.md)
-
