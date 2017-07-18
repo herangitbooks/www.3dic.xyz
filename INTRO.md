@@ -3,10 +3,10 @@
 ## About
 I am Ran He, a project researcher in Prof. T. Suga's group at the University of Tokyo, with great interests in low-temperature bonding, semiconductor advanced packaging, 3D interconnects, and 3D IC technology. You can find more about me on the following links:
 
-* [Ran He, Ph.D.](/heran.md) \(My resume\)
-* [List of Publications](heran/pub.md)
+* [My resume](https://he.ran.im/resume.html)
+* [List of Publications](https://he.ran.im/pub.html)
 
-## Research
+## My Research
 
 ### (A) Surface Activated Bonding \(SAB\) Methods
 Low-temperature wafer bonding is a useful technique for many applications such as three-dimensional integrated circuit (3D IC), heterogeneous integration, micro-electro-mechanical systems (MEMS), photonics/optics, and microfluidics. The Surface Activated Bonding \(SAB\) bonding is a technology that uses physical/chemical surface activation processes to reduce the bonding temperature, which is very important to reduce the residual stress due to CTE mismatch of dissimilar materials. Verious SAB methods have been developed for different applications. 
